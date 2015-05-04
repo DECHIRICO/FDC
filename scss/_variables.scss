@@ -1,0 +1,23 @@
+// VARIABLES
+
+
+$image-path		:	"../gfx/";
+$testing		:	#FFEC98;
+$white			:	#FFFFFF;
+
+// Descriptive color variables
+
+$regent-st-blue : #add8e6;
+$river-bed      : #48525c;
+$yellow-orange  : #ffa949;
+
+// Functional color variables
+
+$color-border-light : lighten($white, 35%);
+$color-border-dark  : $yellow-orange;
+
+$color-link-default : $yellow-orange;
+$color-link-visited : $yellow-orange;
+
+$color-shadow       : rgba($yellow-orange,.8);
+$color-body         : $white;
