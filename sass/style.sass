@@ -3,28 +3,25 @@ $font-thin: 200
 $primary-color: #333
 $link-active: #d0d2d4
 
+html,body
+  height: 100%
+
 body
-  font:  10px/1.6em $font-stack, serif
+  margin: 0px
+  padding: 0px
+  font:  0.6em/1.6em $font-stack, serif
   color: #B9C8CF
-  background: #151515
+  background-color: #1e2529
   font-weight: $font-thin
   text-rendering: optimizeLegibility
-  float: left
-  margin: 0
-  padding: 0
+  display: flex
+  align-items: center
+  justify-content: center
 
-#container
-  bottom: 0
-  left: 0
-  top: -2.6em
-  right: 0
-  margin: auto
-  padding: 4.4em
-  position: absolute
-  max-width: 250px
+.container
+  max-width: 400px
   max-height: 308px
-  width: 100%
-  height: 100%
+  width: 300px
 
 h1
   font-family: $font-stack
@@ -32,23 +29,11 @@ h1
   font-weight: lighter
   line-height: 1.2em
   letter-spacing: 0.1em
-  padding: 0
-  margin: 0
   float: left
   width: 100%
-  max-width: 250px
   color: #d0d2d4
-  margin-bottom: 15px
-
 
 .content
-  width: 100%
-  min-width: 350px
-  max-width: 350px
-  float: left
-  padding: 0
-  margin-left: 5px
-  -webkit-font-smoothing: antialiased
 
   a:hover
     color: #98C1DB
@@ -97,7 +82,17 @@ ul li:before
   a
   color: #98C1DB
 
-@media (max-width: 600px)
+@media (max-width: 768px)
 
-#container
-  display: none
+  body
+    font-size: 0.7em
+    -webkit-transition: all 0.3s ease
+    -moz-transition: all 0.3s ease
+    -o-transition: all 0.3s ease
+    -ms-transition: all 0.3s ease
+
+  li
+    padding-bottom: 3px
+
+  // body
+  //   background-color: blue
