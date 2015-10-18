@@ -3,108 +3,96 @@ $font-thin: 200
 $primary-color: #333
 $link-active: #d0d2d4
 
-// Pixel to percentage formula
-// target / context = result
-
-
-/* Page Styles
-
-*
-  -moz-box-sizing: border-box
-  box-sizing: border-box
-
-body
-  font: normal 1em/1.5 sans-serif
-  color: #222
-  background-color: #edeff0
+html,body
   height: 100%
 
-img
+body
+  margin: 0px
+  padding: 0px
+  font:  0.6em/1.6em $font-stack, serif
+  color: #B9C8CF
+  background-color: #1e2529
+  font-weight: $font-thin
+  text-rendering: optimizeLegibility
+  display: flex
+  align-items: center
+  justify-content: center
 
-/* Grid-overlay
+.container
+  max-width: 400px
+  max-height: 308px
+  width: 300px
 
-// .grid-overlay
-//   top: 0
-//   position: fixed
-//   z-index: 1
-//   width: 100%
-//   max-width: 1200px
-//
-//
-// .grid-overlay	> [class^="grid-"]
-//   background-color: rgba(112, 112, 112, 0.50)
-//   text-align: center
-//   color: rgba(112, 112, 112, 1.0)
-//   font-size: 0.8em
-//   padding: 10px
+h1
+  font-family: $font-stack
+  font-size: 3.2em
+  font-weight: lighter
+  line-height: 1.2em
+  letter-spacing: 0.1em
+  float: left
+  width: 100%
+  color: #d0d2d4
 
-/* Main Layout Styles
+.content
 
-.main-header
-  padding-top: 10px
-  padding-bottom: 10px
-  background-color: #384047
+  a:hover
+    color: #98C1DB
 
-.main-logo
-  margin-top: 0
-  margin-bottom: 0
-  font-size: 1.5em
+  a:active, a:focus
+    color: #98C1DB
 
-.main-logo a,
-.main-nav a
-  display: block
-  text-align: center
-  border-radius: 5px
-  color: white
-  text-decoration: none
-  padding: 10px 20px
+  a
+    text-decoration: none
+    color: $link-active
+    padding-bottom: 1px
+    -webkit-transition: color 0.3s ease-in-out
+    -moz-transition: color 0.3s ease-in-out
+    -ms-transition: color 0.3s ease-in-out
+    -o-transition: color 0.3s ease-in-out
+    transition: color 0.3s ease-in-out
 
-.main-logo a
-  // background-color: #5fcf80
+  p
+    font-size: 1.6em
+    line-height: 1.4em
+    padding: 0
+    margin: 0 auto 1em
+    color: #819199
 
-.main-nav a
-  // background-color: #3f8abf
+  ul
+    font-size: 1.6em
+    line-height: 1.5625em
+    padding: 0
+    margin: 0
 
-.main-footer
-  text-align: center
-  margin-top: 30px
-  padding-top: 5px
-  padding-bottom: 5px
-  background-color: #b7c0c7
+    ul li
+    padding: 0
+    margin: 0
+    list-style-position: outside
+    list-style: none
 
+    li
+    padding-left: 20px
 
-// Main Layout Styles
+ul li:before
+  content: "/"
+  position: absolute
+  margin-left: -20px
+  color: $link-active
 
-@media (min-width: 768px)
+  a
+  color: #98C1DB
+
+@media (max-width: 768px)
 
   body
-    padding-top: 75px
+    font-size: 0.7em
+    -webkit-transition: all 0.3s ease
+    -moz-transition: all 0.3s ease
+    -o-transition: all 0.3s ease
+    -ms-transition: all 0.3s ease
 
-  .main-header
-    position: fixed
-    top: 0
-    width: 100%
+  li
+    padding-bottom: 3px
 
-  .main-nav
-    text-align: right
-
-  .main-nav li
-    margin-top: 6px
-    margin-left: 10px
-    display: inline-block
-
-  .main-banner
-    background: #dfe2e4
-    text-align: center
-    padding: 50px 15px
-    margin-bottom: 20px
-
-  .feat-img
-    width: 45%
-    float: left
-    margin: 5px 20px 10px 0
-
-
-@media (min-width: 1px) and (max-width: 767px)
-  .main-nav li
-    margin-top: 12px
+  // body
+  //   background-color: blue

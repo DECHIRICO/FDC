@@ -1,0 +1,102 @@
+/* line 6, ../sass/style.sass */
+html, body {
+  height: 100%;
+}
+
+/* line 9, ../sass/style.sass */
+body {
+  margin: 0px;
+  padding: 0px;
+  font: 0.6em/1.6em "aktiv-grotesk", sans-serif, serif;
+  color: #B9C8CF;
+  background-color: #1e2529;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 21, ../sass/style.sass */
+.container {
+  max-width: 400px;
+  max-height: 308px;
+  width: 300px;
+}
+
+/* line 26, ../sass/style.sass */
+h1 {
+  font-family: "aktiv-grotesk", sans-serif;
+  font-size: 3.2em;
+  font-weight: lighter;
+  line-height: 1.2em;
+  letter-spacing: 0.1em;
+  float: left;
+  width: 100%;
+  color: #d0d2d4;
+}
+
+/* line 38, ../sass/style.sass */
+.content a:hover {
+  color: #98C1DB;
+}
+/* line 41, ../sass/style.sass */
+.content a:active, .content a:focus {
+  color: #98C1DB;
+}
+/* line 44, ../sass/style.sass */
+.content a {
+  text-decoration: none;
+  color: #d0d2d4;
+  padding-bottom: 1px;
+  -webkit-transition: color 0.3s ease-in-out;
+  -moz-transition: color 0.3s ease-in-out;
+  -ms-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+/* line 54, ../sass/style.sass */
+.content p {
+  font-size: 1.6em;
+  line-height: 1.4em;
+  padding: 0;
+  margin: 0 auto 1em;
+  color: #819199;
+}
+/* line 61, ../sass/style.sass */
+.content ul {
+  font-size: 1.6em;
+  line-height: 1.5625em;
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  list-style-position: outside;
+  list-style: none;
+  padding-left: 20px;
+}
+
+/* line 76, ../sass/style.sass */
+ul li:before {
+  content: "/";
+  position: absolute;
+  margin-left: -20px;
+  color: #d0d2d4;
+  color: #98C1DB;
+}
+
+@media (max-width: 768px) {
+  /* line 87, ../sass/style.sass */
+  body {
+    font-size: 0.7em;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+  }
+
+  /* line 94, ../sass/style.sass */
+  li {
+    padding-bottom: 3px;
+  }
+}
