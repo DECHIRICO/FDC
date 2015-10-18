@@ -1,43 +1,62 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<title>Francesco De Chirico - Designer</title>
-	<meta charset="utf-8" />
-	<meta name="robots" content="index, follow" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="animate.css">
-	<script src="https://use.typekit.net/bzn1ala.js"></script>
-	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<title>Grid Layout</title>
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/grid.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-43860316-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
-
 <body>
-
-<div class="container animated fadeIn">
-  <div class="content">
-		<h1>fra</h1>
-    <p>I’m an amazing designer that lives and work in Sydney, VP of Design at Airtasker. Previously Product Design Campaign Monitor,
-       Art Director at THE ICONIC and various agencies in Europe.</p>
-			 <p>I am keen on ideas, method, culture, honesty and humility.</p>
-    	<ul>
-      <li><a href="mailto:hello@francescodechirico.com" target="_blank">Email</a></li>
-      <li><a href="https://twitter.com/FDC_DECHIRICO" target="_blank">twitter</a></li>
-      <li><a href="https://dribbble.com/DECHIRICO" target="_blank">dribbble</a></li>
-      <li><a href="https://instagram.com/dechiricofrancesco/" target="_blank">Instagram</a></li>
-    	</ul>
-  </div>
-</div>
+	<header class="main-header">
+		<div class="grid-container">
+			<h1 class="grid-2 main-logo"><a href="#">Logo</a></h1>
+			<ul class="grid-8 main-nav">
+				<li><a href="#">Link 1</a></li>
+				<li><a href="#">Link 2</a></li>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+			</ul>
+		</div>
+	</header>
+	<div class="main-banner hide-mobile">
+		<h1>This is the Main Banner Heading</h1>
+		<p>Andouille pork chop pancetta drumstick ground round beef ribs swine brisket ham.</p>
+	</div>
+	<div class="grid-container">
+		<div class="grid-8">
+			<h2>Primary Content</h2>
+			<img class="feat-img" src="http://lorempixel.com/400/300" />
+			<p>Bacon ipsum dolor sit amet chicken pork ground round brisket corned beef ball tip shank tail salami filet mignon ham hock pork belly venison shankle. Pig kielbasa drumstick sausage pork chop boudin. Chicken t-bone salami pork chop, beef ribs kevin ham tri-tip beef venison biltong brisket.</p>
+			<p>Venison strip steak meatball chicken, brisket prosciutto sirloin. Capicola drumstick brisket tri-tip salami. Chicken beef jerky, tail turkey prosciutto cow ham sirloin boudin tenderloin.</p>
+		</div>
+		<div class="grid-4">
+			<h3>Secondary Content</h3>
+			<p>Strip steak tenderloin kevin swine meatloaf capicola, doner beef turducken pancetta corned beef pork loin shoulder.</p>
+			<hr>
+			<p>Pork filet mignon leberkas, tail swine venison pancetta turkey shoulder brisket chalkers likes hamburgers.</p>
+			<hr>
+			<p>Meatball pastrami shoulder, brisket ribeye spare ribs turkey tongue strip steak t-bone.</p>
+		</div>
+	</div>
+	<div class="grid-container hide-mobile">
+		<div class="grid-4">
+			<h2>Content "Below the Fold"</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis facilisis, nisl id feugiat venenatis, massa nunc dignissim arcu, ut dictum arcu magna ac urna. Aliquam eget enim ac diam tincidunt tristique. In blandit ultricies tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada.</p>
+		</div>
+		<div class="grid-4">
+			<h2>Content "Below the Fold"</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis facilisis, nisl id feugiat venenatis, massa nunc dignissim arcu, ut dictum arcu magna ac urna. Aliquam eget enim ac diam tincidunt tristique. In blandit ultricies tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada.</p>
+		</div>
+		<div class="grid-4">
+			<h3>Extra Content</h3>
+			<p>Capicola doner turkey tail swine pork belly shank, t-bone prosciutto pastrami pork chop ground round.</p>
+			<hr>
+			<p>Pork filet mignon leberkas, tail swine venison pancetta turkey shoulder brisket chalkers likes hamburgers.</p>
+		</div>
+	</div>
+	<footer class="main-footer">
+		<p>&copy;2014 Example Layout</p>
+	</footer>
 </body>
 </html>
