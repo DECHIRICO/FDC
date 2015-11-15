@@ -1,5 +1,6 @@
 body {
-  padding: 3em; }
+  padding: 3em;
+  background: red; }
 
 h1 {
   font-size: 20px;
