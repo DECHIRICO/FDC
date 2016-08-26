@@ -1,0 +1,98 @@
+$font-stack: "aktiv-grotesk",sans-serif
+$font-thin: 200
+$primary-color: #333
+$link-active: #d0d2d4
+
+html,body
+  height: 100%
+
+body
+  margin: 0px
+  padding: 0px
+  font:  0.6em/1.6em $font-stack, serif
+  color: #B9C8CF
+  background-color: #1e2529
+  font-weight: $font-thin
+  text-rendering: optimizeLegibility
+  display: flex
+  align-items: center
+  justify-content: center
+
+.container
+  max-width: 400px
+  max-height: 308px
+  width: 300px
+
+h1
+  font-family: $font-stack
+  font-size: 3.2em
+  font-weight: lighter
+  line-height: 1.2em
+  letter-spacing: 0.1em
+  float: left
+  width: 100%
+  color: #d0d2d4
+
+.content
+
+  a:hover
+    color: #98C1DB
+
+  a:active, a:focus
+    color: #98C1DB
+
+  a
+    text-decoration: none
+    color: $link-active
+    padding-bottom: 1px
+    -webkit-transition: color 0.3s ease-in-out
+    -moz-transition: color 0.3s ease-in-out
+    -ms-transition: color 0.3s ease-in-out
+    -o-transition: color 0.3s ease-in-out
+    transition: color 0.3s ease-in-out
+
+  p
+    font-size: 1.6em
+    line-height: 1.4em
+    padding: 0
+    margin: 0 auto 1em
+    color: #819199
+
+  ul
+    font-size: 1.6em
+    line-height: 1.5625em
+    padding: 0
+    margin: 0
+
+    ul li
+    padding: 0
+    margin: 0
+    list-style-position: outside
+    list-style: none
+
+    li
+    padding-left: 20px
+
+ul li:before
+  content: "/"
+  position: absolute
+  margin-left: -20px
+  color: $link-active
+
+  a
+  color: #98C1DB
+
+@media (max-width: 768px)
+
+  body
+    font-size: 0.7em
+    -webkit-transition: all 0.3s ease
+    -moz-transition: all 0.3s ease
+    -o-transition: all 0.3s ease
+    -ms-transition: all 0.3s ease
+
+  li
+    padding-bottom: 3px
+
+  // body
+  //   background-color: blue
