@@ -1,0 +1,25 @@
+{
+  "name": "FDC",
+  "homepage": "https://github.com/DECHIRICO/FDC",
+  "authors": [
+    "Francesco de Chirico <hello@francescodechirico.com>"
+  ],
+  "description": "Bower",
+  "main": "Bower",
+  "keywords": [
+    "Bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "boilerplate-bootstrap": "assemble-bootstrap#^0.2.5",
+    "material-jekyll": "*"
+  }
+}
