@@ -20,6 +20,7 @@
   "dependencies": {
     "jquery": "^3.1.0",
     "boilerplate-bootstrap": "assemble-bootstrap#^0.2.5",
-    "material-jekyll": "*"
+    "material-jekyll": "*",
+    "960-grid-system": "*"
   }
 }

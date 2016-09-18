@@ -1,6 +1,53 @@
-h1 {
-  font-size: 90px;
-  color: white; }
+/* Colours */
+.darkgrey {
+  color: #4A4A4A; }
 
-body {
-  background-color: red; }
+.grey {
+  color: #B2BFC3; }
+
+a {
+  border-bottom: none;
+  text-decoration: none; }
+  a:hover {
+    border-bottom: 4px solid #c2e065;
+    -webkit-transition: all 0.1s cubic-bezier(0.39, 0.01, 0, 0.99);
+    transition: all 0.1s cubic-bezier(0.39, 0.01, 0, 0.99); }
+
+.hero {
+  margin-top: 20%;
+  margin-bottom: 6%; }
+  .hero .francesco_dechirico a {
+    text-decoration: none;
+    font-size: 1.6em; }
+  .hero .intro {
+    margin-top: 2%;
+    font-size: 3.2rem;
+    line-height: 1.1em; }
+    .hero .intro a {
+      color: black; }
+      .hero .intro a:hover {
+        border-bottom: none; }
+
+.row {
+  margin-bottom: 20px; }
+  .row .description {
+    display: none; }
+
+.social ul {
+  list-style: none; }
+  .social ul li {
+    display: inline;
+    padding: 0 1%; }
+
+img {
+  border-radius: 8px; }
+
+.line {
+  border-top: 1px solid #B2BFC3;
+  margin: 6% 0px;
+  width: 3%; }
+
+.getintouch {
+  margin: 6% 0px; }
+  .getintouch h3 {
+    line-height: 2rem; }
