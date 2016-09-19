@@ -1,10 +1,13 @@
 @charset "UTF-8";
 /* Colours */
 .darkgrey {
-  color: #7F878A; }
+  color: #4A4A4A; }
 
-.grey {
+.lightgrey {
   color: #B2BFC3; }
+
+.white {
+  color: #FFF; }
 
 /** Skeleton V2.0.4
  ** Copyright 2014, Dave Gamache
@@ -31,7 +34,7 @@
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .full {
   width: 100%;
-  padding: 6% 0px;
+  padding: 10% 0 3% 0;
   height: auto; }
   .full.back {
     background-color: black; }
@@ -42,7 +45,7 @@
   position: relative;
   width: 100%;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 3%;
   box-sizing: border-box;
   max-width: 750px; }
   .container.wide {
@@ -63,7 +66,9 @@
 
 img {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+  display: block;
+  margin: auto; }
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
@@ -178,20 +183,20 @@ html {
   font-size: 62.5%; }
 
 body {
-  font-size: 1.5em;
+  font-size: 1.6em;
   /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 300;
-  color: #7F878A; }
+  color: #828C8F; }
 
 /* Typography
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 0.2rem;
   font-weight: 300; }
 
 h1 {
@@ -223,6 +228,15 @@ h6 {
   font-size: 1.5rem;
   line-height: 1.6;
   letter-spacing: 0; }
+
+.comments {
+  text-align: right;
+  font-size: 1.2rem; }
+
+.quote {
+  text-align: center;
+  padding: 0 10%;
+  font-family: "Merriweather", serif; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
@@ -495,8 +509,9 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
-  border-width: 0;
-  border-top: 1px solid #E1E1E1; }
+  border-top: 1px solid #E1E1E1;
+  width: 3%;
+  margin-left: 0; }
 
 /* Clearing
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -517,25 +532,24 @@ hr {
 /* Larger than tablet */
 /* Larger than desktop */
 /* Larger than Desktop HD */
+.note {
+  margin-top: 10%;
+  font-size: 1.2rem;
+  display: block; }
+
 .hero {
-  margin-top: 20%; }
+  margin-top: 15%; }
   .hero .francesco_dechirico a {
     text-decoration: none;
-    font-size: 1.6em; }
-
-.client h1 {
-  margin: 0px; }
-.client .role {
-  font-size: 1.1rem;
-  margin: 0 0 3% 0; }
-.client .intro {
-  margin-top: 2%;
-  font-size: 3.2rem;
-  line-height: 3.6rem; }
-  .client .intro a {
-    color: black; }
-    .client .intro a:hover {
-      border-bottom: none; }
+    font-size: 1.3em; }
+  .hero .intro {
+    margin-top: 2%;
+    font-size: 3.3rem;
+    line-height: 3.6rem; }
+    .hero .intro a {
+      color: black; }
+      .hero .intro a:hover {
+        border-bottom: none; }
 
 .works .description {
   display: none; }
@@ -551,11 +565,6 @@ hr {
   .social ul li {
     display: inline;
     padding: 0 1%; }
-
-.line {
-  border-top: 1px solid #B2BFC3;
-  margin: 6% 0px;
-  width: 3%; }
 
 .getintouch {
   margin: 6% 0px; }

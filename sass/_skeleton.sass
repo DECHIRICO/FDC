@@ -25,10 +25,9 @@
 
 /* Grid
  *––––––––––––––––––––––––––––––––––––––––––––––––––
-
 .full
   width: 100%
-  padding: 6% 0px
+  padding: 10% 0 3% 0
   height: auto
   &.back
     background-color: black
@@ -39,7 +38,7 @@
   position: relative
   width: 100%
   margin: 0 auto
-  padding: 0 20px
+  padding: 0 3%
   box-sizing: border-box
   max-width: 750px
   &.wide
@@ -62,6 +61,9 @@
 img
   max-width: 100%
   height: auto
+  display: block
+  margin: auto
+
 
 /* For devices larger than 400px
 @media (min-width: 400px)
@@ -164,21 +166,21 @@ html
   font-size: 62.5%
 
 body
-  font-size: 1.5em
+  font-size: 1.6em
   /* currently ems cause chrome bug misinterpreting rems on body element
   line-height: 1.6
   font-weight: 400
-  font-family: Raleway
+  font-family: $body
   font-style: normal
   font-weight: 300
-  color: $dark
+  color: $medium
 
 /* Typography
  *––––––––––––––––––––––––––––––––––––––––––––––––––
 
 h1, h2, h3, h4, h5, h6
   margin-top: 0
-  margin-bottom: 2rem
+  margin-bottom: 0.2rem
   font-weight: 300
 
 h1
@@ -210,6 +212,15 @@ h6
   font-size: 1.5rem
   line-height: 1.6
   letter-spacing: 0
+
+.comments
+  text-align: right
+  font-size: 1.2rem
+
+.quote
+  text-align: center
+  padding: 0 10%
+  font-family: $serif
 
 /* Larger than phablet
 @media (min-width: 550px)
@@ -497,8 +508,9 @@ pre, blockquote, dl, figure, table, p, ul, ol, form
 hr
   margin-top: 3rem
   margin-bottom: 3.5rem
-  border-width: 0
   border-top: 1px solid #E1E1E1
+  width: 3%
+  margin-left: 0
 
 /* Clearing
  *––––––––––––––––––––––––––––––––––––––––––––––––––
