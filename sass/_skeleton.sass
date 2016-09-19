@@ -22,12 +22,18 @@
  *- Clearing
  *- Media Queries
 
-/* Colours
-$darkgrey: #4A4A4A
-$grey: #B2BFC3
 
 /* Grid
  *––––––––––––––––––––––––––––––––––––––––––––––––––
+
+.full
+  width: 100%
+  padding: 6% 0px
+  height: auto
+  &.back
+    background-color: black
+  &.trf
+    background-color: #0E1468
 
 .container
   position: relative
@@ -39,7 +45,11 @@ $grey: #B2BFC3
   &.wide
     position: relative
     margin: 0 auto
-    max-width: 1120px
+    max-width: 1130px
+
+
+.row
+  margin-bottom: 20px
 
 .column, .columns
   width: 100%
@@ -158,7 +168,7 @@ body
   font-family: Raleway
   font-style: normal
   font-weight: 300
-  color: $darkgrey
+  color: $dark
 
 /* Typography
  *––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -215,6 +225,8 @@ h6
     font-size: 1.2rem
     text-transform: uppercase
     letter-spacing: 0.4em
+  .role
+    font-size: 1.1rem
 
 p
   margin-top: 0
@@ -224,8 +236,12 @@ p
 
 a
   color: #1EAEDB
+  border-bottom: none
+  text-decoration: none
   &:hover
     color: #0FA0CE
+    border-bottom: 4px solid #c2e065
+    transition: all .1s cubic-bezier(0.39, 0.01, 0, 0.99)
 
 /* Buttons
  *––––––––––––––––––––––––––––––––––––––––––––––––––

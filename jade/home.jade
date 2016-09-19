@@ -1,19 +1,5 @@
 doctype html
-head
-  meta(charset="utf-8")
-  title fdc - design
-  script(src='./js/jquery-2.1.1.js')
-  script(src='./js/main.js')
-  script(src='./js/modernizr.js')
-  meta(name="viewport" content="width=device-width, initial-scale=1")
-  link(href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css")
-  link(href="./css/skeleton.css" rel="stylesheet")
-  //- link(href='./css/nav.css', rel='stylesheet')
-  link(href='./css/style.css', rel='stylesheet')
-  link(href='./bower_components/normalize-css/normalize.css', rel='stylesheet')
-  //- <link rel="icon" type="image/png" href="images/favicon.png">
-  <link href="https://fonts.googleapis.com/css?family=Baloo|Fira+Mono|Montserrat|Raleway|Work+Sans:400,700" rel="stylesheet">
-
+include includes/head.jade
 body      
   .container
     .hero
@@ -29,26 +15,31 @@ body
         .grey I am keen on ideas, method, humility, culture, honesty and pizza.
         
     h6.grey Works
-      
-  .container
-    .row
-      .six.columns
-        img(src="imgs/sel-home/therightfit.png" srcset="imgs/sel-home/therightfit@2x.png 2x" alt="THE ICONIC")
-      .six.columns
-        img(src="imgs/sel-home/balto.png" srcset="imgs/sel-home/balto@2x.png 2x" alt="geores")
-    .row
-      .six.columns
-        img(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" alt="THE ICONIC")
-      .six.columns
-        img(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x" alt="geores")
-    .row
-      .six.columns
-        img(src="imgs/sel-home/zanui.png" srcset="imgs/sel-home/zanui@2x.png 2x" alt="THE ICONIC")
-      .six.columns
-        .description 
-          | Steve Snyder 
-          | title Beard Extrodinarre
-        img(src="imgs/sel-home/geores.png" srcset="imgs/sel-home/geores@2x.png 2x" alt="geores")
+    
+  .works    
+    .container
+      .row
+        .twelve.columns
+          img(src="imgs/sel-home/airtasker.png" srcset="imgs/sel-home/airtasker@2x.png 2x" alt="Airtasker")
+      .row
+        .six.columns
+          a(href="trf.html")
+            img(src="imgs/sel-home/therightfit.png" srcset="imgs/sel-home/therightfit@2x.png 2x" alt="THE ICONIC")
+        .six.columns
+          img(src="imgs/sel-home/balto.png" srcset="imgs/sel-home/balto@2x.png 2x" alt="geores")
+      .row
+        .six.columns
+          img(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" alt="THE ICONIC")
+        .six.columns
+          img(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x" alt="geores")
+      .row
+        .six.columns
+          img(src="imgs/sel-home/zanui.png" srcset="imgs/sel-home/zanui@2x.png 2x" alt="THE ICONIC")
+        .six.columns
+          .description 
+            | Steve Snyder 
+            | title Beard Extrodinarre
+          img(src="imgs/sel-home/geores.png" srcset="imgs/sel-home/geores@2x.png 2x" alt="geores")
   
   .container
     .line

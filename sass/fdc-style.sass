@@ -1,25 +1,8 @@
-/* Colours
-$dark: #4A4A4A
-$light: #B2BFC3
-
-// Font Colours
-.darkgrey
-  color: $dark
-.grey
-  color: $light
-
-
-a
-  // border-bottom: 2px solid #c2e065
-  border-bottom: none
-  text-decoration: none
-  &:hover
-    border-bottom: 4px solid #c2e065
-    transition: all .1s cubic-bezier(0.39, 0.01, 0, 0.99)
+@import "_variables.sass"
+@import "_skeleton.sass"
 
 .hero
   margin-top: 20%
-  margin-bottom: 6%
   .francesco_dechirico
     a
       text-decoration: none
@@ -28,25 +11,22 @@ a
   .intro
     margin-top: 2%
     font-size: 3.2rem
-    line-height: 1.1em
+    line-height: 3.6rem
     a
       color: black
       &:hover
         border-bottom: none
-
-.row
-  margin-bottom: 20px
+.works
   .description
     display: none
   img
+    border-radius: 8px
+  a
+    border: none
+    &:hover
+      border: none
 
 
-
-  // font-family: 'Baloo', cursive;
-  // font-family: 'Work Sans', sans-serif;
-  // font-family: 'Space Mono', monospace;
-  // font-family: 'Montserrat', sans-serif;
-  // font-family: 'Raleway', sans-serif;
 
 .social
   ul
@@ -55,10 +35,6 @@ a
     li
       display: inline
       padding: 0 1%
-
-img
-  border-radius: 8px
-
 
 .line
   border-top: 1px solid $light
