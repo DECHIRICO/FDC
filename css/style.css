@@ -48,7 +48,10 @@
   .container.wide {
     position: relative;
     margin: 0 auto;
-    max-width: 1130px; }
+    max-width: 1280px; }
+  .container .img {
+    margin: 0 auto;
+    display: block; }
 
 .row {
   margin-bottom: 20px; }
@@ -241,11 +244,7 @@ h6 {
   h6 {
     font-family: "Fira Mono", monospace;
     font-size: 1.2rem;
-    text-transform: uppercase;
-    letter-spacing: 0.4em; }
-
-  .role {
-    font-size: 1.1rem; } }
+    text-transform: uppercase; } }
 p {
   margin-top: 0; }
 
@@ -523,14 +522,20 @@ hr {
   .hero .francesco_dechirico a {
     text-decoration: none;
     font-size: 1.6em; }
-  .hero .intro {
-    margin-top: 2%;
-    font-size: 3.2rem;
-    line-height: 3.6rem; }
-    .hero .intro a {
-      color: black; }
-      .hero .intro a:hover {
-        border-bottom: none; }
+
+.client h1 {
+  margin: 0px; }
+.client .role {
+  font-size: 1.1rem;
+  margin: 0 0 3% 0; }
+.client .intro {
+  margin-top: 2%;
+  font-size: 3.2rem;
+  line-height: 3.6rem; }
+  .client .intro a {
+    color: black; }
+    .client .intro a:hover {
+      border-bottom: none; }
 
 .works .description {
   display: none; }
