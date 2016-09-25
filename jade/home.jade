@@ -1,5 +1,10 @@
 doctype html
+
 include includes/head.jade
+  block title
+    | Home Page Motherfucker!!!!
+    
+      
 body      
   .container
     .hero
@@ -31,7 +36,8 @@ body
           img(src="imgs/sel-home/balto.png" srcset="imgs/sel-home/balto@2x.png 2x" alt="geores")
       .row
         .six.columns
-          img(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" alt="THE ICONIC")
+          a(href="theiconic.html")
+            img(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" alt="THE ICONIC")
         .six.columns
           img(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x" alt="geores")
       .row

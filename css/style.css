@@ -34,12 +34,16 @@
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .full {
   width: 100%;
-  padding: 10% 0 3% 0;
-  height: auto; }
+  height: auto;
+  padding: 4% 0 3% 0; }
   .full.back {
-    background-color: black; }
+    background-color: black;
+    padding: 10% 0 3% 0; }
   .full.trf {
-    background-color: #0E1468; }
+    background-color: #0E1468;
+    padding: 10% 0 3% 0; }
+  .full.grey {
+    background-color: #F0F2F5; }
 
 .container {
   position: relative;
@@ -48,6 +52,10 @@
   padding: 0 3%;
   box-sizing: border-box;
   max-width: 750px; }
+  .container.mid-wide {
+    position: relative;
+    margin: 0 auto;
+    max-width: 1128px; }
   .container.wide {
     position: relative;
     margin: 0 auto;
@@ -131,7 +139,6 @@ img {
   .one-half.column {
     width: 48%; }
 
-  /* Offsets */
   .offset-by-one.column, .offset-by-one.columns {
     margin-left: 8.6666666667%; }
 
@@ -183,7 +190,6 @@ html {
 
 body {
   font-size: 1.6em;
-  /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.4;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
@@ -219,9 +225,8 @@ h4 {
   letter-spacing: -0.08rem; }
 
 h5 {
-  font-size: 1.8rem;
-  line-height: 1.5;
-  letter-spacing: 0.5rem; }
+  font-size: 1.1rem;
+  line-height: 2; }
 
 h6 {
   font-family: "Fira Mono", monospace;
@@ -383,26 +388,21 @@ input[type="submit"].button-primary:focus, input[type="reset"].button-primary:fo
 input[type="email"], input[type="number"], input[type="search"], input[type="text"], input[type="tel"], input[type="url"], input[type="password"] {
   height: 38px;
   padding: 6px 10px;
-  /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box; }
 
-/* Forms
- *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 textarea, select {
   height: 38px;
   padding: 6px 10px;
-  /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box; }
 
-/* Removes awkward default styles on some inputs for iOS */
 input[type="email"], input[type="number"], input[type="search"], input[type="text"], input[type="tel"], input[type="url"], input[type="password"] {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -441,8 +441,6 @@ label > .label-body {
   margin-left: 0.5rem;
   font-weight: normal; }
 
-/* Lists
- *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
 
@@ -550,7 +548,7 @@ hr {
 /* Larger than desktop */
 /* Larger than Desktop HD */
 .note {
-  margin-top: 10%;
+  margin-top: 6%;
   margin-bottom: 0px;
   display: block; }
 

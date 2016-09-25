@@ -27,12 +27,17 @@
  *––––––––––––––––––––––––––––––––––––––––––––––––––
 .full
   width: 100%
-  padding: 10% 0 3% 0
   height: auto
+  padding: 4% 0 3% 0
+
   &.back
     background-color: black
+    padding: 10% 0 3% 0
   &.trf
     background-color: #0E1468
+    padding: 10% 0 3% 0
+  &.grey
+    background-color: #F0F2F5
 
 .container
   position: relative
@@ -41,11 +46,14 @@
   padding: 0 3%
   box-sizing: border-box
   max-width: 750px
+  &.mid-wide
+    position: relative
+    margin: 0 auto
+    max-width: 1128px
   &.wide
     position: relative
     margin: 0 auto
     max-width: 1280px
-
 
 .row
   margin-bottom: 4%
@@ -69,7 +77,6 @@ img
   .container
     width: 85%
     padding: 0
-
 
 /* For devices larger than 550px
 @media (min-width: 550px)
@@ -111,7 +118,9 @@ img
     width: 65.3333333333%
   .one-half.column
     width: 48%
-  /* Offsets
+
+    //  Offsets
+
   .offset-by-one
     &.column, &.columns
       margin-left: 8.66666666667%
@@ -166,7 +175,7 @@ html
 
 body
   font-size: 1.6em
-  /* currently ems cause chrome bug misinterpreting rems on body element
+  // /* currently ems cause chrome bug misinterpreting rems on body element
   line-height: 1.4
   font-weight: 400
   font-family: $body
@@ -203,9 +212,8 @@ h4
   letter-spacing: -.08rem
 
 h5
-  font-size: 1.8rem
-  line-height: 1.5
-  letter-spacing: .5rem
+  font-size: 1.1rem
+  line-height: 2
 
 h6
   font-family: $monospace
@@ -259,7 +267,6 @@ span
 
 p
   margin-top: 0
-
 
 
 /* Links
@@ -373,27 +380,25 @@ input
   &[type="email"], &[type="number"], &[type="search"], &[type="text"], &[type="tel"], &[type="url"], &[type="password"]
     height: 38px
     padding: 6px 10px
-    /* The 6px vertically centers text on FF, ignored by Webkit
+    // /* The 6px vertically centers text on FF, ignored by Webkit
     background-color: #fff
     border: 1px solid #D1D1D1
     border-radius: 4px
     box-shadow: none
     box-sizing: border-box
 
-/* Forms
- *––––––––––––––––––––––––––––––––––––––––––––––––––
-
+// /* Forms
 textarea, select
   height: 38px
   padding: 6px 10px
-  /* The 6px vertically centers text on FF, ignored by Webkit
+  // /* The 6px vertically centers text on FF, ignored by Webkit
   background-color: #fff
   border: 1px solid #D1D1D1
   border-radius: 4px
   box-shadow: none
   box-sizing: border-box
 
-/* Removes awkward default styles on some inputs for iOS
+// /* Removes awkward default styles on some inputs for iOS
 
 input
   &[type="email"], &[type="number"], &[type="search"], &[type="text"], &[type="tel"], &[type="url"], &[type="password"]
@@ -436,8 +441,7 @@ label > .label-body
   margin-left: .5rem
   font-weight: normal
 
-/* Lists
- *––––––––––––––––––––––––––––––––––––––––––––––––––
+// /* Lists
 
 ul
   list-style: circle inside
