@@ -713,7 +713,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3.6932e+06,
+		"initialSize": 3.69320e+06,
 		"inputAbbreviatedPath": "\/imgs\/trf\/therightfit-devices@2x.png",
 		"outputAbbreviatedPath": "\/imgs\/trf\/therightfit-devices@2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -830,6 +830,182 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/imgs\/zanui\/zanui-artwork.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.78048e+06,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-artwork.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-artwork.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-artwork@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.72269e+06,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-artwork@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-artwork@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-billboard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.95694e+06,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-billboard.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-billboard.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-billboard@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.14295e+06,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-billboard@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-billboard@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-colours.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176723,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-colours.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-colours.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-colours@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 626583,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-colours@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-colours@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-emails.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 516532,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-emails.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-emails.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-emails@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.63806e+06,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-emails@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-emails@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-logo-geometric.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53079,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo-geometric.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo-geometric.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-logo-geometric@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151298,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo-geometric@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo-geometric@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31181,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91103,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-stamp-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226987,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp-bg.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-stamp-bg@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 775168,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp-bg@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp-bg@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-stamp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25196,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/zanui\/zanui-stamp@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56728,
+		"inputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/zanui\/zanui-stamp@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -872,6 +1048,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/jade\/theiconic-apps.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/theiconic-apps.jade",
+		"outputAbbreviatedPath": "\/theiconic-apps.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
+		},
 	"\/jade\/theiconic.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -912,6 +1099,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/jade\/work.jade",
 		"outputAbbreviatedPath": "\/work.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
+		},
+	"\/jade\/zanui.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/zanui.jade",
+		"outputAbbreviatedPath": "\/zanui.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
@@ -1033,6 +1231,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": false
+		},
+	"\/theiconic-apps.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/theiconic-apps.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/theiconic.html": {
 		"fileType": 8192,
@@ -2534,6 +2741,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/XXX\/Templating-2\/works-4-columns.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zanui.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zanui.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

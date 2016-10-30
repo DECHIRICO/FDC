@@ -44,3 +44,35 @@
 
 .getintouch
   margin: 6% 0px
+
+.full
+  width: 100%
+  height: auto
+  padding: 4% 0 3% 0
+
+  &.black
+    background-color: black
+    padding: 10% 0 3% 0
+  &.trf
+    background-color: #0E1468
+    padding: 10% 0 3% 0
+  &.grey
+    background-color: #F0F2F5
+  &.zanui-products
+    height: 480px
+    background-color: white
+    background-image: url('/imgs/zanui/zanui-stamp-bg@2x.png')
+    background-position: -60px
+    background-size: 380px
+    background-repeat: repeat
+    .stamp
+      width: 200px
+      margin: auto
+      transform: translateY(-50%)
+      top: 50%
+      position: relative
+    @media (max-width: 550px)
+      height: 480px
+      background-size: 200px
+      .stamp
+        width: 150px

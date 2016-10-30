@@ -32,19 +32,6 @@
  *- Media Queries */
 /* Grid
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.full {
-  width: 100%;
-  height: auto;
-  padding: 4% 0 3% 0; }
-  .full.back {
-    background-color: black;
-    padding: 10% 0 3% 0; }
-  .full.trf {
-    background-color: #0E1468;
-    padding: 10% 0 3% 0; }
-  .full.grey {
-    background-color: #F0F2F5; }
-
 .container {
   position: relative;
   width: 100%;
@@ -192,9 +179,8 @@ body {
   font-size: 1.6em;
   line-height: 1.4;
   font-weight: 400;
-  font-family: "Raleway", sans-serif;
+  font-family: aktiv-grotesk, sans-serif;
   font-style: normal;
-  font-weight: 300;
   color: #828C8F; }
 
 /* Typography
@@ -205,6 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
 h1 {
+  font-weight: 600;
   font-size: 4rem;
   line-height: 1.2;
   letter-spacing: -0.1rem; }
@@ -237,7 +224,7 @@ h6 {
 
 span {
   font-size: 1.4rem;
-  line-height: 1.2;
+  line-height: 1.1;
   margin-top: 1%; }
 
 .comments {
@@ -252,6 +239,9 @@ span {
   font-family: "Merriweather", serif; }
   .quote span {
     font-size: 2.4rem; }
+
+.social {
+  font-size: 1.4rem; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
@@ -271,16 +261,7 @@ span {
     font-size: 2.4rem; }
 
   h6 {
-    font-size: 1.2rem; }
-
-  .comments {
-    text-align: right;
-    font-size: 1.2rem;
-    margin-top: 4px; }
-
-  span {
-    font-size: 1.4rem;
-    line-height: 1.2; } }
+    font-size: 1.2rem; } }
 p {
   margin-top: 0; }
 
@@ -523,8 +504,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin-top: 3rem;
-  margin-bottom: 3.5rem;
-  border-top: 1px solid #E1E1E1;
+  border-top: 4px solid #4A4A4A;
   width: 3%;
   margin-left: 0; }
 
@@ -581,3 +561,36 @@ hr {
 
 .getintouch {
   margin: 6% 0px; }
+
+.full {
+  width: 100%;
+  height: auto;
+  padding: 4% 0 3% 0; }
+  .full.black {
+    background-color: black;
+    padding: 10% 0 3% 0; }
+  .full.trf {
+    background-color: #0E1468;
+    padding: 10% 0 3% 0; }
+  .full.grey {
+    background-color: #F0F2F5; }
+  .full.zanui-products {
+    height: 480px;
+    background-color: white;
+    background-image: url("/imgs/zanui/zanui-stamp-bg@2x.png");
+    background-position: -60px;
+    background-size: 380px;
+    background-repeat: repeat; }
+    .full.zanui-products .stamp {
+      width: 200px;
+      margin: auto;
+      -webkit-transform: translateY(-50%);
+              transform: translateY(-50%);
+      top: 50%;
+      position: relative; }
+    @media (max-width: 550px) {
+      .full.zanui-products {
+        height: 480px;
+        background-size: 200px; }
+        .full.zanui-products .stamp {
+          width: 150px; } }
