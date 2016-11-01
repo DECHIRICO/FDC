@@ -54,6 +54,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/cm.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cm.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/course.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -166,6 +175,28 @@
 		"initialSize": 328882,
 		"inputAbbreviatedPath": "\/imgs\/bg\/bg.jpeg",
 		"outputAbbreviatedPath": "\/imgs\/bg\/bg.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/cm\/login-cm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57925,
+		"inputAbbreviatedPath": "\/imgs\/cm\/login-cm.png",
+		"outputAbbreviatedPath": "\/imgs\/cm\/login-cm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imgs\/cm\/login-cm@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170408,
+		"inputAbbreviatedPath": "\/imgs\/cm\/login-cm@2x.png",
+		"outputAbbreviatedPath": "\/imgs\/cm\/login-cm@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1014,6 +1045,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/jade\/cm.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/cm.jade",
+		"outputAbbreviatedPath": "\/cm.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
 		},
 	"\/jade\/course.jade": {
 		"compileDebug": 1,

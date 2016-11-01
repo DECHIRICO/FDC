@@ -2,12 +2,6 @@
 @import "_skeleton.sass"
 
 
-
-.note
-  margin-top: 6%
-  margin-bottom: 0px
-  display: block
-
 .hero
   margin-top: 15%
   .francesco_dechirico
@@ -45,11 +39,11 @@
 .getintouch
   margin: 6% 0px
 
+// BACKGROUNDS
 .full
   width: 100%
   height: auto
   padding: 4% 0 3% 0
-
   &.black
     background-color: black
     padding: 10% 0 3% 0
@@ -57,7 +51,8 @@
     background-color: #0E1468
     padding: 10% 0 3% 0
   &.grey
-    background-color: #F0F2F5
+    background: #F7F7F7
+    box-shadow: inset 0px -1px 0px 0px rgba(0,0,0,0.05), inset 0px 1px 0px 0px rgba(0,0,0,0.05)
   &.zanui-products
     height: 480px
     background-color: white
@@ -71,8 +66,14 @@
       transform: translateY(-50%)
       top: 50%
       position: relative
-    @media (max-width: 550px)
-      height: 480px
-      background-size: 200px
-      .stamp
-        width: 150px
+      @media (max-width: 550px)
+        height: 480px
+        background-size: 200px
+        .stamp
+          width: 150px
+
+// MARGINS
+.note
+  margin-top: 6%
+  margin-bottom: 0px
+  display: block
