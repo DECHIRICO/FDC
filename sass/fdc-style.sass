@@ -5,22 +5,68 @@
 .hero
   margin-top: 15%
   .francesco_dechirico
-    a
+    height: 30px
+    width: auto
+    position: relative
+    cursor: pointer
+    display: inline-block
+    h1
+      margin: 0px
       text-decoration: none
-      font-size: 1.3em
+      font-size: 2.2rem
+      font-family: $semibold
+    .back-arrow
+      position: relative
+      width: 20px
+      opacity: 0.4
+      height: 23px
+      top: -28px
+      left: -30px
+      transform: rotate(90deg) scale(1)
+      svg
+        display: block
+        transition: transform .3s
+        #l1, #l2
+          transform: rotate(180)
+          transition: transform .8s
+        #l1
+          transform-origin: bottom left
+        #l2
+          transform-origin: bottom right
+    &:hover
+        .back-arrow
+          opacity: 1
+          svg
+            transform: translateY(5px)
+            #l1
+              transform: rotate(15deg)
+            #l2
+              transform: rotate(-15deg)
+
+
+
+
 
   .intro
-    margin: 4% 0px
-    font-size: 3.3rem
-    line-height: 3.6rem
-
+    margin: 2% 0px
+    font-size: 4.5rem
+    line-height: 4.5rem
+    font-family: $serif
+    h3
+      margin-bottom: 40px
     a
-      color: black
+      color: #3A3D3E
       &:hover
         border-bottom: none
 
 
 .works
+  h6
+    font-size: 1.1rem
+    font-family: $semibold
+    letter-spacing: 0.2rem
+    text-transform: uppercase
+    margin-bottom: 2%
   .description
     display: none
   a
@@ -28,13 +74,83 @@
     &:hover
       border: none
 
+
+  .item
+    height: auto
+    overflow: hidden
+    position: relative
+    .mask
+      width: 100%
+      height: 100%
+      position: absolute
+      overflow: hidden
+      top: 0
+      left: 0
+      color: #fff
+      background-color: rgba(0, 0, 0, 0.6)
+      opacity: 0
+      transition: all 0.3s ease-in 0.1s
+      .mask-text
+        position: relative
+        left: 30px
+        top: 30px
+        h5
+          font-family: $serif
+          opacity: 0
+          transform: translateY(30px) .2s
+          position: relative
+        span
+          opacity: 1
+          font-size: 1.4rem
+          color: $light
+        .cs
+          text-transform: uppercase
+          font-size: 0.9rem
+          letter-spacing: 0.1rem
+          background-color: $medium
+          padding: 3px 8px 1px 8px
+          text-align: center
+          display: inline-block
+          line-height: 1.4
+          border-radius: 50px
+
+      img
+        display: block
+        position: relative
+        width: 100%
+        height: auto
+
+    &:hover
+      .mask
+        opacity: 1
+        transition: all 0.2s cubic-bezier(0.715, 0.005, 0.220, 1.000) 0s
+        .mask-text
+          h5
+            opacity: 1
+            transform: translateY(2px)
+            transition: all 0.2s cubic-bezier(0.715, 0.005, 0.220, 1.000)
+          span
+            opacity: 1
+            transition: all 0.1s cubic-bezier(0.715, 0.005, 0.220, 1.000) 0.1s
+
+      img
+       transform: scale(1.1)
+       transition: all 0.4s ease 0.2s
+
+
+
+
+
+
 .social
   ul
     list-style: none
 
     li
       display: inline
-      padding: 0 1%
+      padding: 0 0.5%
+    &:first-child
+    padding: 0
 
 .getintouch
   margin: 6% 0px
@@ -52,7 +168,7 @@
     padding: 10% 0 3% 0
   &.grey
     background: #F7F7F7
-    box-shadow: inset 0px -1px 0px 0px rgba(0,0,0,0.05), inset 0px 1px 0px 0px rgba(0,0,0,0.05)
+    box-shadow: inset 0px -1px 0px 0px rgba(0,0,0,0.05), inset 0px 1px 0px 0px rgba(0,0,0,0.10)
   &.zanui-products
     height: 480px
     background-color: white
@@ -71,9 +187,28 @@
         background-size: 200px
         .stamp
           width: 150px
+  &.cm
+    background-color: #2E353E
+
 
 // MARGINS
-.note
-  margin-top: 6%
+.margin-top
+  margin-top: 2%
   margin-bottom: 0px
   display: block
+
+.margin-bottom
+  margin-bottom: 2%
+  display: block
+
+.margins
+  margin-top: 2%
+  margin-bottom: 2%
+  display: block
+
+// IMGS
+.small-imgs
+  img
+    width: 80%
+    &.left
+    float: right

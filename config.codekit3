@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25390",
+"creatorBuild": "25444",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -211,6 +211,186 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/fonts\/Graphik-Black.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Black.eot",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Graphik-Black.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Black.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Black.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Black.woff",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Bold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Bold.eot",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Bold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Bold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Graphik-Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Bold.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Bold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Bold.woff",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Medium.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Medium.eot",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Graphik-Medium.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Medium.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Medium.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Medium.woff",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Regular.eot",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Graphik-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Regular.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Graphik-Regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Graphik-Regular.woff",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-Semibold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-Semibold.eot",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-Semibold.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-Semibold.otf",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-Semibold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-Semibold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/TiemposTextWeb-Semibold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-Semibold.ttf",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-Semibold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-Semibold.woff",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-SemiboldItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-SemiboldItalic.eot",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-SemiboldItalic.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-SemiboldItalic.otf",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-SemiboldItalic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-SemiboldItalic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/TiemposTextWeb-SemiboldItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-SemiboldItalic.ttf",
+		"oF": 0
+		},
+	"\/fonts\/TiemposTextWeb-SemiboldItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/TiemposTextWeb-SemiboldItalic.woff",
+		"oF": 0
+		},
 	"\/imgs\/760px-img.png": {
 		"ft": 32768,
 		"iS": 10405,
@@ -243,6 +423,118 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/imgs\/cm\/account-interactions-cm.png": {
+		"ft": 32768,
+		"iS": 50033,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/account-interactions-cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/account-interactions-cm@2x.png": {
+		"ft": 32768,
+		"iS": 124250,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/account-interactions-cm@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/account-selection-cm.png": {
+		"ft": 32768,
+		"iS": 51375,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/account-selection-cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/account-selection-cm@2x.png": {
+		"ft": 32768,
+		"iS": 151515,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/account-selection-cm@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/avatar-dropdown.png": {
+		"ft": 32768,
+		"iS": 99174,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/avatar-dropdown.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/avatar-dropdown@2x.png": {
+		"ft": 32768,
+		"iS": 290183,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/avatar-dropdown@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/avatar-selection.png": {
+		"ft": 32768,
+		"iS": 58794,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/avatar-selection.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/avatar-selection@2x.png": {
+		"ft": 32768,
+		"iS": 168235,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/avatar-selection@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/form-details-cm.png": {
+		"ft": 32768,
+		"iS": 16568,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/form-details-cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/form-details-cm@2x.png": {
+		"ft": 32768,
+		"iS": 40566,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/form-details-cm@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/header-cm-titles.png": {
+		"ft": 32768,
+		"iS": 74183,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/header-cm-titles.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/cm\/header-cm-titles@2x.png": {
+		"ft": 32768,
+		"iS": 208120,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/header-cm-titles@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/cm\/icons-cm.png": {
+		"ft": 32768,
+		"iS": 10554,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/icons-cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/icons-cm@2x.png": {
+		"ft": 32768,
+		"iS": 25790,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/icons-cm@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/cm\/login-cm.png": {
 		"ft": 32768,
 		"iS": 57925,
@@ -256,6 +548,22 @@
 		"iS": 170408,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/profile-switch-cm.png": {
+		"ft": 32768,
+		"iS": 141688,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/profile-switch-cm.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/cm\/profile-switch-cm@2x.png": {
+		"ft": 32768,
+		"iS": 415401,
+		"oA": 0,
+		"oAP": "\/imgs\/cm\/profile-switch-cm@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -291,21 +599,37 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/imgs\/sel-home\/cm.png": {
+		"ft": 32768,
+		"iS": 12253,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/cm.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/sel-home\/cm@2x.png": {
+		"ft": 32768,
+		"iS": 29785,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/cm@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/imgs\/sel-home\/geores.png": {
 		"ft": 32768,
-		"iS": 7896,
+		"iS": 20512,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/geores@2x.png": {
 		"ft": 32768,
-		"iS": 7896,
+		"iS": 50844,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/theiconic.png": {
 		"ft": 32768,
@@ -345,7 +669,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/therightfit@2x.png": {
 		"ft": 32768,
@@ -353,7 +677,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/zanui.png": {
 		"ft": 32768,
@@ -361,7 +685,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/zanui@2x.png": {
 		"ft": 32768,
@@ -369,7 +693,25 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/theiconic\/.theiconic-fashion@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-fashion@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
@@ -395,27 +737,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-fashion-2@2x.png": {
-		"ft": 32768,
-		"iS": 2390140,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-fashion.png": {
 		"ft": 32768,
 		"iS": 543779,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic-fashion@2x.png": {
-		"ft": 32768,
-		"iS": 1992700,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -539,14 +865,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign@2x.png": {
-		"ft": 32768,
-		"iS": 4669320,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-video-campaign.png": {
 		"ft": 32768,
 		"iS": 471282,
@@ -577,7 +895,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/imgs\/trf\/.therightfit-diplay-2@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/trf\/.therightfit-diplay-2@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/trf\/.therightfit-website@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/trf\/.therightfit-website@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
@@ -667,14 +997,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/trf\/therightfit-diplay-2@2x.png": {
-		"ft": 32768,
-		"iS": 2146420,
-		"oA": 0,
-		"oAP": "\/imgs\/trf\/therightfit-diplay-2@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/trf\/therightfit-display.png": {
 		"ft": 32768,
 		"iS": 379483,
@@ -731,27 +1053,17 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/trf\/therightfit-website@2x.png": {
-		"ft": 32768,
-		"iS": 3990640,
-		"oA": 0,
-		"oAP": "\/imgs\/trf\/therightfit-website@2x.png",
-		"oF": 0,
-		"opt": 0
+	"\/imgs\/zanui\/.zanui-artwork@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/zanui\/.zanui-artwork@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/zanui\/zanui-artwork.png": {
 		"ft": 32768,
 		"iS": 1780480,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/zanui\/zanui-artwork@2x.png": {
-		"ft": 32768,
-		"iS": 5722690,
-		"oA": 0,
-		"oAP": "\/imgs\/zanui\/zanui-artwork@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -769,7 +1081,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-colours.png": {
 		"ft": 32768,
@@ -894,6 +1206,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/jade\/includes\/head.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/jade\/includes\/logo-works.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/jade\/includes\/logo-works.html",
 		"oF": 0,
 		"oS": 0
 		},
@@ -3084,6 +3404,9 @@
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
 		"async-to-generator": {
 			"active": 0
 			},
@@ -4172,6 +4495,10 @@
 			"active": 0,
 			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
 			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-var": {
 			"active": 0,
 			"optionString": ""
@@ -4239,10 +4566,6 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
-			},
-		"prefer-reflect": {
-			"active": 0,
-			"optionString": "{'exceptions': []}"
 			},
 		"prefer-rest-params": {
 			"active": 0,

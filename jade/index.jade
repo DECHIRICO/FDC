@@ -2,106 +2,105 @@ doctype html
 
 include includes/head.jade
   block title
-    | Home Page Motherfucker!!!!
+    | 
     
       
 body      
   .container
     .hero
       .francesco_dechirico 
-        a(href="#") Fra
-      .intro
-        h3 
-          | I am a multi-disciplinary designer. Currently VP of Design at 
-          a(href="https://www.airtasker.com/", target="_blank") Airtasker
-          |. Previously at 
-          a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
-          | and 
-          a(href="http://www.theiconic.com.au/", target="_blank") The Iconic.
-        h3.lightgrey 
-          | I am keen on ideas, method, humility, culture, honesty and pizza.
+        a(href="index.html") 
+          h1 de Chirico
+      h3.intro
+        | I am a multi-disciplinary designer. Currently VP of Design at 
+        a(href="https://www.airtasker.com/", target="_blank") Airtasker
+        |. Previously at 
+        a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
+        | and 
+        a(href="http://www.theiconic.com.au/", target="_blank") The Iconic.
         
-    h6.lightgrey Works
-    
-  .works    
+      //- h3.lightgrey 
+      //-   | I am keen on ideas, method, humility, culture, honesty and pizza.
+        
+
+  .works.margin-top
     .container
+      h6.lightgrey Works
       .row
-        .twelve.columns
+        .twelve.columns.item
           img(src="imgs/sel-home/airtasker.png" srcset="imgs/sel-home/airtasker@2x.png 2x" alt="Airtasker")
+          .mask
+            .mask-text
+              .cs Coming soon
+              h5 Airtasker
+              span Branding and Iconograhy
+
       .row
-        .six.columns
+        .six.columns.item
           a(href="trf.html")
             img(src="imgs/sel-home/therightfit.png" srcset="imgs/sel-home/therightfit@2x.png 2x" alt="THE ICONIC")
-        .six.columns
+            .mask
+              .mask-text
+                h5 theright.fit
+                span Branding and Iconograhy
+                
+        .six.columns.item
           a(href="cm.html")
-            img(src="imgs/sel-home/balto.png" srcset="imgs/sel-home/balto@2x.png 2x" alt="geores")
+            img(src="imgs/sel-home/cm.png" srcset="imgs/sel-home/cm@2x.png 2x" alt="Campaign Monitor")
+            .mask
+              .mask-text
+                h5 Campaign Monitor
+                span Product design
       .row
-        .six.columns
+        .six.columns.item
           a(href="theiconic.html")
             img(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" alt="THE ICONIC")
-        .six.columns
-          a(href="theiconic-apps.html")
-            img(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x" alt="geores")
-      .row
-        .six.columns
+            .mask
+              .mask-text
+                h5 The Iconic
+                span Branding and Art Direction
+
+        .six.columns.item
           a(href="zanui.html")
             img(src="imgs/sel-home/zanui.png" srcset="imgs/sel-home/zanui@2x.png 2x" alt="zanui")
-        .six.columns
-          .description 
-            | Steve Snyder 
-            | title Beard Extrodinarre
+            .mask
+              .mask-text
+                h5 Zanui
+                span Branding and CI
+      .row
+        .six.columns.item
+            img(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x" alt="geores")
+            .mask
+              .mask-text
+                .cs Coming soon
+                h5 The Iconic
+                span Product Design
+                
+        .six.columns.item
           img(src="imgs/sel-home/geores.png" srcset="imgs/sel-home/geores@2x.png 2x" alt="geores")
-  
+          .mask
+            .mask-text
+              .cs Coming soon
+              h5 Geores
+              span Branding
   .container
     hr
     .getintouch
       h3
         | That’s all folks.
         | Let’s work together.
-      h3.lightgrey Please email 
+      h3.lightgrey Please email to
       h3 
-        a(href="http://", target="_blank") hello@francescodechirico.com
+        a(href="mailto:hello@sfrancescodechirico.com.com?subject=Love your portfolio dude!", target="_blank") hello@francescodechirico.com
   
   
   .container
     .social
       ul
-        li More about his work at
+        li.first-child More about his work at
         li 
-          a(href="#", target="_blank") twitter
+          a(href="https://twitter.com/FDC_DECHIRICO", target="_blank") twitter
         li 
-          a(href="#", target="_blank") facebook
+          a(href="https://au.linkedin.com/in/dechiricofrancesco", target="_blank") linkedin
         li 
-          a(href="#", target="_blank") linkedin
-        li 
-          a(href="#", target="_blank") dribbble
-
-
-    //- a(href id='cd-nav' class='cd-nav-trigger menu')
-    //-   span.cd-nav-icon
-    //-     
-    //- #cd-nav.cd-nav
-    //-   .cd-navigation-wrapper
-    //-     .cd-half-block
-    //-       h2 Navigation
-    //-       nav
-    //-         ul.cd-primary-nav
-    //-           li 
-    //-             a(href class="selected") Link 1
-    //-           li 
-    //-             a(href="#") Link 2
-    //-           li 
-    //-             a(href="#") Link 3
-    //-             
-    //-     .cd-half-block
-    //-       address
-    //-         ul.cd-contact-info
-    //-          li
-    //-             a(href="mailto:info@myemail.co") info@myemail.com
-    //-           li 
-    //-             span 0244-12345678
-    //-           li
-    //-             span MyStreetName 24
-    //-             span W1234X
-    //-             span London, UK
-    //-         
+          a(href="https://dribbble.com/DECHIRICO", target="_blank") dribbble
