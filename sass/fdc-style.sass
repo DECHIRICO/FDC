@@ -2,6 +2,48 @@
 @import "_skeleton.sass"
 
 
+header
+  background: $white
+  box-shadow: 0 1px 0 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
+  z-index: 1000
+  opacity: 0
+  height: 70px
+  position: fixed
+  top: 0px
+  left: 0
+  width: 100%
+  &.sticky
+    opacity: 1
+    font-size: 24px
+    transition: all 0.4s ease-in-out
+  .back-arrow
+    position: relative
+    width: 20px
+    opacity: 0.4
+    height: 23px
+    top: -28px
+    left: -30px
+    transform: rotate(90deg) scale(1)
+    svg
+      display: block
+      transition: transform .3s
+      #l1, #l2
+        transform: rotate(180)
+        transition: transform .8s
+      #l1
+        transform-origin: bottom left
+      #l2
+        transform-origin: bottom right
+  &:hover
+      .back-arrow
+        opacity: 1
+        svg
+          transform: translateY(5px)
+          #l1
+            transform: rotate(15deg)
+          #l2
+            transform: rotate(-15deg)
+
 .hero
   margin-top: 15%
   .francesco_dechirico
@@ -15,41 +57,15 @@
       text-decoration: none
       font-size: 2.2rem
       font-family: $semibold
-    .back-arrow
-      position: relative
-      width: 20px
-      opacity: 0.4
-      height: 23px
-      top: -28px
-      left: -30px
-      transform: rotate(90deg) scale(1)
-      svg
-        display: block
-        transition: transform .3s
-        #l1, #l2
-          transform: rotate(180)
-          transition: transform .8s
-        #l1
-          transform-origin: bottom left
-        #l2
-          transform-origin: bottom right
-    &:hover
-        .back-arrow
-          opacity: 1
-          svg
-            transform: translateY(5px)
-            #l1
-              transform: rotate(15deg)
-            #l2
-              transform: rotate(-15deg)
+
 
 
 
 
 
   .intro
-    margin: 2% 0px
-    font-size: 4.5rem
+    margin: 4% 0px
+    font-size: 4.3rem
     line-height: 4.5rem
     font-family: $serif
     h3
@@ -64,9 +80,10 @@
   h6
     font-size: 1.1rem
     font-family: $semibold
-    letter-spacing: 0.2rem
+    letter-spacing: 0.4rem
     text-transform: uppercase
     margin-bottom: 2%
+    margin-top: 2%
   .description
     display: none
   a
@@ -92,11 +109,12 @@
       transition: all 0.3s ease-in 0.1s
       .mask-text
         position: relative
-        left: 30px
-        top: 30px
+        left: 20px
+        top: 20px
         h5
           font-family: $serif
           opacity: 0
+          font-size: 1.9rem
           transform: translateY(30px) .2s
           position: relative
         span
@@ -113,6 +131,7 @@
           display: inline-block
           line-height: 1.4
           border-radius: 50px
+          margin-bottom: 5px
 
       img
         display: block
@@ -134,11 +153,8 @@
             transition: all 0.1s cubic-bezier(0.715, 0.005, 0.220, 1.000) 0.1s
 
       img
-       transform: scale(1.1)
+       transform: scale(1.05)
        transition: all 0.4s ease 0.2s
-
-
-
 
 
 
@@ -154,6 +170,7 @@
 
 .getintouch
   margin: 6% 0px
+  overflow-wrap: break-word
 
 // BACKGROUNDS
 .full
@@ -193,7 +210,7 @@
 
 // MARGINS
 .margin-top
-  margin-top: 2%
+  margin-top: 6%
   margin-bottom: 0px
   display: block
 
@@ -205,6 +222,9 @@
   margin-top: 2%
   margin-bottom: 2%
   display: block
+
+.margin-less-top
+  margin-top: -6%
 
 // IMGS
 .small-imgs
