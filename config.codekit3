@@ -1099,7 +1099,13 @@
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/imgs\/zanui\/.zanui-artwork@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/zanui\/.zanui-artwork@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/zanui\/zanui-artwork.png": {
 		"ft": 32768,
@@ -1108,14 +1114,6 @@
 		"oAP": "\/imgs\/zanui\/zanui-artwork.png",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/imgs\/zanui\/zanui-artwork@2x.png": {
-		"ft": 32768,
-		"iS": 5722694,
-		"oA": 0,
-		"oAP": "\/imgs\/zanui\/zanui-artwork@2x.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/imgs\/zanui\/zanui-billboard.png": {
 		"ft": 32768,
