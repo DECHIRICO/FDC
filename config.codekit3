@@ -1037,13 +1037,21 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/imgs\/trf\/therightfit-diplay-2@2x.png": {
+		"ft": 32768,
+		"iS": 2220473,
+		"oA": 0,
+		"oAP": "\/imgs\/trf\/therightfit-diplay-2@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/imgs\/trf\/therightfit-display.png": {
 		"ft": 32768,
 		"iS": 379483,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/trf\/therightfit-display@2x.png": {
 		"ft": 32768,
@@ -1051,7 +1059,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/trf\/therightfit-grid.png": {
 		"ft": 32768,
