@@ -53,6 +53,8 @@
   box-sizing: border-box
 
 img
+  min-height: 70px
+  // background-color: rgba(45,48,49,0.10)
   max-width: 100%
   height: auto
   display: block
@@ -184,6 +186,9 @@ h1
   line-height: 1.2
   letter-spacing: 0.02rem
   font-family: $serif
+  &.introwork
+    margin-bottom: 0px
+
 
 h2
   font-size: 3.4rem
@@ -208,15 +213,29 @@ h6
   font-size: 1.4rem
 
 p
-  font-size: 1.7rem
+  font-size: 1.6rem
   line-height: 1.3
   font-size: $semibold
-
+  > a
+    color: $medium
+    border-bottom: 1px dotted $primary-link
+    padding-bottom: 1px
+    &:hover
+      border-bottom: 1px solid $primary-link
+      transition: all .2s cubic-bezier(0.39, 0.01, 0, 0.99)
+      color: $primary-link
 .caption
   padding-top: 1%
   padding-bottom: 1%
   font-size: 1.3rem
   line-height: 1.4
+  li
+    list-style: none
+    margin-bottom: 1px
+    font-size: 1.3rem
+    font-family: $semibold
+    margin-left: -10px
+
   .serif
     font-size: 1.25rem
     margin-bottom: 5px
@@ -225,12 +244,14 @@ p
   &.right
     text-align: right
     padding-right: 10px
-    // border-right: 0.5px solid lighten($light,20%)
     margin-right: 10px
+    &.border
+      border-right: 0.5px solid lighten($light,20%)
   &.left
     text-align: left
     padding-left: 10px
-    // border-left: 0.5px solid lighten($light,20%)
+    &.border
+      border-left: 0.5px solid lighten($light,20%)
 
 .quote
   text-align: center
