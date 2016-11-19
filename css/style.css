@@ -108,6 +108,13 @@ img {
   display: block;
   margin: auto; }
 
+/* Just for intro image in the work section */
+@media (max-width: 800px) {
+  .container.fullonmobile {
+    width: 100%;
+    margin: 0px;
+    padding: 0px; } }
+
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
