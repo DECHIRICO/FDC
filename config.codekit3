@@ -413,7 +413,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-interactions-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/account-interactions-cm@2x.png": {
 		"ft": 32768,
@@ -429,7 +429,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/account-selection-cm@2x.png": {
 		"ft": 32768,
@@ -437,7 +437,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/avatar-dropdown.png": {
 		"ft": 32768,
@@ -445,7 +445,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/avatar-dropdown@2x.png": {
 		"ft": 32768,
@@ -453,7 +453,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/avatar-selection.png": {
 		"ft": 32768,
@@ -461,7 +461,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/avatar-selection@2x.png": {
 		"ft": 32768,
@@ -469,7 +469,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/form-details-cm.png": {
 		"ft": 32768,
@@ -477,7 +477,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/form-details-cm@2x.png": {
 		"ft": 32768,
@@ -485,7 +485,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/header-cm-titles.png": {
 		"ft": 32768,
@@ -509,7 +509,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/icons-cm@2x.png": {
 		"ft": 32768,
@@ -517,7 +517,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/login-cm.png": {
 		"ft": 32768,
@@ -525,7 +525,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/login-cm@2x.png": {
 		"ft": 32768,
@@ -533,7 +533,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/profile-switch-cm.png": {
 		"ft": 32768,
@@ -541,7 +541,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/profile-switch-cm@2x.png": {
 		"ft": 32768,
@@ -549,7 +549,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/airtasker.png": {
 		"ft": 32768,
@@ -679,6 +679,30 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/theiconic\/.theiconic-tvcampaign-2@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-tvcampaign-2@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud",
+		"oF": 0
+		},
+	"\/imgs\/theiconic\/.theiconic@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/.theiconic@2x.png.icloud",
+		"oF": 0
+		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
 		"iS": 70840,
@@ -702,14 +726,6 @@
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2.png",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-fashion-2@2x.png": {
-		"ft": 32768,
-		"iS": 2395671,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2@2x.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/imgs\/theiconic\/theiconic-fashion.png": {
 		"ft": 32768,
@@ -847,14 +863,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png": {
-		"ft": 32768,
-		"iS": 5463283,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign.png": {
 		"ft": 32768,
 		"iS": 1399110,
@@ -862,14 +870,6 @@
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign.png",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign@2x.png": {
-		"ft": 32768,
-		"iS": 4669318,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign@2x.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/imgs\/theiconic\/theiconic-video-campaign.png": {
 		"ft": 32768,
@@ -895,13 +895,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic@2x.png": {
-		"ft": 32768,
-		"iS": 4669320,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic@2x.png",
-		"oF": 0,
-		"opt": 1
+	"\/imgs\/trf\/.therightfit-website@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/trf\/.therightfit-website@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
@@ -921,7 +919,7 @@
 		},
 	"\/imgs\/trf\/therightfit-all-icons.png": {
 		"ft": 32768,
-		"iS": 44960,
+		"iS": 69304,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/.therightfit-all-icons~imageoptim.png",
 		"oF": 0,
@@ -1017,7 +1015,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
-		"iS": 17029,
+		"iS": 15943,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
@@ -1039,13 +1037,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/trf\/therightfit-website@2x.png": {
-		"ft": 32768,
-		"iS": 3852917,
-		"oA": 0,
-		"oAP": "\/imgs\/trf\/.therightfit-website@2x~imageoptim.png",
-		"oF": 0,
-		"opt": 0
+	"\/imgs\/zanui\/.zanui-billboard@2x.png.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/zanui\/.zanui-billboard@2x.png.icloud",
+		"oF": 0
 		},
 	"\/imgs\/zanui\/therightfit-diplay-2@2x.png": {
 		"ft": 32768,
@@ -1078,14 +1074,6 @@
 		"oAP": "\/imgs\/zanui\/zanui-billboard.png",
 		"oF": 0,
 		"opt": 0
-		},
-	"\/imgs\/zanui\/zanui-billboard@2x.png": {
-		"ft": 32768,
-		"iS": 6142950,
-		"oA": 0,
-		"oAP": "\/imgs\/zanui\/zanui-billboard@2x.png",
-		"oF": 0,
-		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-colours.png": {
 		"ft": 32768,
