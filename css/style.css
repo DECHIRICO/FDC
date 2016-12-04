@@ -306,22 +306,24 @@ p {
     line-height: 1.4;
     color: #4A4A4A;
     margin-bottom: 0px; }
-    @media (max-width: 550px) {
+  @media (max-width: 550px) {
+    .company-desc {
+      padding: 0px; }
       .company-desc p {
-        font-size: 2.1rem; } }
+        font-size: 1.8rem; } }
 
 /* Larger than phablet */
 @media (max-width: 550px) {
   h1 {
-    font-size: 5.0rem; }
+    font-size: 4.6rem; }
   h2 {
     font-size: 4.2rem; }
   h3 {
-    font-size: 3.0rem; }
+    font-size: 2.5rem; }
   h4 {
-    font-size: 2.8rem; }
+    font-size: 2.5rem; }
   h5 {
-    font-size: 2.4rem; }
+    font-size: 2.2rem; }
   h6 {
     font-size: 1.3rem; } }
 
@@ -646,7 +648,7 @@ header {
       margin: 0px;
       text-decoration: none;
       font-size: 2.2rem;
-      font-family: "Conv_Graphik-Bold", sans-serif !important; }
+      font-family: "Conv_Graphik-Medium", sans-serif; }
   .hero .intro {
     margin: 4% 0px;
     font-size: 4.5rem;
