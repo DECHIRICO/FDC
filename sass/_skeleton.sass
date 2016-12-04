@@ -183,10 +183,10 @@ body
  *––––––––––––––––––––––––––––––––––––––––––––––––––
 
 h1, h2, h3, h4, h5, h6
-  margin-top: 0
-  margin-bottom: -10px
   font-weight: 300
-  font-family: $bold
+  font-family: $semibold
+  margin-top: -0.2em
+  margin-bottom: -0.3em
 
 h1
   font-size: 4.5rem
@@ -214,28 +214,27 @@ h6
   font-family: $semibold
   letter-spacing: 0.3rem
   text-transform: uppercase
-  margin-bottom: 0px
   &.subject
     margin-bottom: 1.2%
 
 
 p
-  font-size: 1.6rem
-  line-height: 1.3
+  font-size: 1.8rem
+  line-height: 1.4
   font-size: $semibold
   > a
-    color: $medium
+    color: $dark
     border-bottom: 1px dotted $primary-link
     padding-bottom: 1px
     &:hover
       border-bottom: 1px solid $primary-link
-      transition: all .2s cubic-bezier(0.39, 0.01, 0, 0.99)
+      transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
       color: $primary-link
 .caption
   padding-top: 1%
   padding-bottom: 1%
   font-size: 1.3rem
-  line-height: 1.4h1
+  line-height: 1.4
 
   @media (max-width: 550px)
     padding-top: 6%
@@ -273,13 +272,14 @@ p
   font-size: 1.4rem
 
 .company-desc
-  font-size: 2.8rem
-  line-height: 1.3
-  border-top: 7px solid #F5F9FB
-  padding-top: 20px
-  color: $dark
-  @media (max-width: 550px)
-    font-size: 2.1rem
+  padding: 30px
+  p
+    font-size: 2.3rem
+    line-height: 1.4
+    color: $dark
+    margin-bottom: 0px
+    @media (max-width: 550px)
+      font-size: 2.1rem
 
 
 /* Larger than phablet
@@ -310,8 +310,6 @@ a
   text-decoration: none
   &:hover
     color: $primary-link-hover
-    // border-bottom: 4px solid #c2e065
-    // transition: all .1s cubic-bezier(0.39, 0.01, 0, 0.99)
 
 /* Buttons
  *––––––––––––––––––––––––––––––––––––––––––––––––––

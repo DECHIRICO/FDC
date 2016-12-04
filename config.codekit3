@@ -679,30 +679,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/theiconic\/.theiconic-fashion-2@2x.png.icloud",
-		"oF": 0
-		},
-	"\/imgs\/theiconic\/.theiconic-tvcampaign-2@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/theiconic\/.theiconic-tvcampaign-2@2x.png.icloud",
-		"oF": 0
-		},
-	"\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/theiconic\/.theiconic-tvcampaign@2x.png.icloud",
-		"oF": 0
-		},
-	"\/imgs\/theiconic\/.theiconic@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/theiconic\/.theiconic@2x.png.icloud",
-		"oF": 0
-		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
 		"iS": 70840,
@@ -724,6 +700,14 @@
 		"iS": 605877,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/theiconic\/theiconic-fashion-2@2x.png": {
+		"ft": 32768,
+		"iS": 2395671,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2@2x.png",
 		"oF": 0,
 		"opt": 1
 		},
@@ -863,11 +847,27 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png": {
+		"ft": 32768,
+		"iS": 5463283,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign.png": {
 		"ft": 32768,
 		"iS": 1399110,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/theiconic\/theiconic-tvcampaign@2x.png": {
+		"ft": 32768,
+		"iS": 4669318,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign@2x.png",
 		"oF": 0,
 		"opt": 1
 		},
@@ -895,11 +895,13 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/trf\/.therightfit-website@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/trf\/.therightfit-website@2x.png.icloud",
-		"oF": 0
+	"\/imgs\/theiconic\/theiconic@2x.png": {
+		"ft": 32768,
+		"iS": 3437348,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic@2x.png",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
@@ -1023,7 +1025,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark@2x.png": {
 		"ft": 32768,
-		"iS": 10670,
+		"iS": 44087,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark@2x.png",
 		"oF": 0,
@@ -1037,11 +1039,13 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/zanui\/.zanui-billboard@2x.png.icloud": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/imgs\/zanui\/.zanui-billboard@2x.png.icloud",
-		"oF": 0
+	"\/imgs\/trf\/therightfit-website@2x.png": {
+		"ft": 32768,
+		"iS": 3604667,
+		"oA": 0,
+		"oAP": "\/imgs\/trf\/therightfit-website@2x.png",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/imgs\/zanui\/therightfit-diplay-2@2x.png": {
 		"ft": 32768,
@@ -1074,6 +1078,14 @@
 		"oAP": "\/imgs\/zanui\/zanui-billboard.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/imgs\/zanui\/zanui-billboard@2x.png": {
+		"ft": 32768,
+		"iS": 4434407,
+		"oA": 0,
+		"oAP": "\/imgs\/zanui\/zanui-billboard@2x.png",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-colours.png": {
 		"ft": 32768,
