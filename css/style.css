@@ -710,17 +710,19 @@ header {
         -webkit-transform: translateY(10px);
                 transform: translateY(10px);
         position: relative;
-        line-height: 2.4; }
+        line-height: 2.4;
+        margin-left: 6px; }
       .works .item .mask .mask-text span {
         opacity: 1;
         font-size: 1.4rem;
-        color: #B2BFC3; }
+        color: #B2BFC3;
+        margin-left: 6px; }
       .works .item .mask .mask-text .cs {
         text-transform: uppercase;
         font-size: 0.9rem;
         letter-spacing: 0.1rem;
-        background-color: #8A9CA8;
-        padding: 3px 8px 1px 8px;
+        background-color: rgba(138, 156, 168, 0.5);
+        padding: 5px 8px 2px 8px;
         text-align: center;
         display: inline-block;
         line-height: 1.4;
