@@ -599,6 +599,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/sel-home\/placeholder.png": {
+		"ft": 32768,
+		"iS": 2631,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/placeholder.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/sel-home\/theiconic.png": {
 		"ft": 32768,
 		"iS": 636128,
@@ -1017,7 +1025,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
-		"iS": 15943,
+		"iS": 17029,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
@@ -1033,7 +1041,7 @@
 		},
 	"\/imgs\/trf\/therightfit-website.png": {
 		"ft": 32768,
-		"iS": 1022308,
+		"iS": 1059840,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/.therightfit-website~imageoptim.png",
 		"oF": 0,
@@ -1911,6 +1919,19 @@
 		"oA": 2,
 		"oAP": "\/sass\/.sass-cache\/fab8177e09ab1ef324e50cb8a51328e7baeeb258\/variables.sassc",
 		"oF": 0
+		},
+	"\/sass\/_animations.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_animations.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/sass\/_skeleton.sass": {
 		"aP": 0,
