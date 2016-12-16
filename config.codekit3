@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -134,66 +134,16 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/bower_components\/normalize-css\/normalize.css",
-		"oF": 0,
-		"oS": 0
+		"oF": 1,
+		"oS": 3
 		},
 	"\/cm.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/cm.html",
 		"oF": 0
-		},
-	"\/css\/_variables.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/_variables-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/animate.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/animate-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/nav.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/nav-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/reset.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/reset-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/skeleton.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/skeleton-ck.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/css\/style.css": {
 		"aP": 0,
@@ -395,7 +345,7 @@
 		"ft": 16384,
 		"iS": 69319,
 		"oA": 0,
-		"oAP": "\/imgs\/bg\/bg-blur.jpeg",
+		"oAP": "\/imgs\/bg\/bg-blur.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -403,9 +353,9 @@
 		"ft": 16384,
 		"iS": 328882,
 		"oA": 0,
-		"oAP": "\/imgs\/bg\/bg.jpeg",
+		"oAP": "\/imgs\/bg\/bg.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/cm\/account-interactions-cm.png": {
 		"ft": 32768,
@@ -418,7 +368,7 @@
 	"\/imgs\/cm\/account-interactions-cm@2x.png": {
 		"ft": 32768,
 		"iS": 124250,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/imgs\/cm\/account-interactions-cm@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -557,7 +507,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/airtasker@2x.png": {
 		"ft": 32768,
@@ -605,7 +555,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/placeholder.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/sel-home\/theiconic.png": {
 		"ft": 32768,
@@ -741,7 +691,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-green@2x.png": {
 		"ft": 32768,
@@ -749,7 +699,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-logo.png": {
 		"ft": 32768,
@@ -757,7 +707,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-logo@2x.png": {
 		"ft": 32768,
@@ -773,7 +723,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-pattern@2x.png": {
 		"ft": 32768,
@@ -789,7 +739,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-pink@2x.png": {
 		"ft": 32768,
@@ -797,7 +747,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-red.png": {
 		"ft": 32768,
@@ -821,7 +771,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-sport@2x.png": {
 		"ft": 32768,
@@ -837,7 +787,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tagline.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-tagline@2x.png": {
 		"ft": 32768,
@@ -845,7 +795,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tagline@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2.png": {
 		"ft": 32768,
@@ -885,7 +835,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-video-campaign.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-video-campaign@2x.png": {
 		"ft": 32768,
@@ -931,9 +881,9 @@
 		"ft": 32768,
 		"iS": 69304,
 		"oA": 0,
-		"oAP": "\/imgs\/trf\/.therightfit-all-icons~imageoptim.png",
+		"oAP": "\/imgs\/trf\/therightfit-all-icons.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/trf\/therightfit-all-icons@2x.png": {
 		"ft": 32768,
@@ -1003,7 +953,7 @@
 		"ft": 32768,
 		"iS": 891775,
 		"oA": 0,
-		"oAP": "\/imgs\/trf\/.therightfit-display@2x~imageoptim.png",
+		"oAP": "\/imgs\/trf\/therightfit-display@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1033,7 +983,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark@2x.png": {
 		"ft": 32768,
-		"iS": 44087,
+		"iS": 10670,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark@2x.png",
 		"oF": 0,
@@ -1043,9 +993,9 @@
 		"ft": 32768,
 		"iS": 1059840,
 		"oA": 0,
-		"oAP": "\/imgs\/trf\/.therightfit-website~imageoptim.png",
+		"oAP": "\/imgs\/trf\/therightfit-website.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/trf\/therightfit-website@2x.png": {
 		"ft": 32768,
@@ -1085,7 +1035,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-billboard@2x.png": {
 		"ft": 32768,
@@ -1101,7 +1051,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-colours@2x.png": {
 		"ft": 32768,
@@ -1133,7 +1083,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-logo-geometric@2x.png": {
 		"ft": 32768,
@@ -1149,7 +1099,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-logo@2x.png": {
 		"ft": 32768,
@@ -1165,7 +1115,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg@2x.png": {
 		"ft": 32768,
@@ -1173,7 +1123,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-stamp.png": {
 		"ft": 32768,
@@ -1193,7 +1143,7 @@
 		},
 	"\/index.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
@@ -1211,6 +1161,14 @@
 		"oA": 0,
 		"oAP": "\/course.html",
 		"oF": 2,
+		"oS": 0
+		},
+	"\/jade\/includes\/footer-js.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/jade\/includes\/footer-js.html",
+		"oF": 0,
 		"oS": 0
 		},
 	"\/jade\/includes\/head.jade": {
@@ -1311,6 +1269,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/lazysizes.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/lazysizes.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1323,7 +1290,7 @@
 	"\/js\/min\/main-min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/min\/min\/main-min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -1968,8 +1935,8 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/style.css",
-		"oF": 2,
-		"oS": 0,
+		"oF": 3,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/sass\/nav.sass": {
@@ -1987,19 +1954,19 @@
 		},
 	"\/theiconic-apps.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/theiconic-apps.html",
 		"oF": 0
 		},
 	"\/theiconic.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/theiconic.html",
 		"oF": 0
 		},
 	"\/trf.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/trf.html",
 		"oF": 0
 		},
@@ -2209,7 +2176,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/business-card-2.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/business-card.png": {
 		"ft": 32768,
@@ -2217,7 +2184,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/business-card.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/full\/1.jpg": {
 		"ft": 16384,
@@ -2225,7 +2192,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/full\/2.jpg": {
 		"ft": 16384,
@@ -2257,7 +2224,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/full\/6.jpg": {
 		"ft": 16384,
@@ -2321,7 +2288,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/logo\/6.jpg": {
 		"ft": 16384,
@@ -2345,7 +2312,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/portfolio\/3.jpg": {
 		"ft": 16384,
@@ -2353,7 +2320,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/portfolio\/4.jpg": {
 		"ft": 16384,
@@ -2377,7 +2344,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/single\/1.jpg": {
 		"ft": 16384,
@@ -2385,7 +2352,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/single\/2.jpg": {
 		"ft": 16384,
@@ -2393,7 +2360,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/single\/3.jpg": {
 		"ft": 16384,
@@ -2409,7 +2376,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-1\/img\/single\/5.jpg": {
 		"ft": 16384,
@@ -2615,7 +2582,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/buttons.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/contact.jpg": {
 		"ft": 16384,
@@ -2647,7 +2614,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/custom-carousel.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/dark-iphone.jpg": {
 		"ft": 16384,
@@ -2679,7 +2646,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/featured-columns-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/header-01.jpg": {
 		"ft": 16384,
@@ -2695,7 +2662,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/header-02.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/header-03.jpg": {
 		"ft": 16384,
@@ -2703,7 +2670,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/header-03.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/htaccess.jpg": {
 		"ft": 16384,
@@ -2711,7 +2678,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/htaccess.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup-02.jpg": {
 		"ft": 16384,
@@ -2751,7 +2718,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/intro.jpg": {
 		"ft": 16384,
@@ -2835,7 +2802,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/pxtoem.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/sections.jpg": {
 		"ft": 16384,
@@ -2867,7 +2834,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/team.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/testimonial-01.jpg": {
 		"ft": 16384,
@@ -2891,7 +2858,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/timeline.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/Documentation\/assets\/white-iphone.jpg": {
 		"ft": 16384,
@@ -3143,7 +3110,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/apple-touch-icon-120x120.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/img\/apple-touch-icon-152x152.png": {
 		"ft": 32768,
@@ -3175,7 +3142,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/marker.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/desktop.png": {
 		"ft": 32768,
@@ -3183,7 +3150,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/desktop.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/desktop.svg": {
 		"ft": 2097152,
@@ -3201,7 +3168,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/ipad-black.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-black.svg": {
 		"ft": 2097152,
@@ -3273,7 +3240,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/iphone-grey.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-grey.svg": {
 		"ft": 2097152,
@@ -3309,7 +3276,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/placeholder.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/XXX\/Templating-2\/js\/beetle.js": {
 		"ft": 64,
@@ -3413,7 +3380,7 @@
 		},
 	"\/zanui.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/zanui.html",
 		"oF": 0
 		}
@@ -3870,6 +3837,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -4033,6 +4004,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -4398,6 +4373,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -4629,6 +4608,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -5462,6 +5445,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {

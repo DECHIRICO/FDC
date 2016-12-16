@@ -6,8 +6,3 @@ if ($(this).scrollTop() > 140){
     $('header').removeClass("sticky");
   }
 });
-
-
-$(window).load(function () {
-    $(".item").removeClass("placeholder");
-});
