@@ -915,7 +915,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-big-icons.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/trf\/therightfit-big-icons@2x.png": {
 		"ft": 32768,
@@ -975,7 +975,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
-		"iS": 17029,
+		"iS": 15943,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
@@ -991,7 +991,7 @@
 		},
 	"\/imgs\/trf\/therightfit-website.png": {
 		"ft": 32768,
-		"iS": 1059840,
+		"iS": 1022308,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website.png",
 		"oF": 0,
@@ -1107,7 +1107,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg.png": {
 		"ft": 32768,
@@ -1190,9 +1190,9 @@
 	"\/jade\/includes\/stiky.jade": {
 		"cOD": 1,
 		"ft": 512,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/jade\/includes\/stiky.html",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
 		},
 	"\/jade\/index.jade": {
@@ -1290,7 +1290,7 @@
 	"\/js\/min\/main-min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/js\/min\/min\/main-min-min.js",
 		"oF": 0,
 		"sC": 1,

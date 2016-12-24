@@ -1,79 +1,85 @@
 doctype html
 include includes/head.jade
   block title
-    | theright.fit
+    | - zanui
+        
+body  
     
-body      
   .container
     include includes/logo-works.jade
 
     .row
-      hr
-      h1.darkgrey Zanui
-    .row
-      .ten.columns
-        p The Iconic is Australia’s largest online fashion retailer. It launched in 2011 and quickly became a household name with over 90% brand recognition in under 3 years. When creating the visual identity from a technical perspective, I built a foundation that would enable it to be recognised across all platforms. 
-      .two.columns.lightgrey
-        .caption Art Director
-        .caption UX/UI Lead
-        .caption 2011-2013
+      h1.darkgrey.introwork Zanui
 
-  .container.wide
+  .container.wide.fullonmobile
     .row
       .twelve.columns
         img(src="imgs/zanui/zanui-logo.png" srcset="imgs/zanui/zanui-logo@2x.png 2x" alt="zanui logo")
 
   .container
     .row
+      .twelve.columns.company-desc 
+        p 
+          a(href="#", target="_blank") Zanui 
+          | Bla bla bla
+          
+  .container
+    .row
+      hr
+      h6.subject brief  
+      h3.darkgrey A new login screen
+    .row
+      .nine.columns
+        p When I joined, the company wanted to focus more on the marketers. The previous approach of creating an Agency&Client login needed to be simplified for these new users but in the meantime it still needed to address the existing and new users that were looking for Agency one. My job was to create a simple login screen that could capture both scenarios. 
+      .three.columns.lightgrey
+        .caption.left
+            li Product Design
+            li Illustation
+            li Icons Design
+
+  .container
+    //- .row
+    //-   .twelve.columns
+    //-     img(src="imgs/zanui/zanui-artwork.png" srcset="imgs/zanui/zanui-artwork@2x.png 2x" alt="zanui artwork")
+
+    .row
       .offset-by-one.three.columns.caption
-        .serif 
-          | On the right 
+        .title On the right
         | The Iconic is Australia’s largest online fashion retailer. 
       .seven.columns
         img(src="imgs/zanui/zanui-logo-geometric.png" srcset="imgs/zanui/zanui-logo-geometric@2x.png 2x" alt="zanui logo geometric")
 
-  .full.grey
     .container
+      .row
+        .ten.columns.caption
+            .title On the right 
+            | The Iconic is Australia’s largest online fashion retailer. 
+      .row
+        .twelve.columns.margins
+          img(src="imgs/zanui/zanui-colours.png" srcset="imgs/zanui/zanui-colours@2x.png 2x" alt="zanui colours")
+
+  .full.grey
+    .container.wide.fullonmobile
+      .row
+        .twelve.columns
+          img(src="imgs/zanui/zanui-billboard.png" srcset="imgs/zanui/zanui-billboard@2x.png 2x" alt="zanui billboard")
       .row
         .offset-by-two.ten.columns.caption
             .serif On the right 
             | The Iconic is Australia’s largest online fashion retailer. 
-      .row
-        .twelve.columns
-          img(src="imgs/zanui/zanui-colours.png" srcset="imgs/zanui/zanui-colours@2x.png 2x" alt="zanui colours")
-  .container
-    .row
-      hr 
-      h4.darkgrey The Iconic
-    .row
-      .ten.columns
-        p The Iconic is Australia’s largest online fashion retailer. It launched in 2011 and quickly became a household name with over 90% brand recognition in under 3 years. When creating the visual identity from a technical perspective, I built a foundation that would enable it to be recognised across all platforms. 
-      .two.columns.lightgrey
-        .caption Art Director
-        .caption UX/UI Lead
-        .caption 2011-2013
-            
-  .container.wide 
-    .row
-      .twelve.columns
-        img(src="imgs/zanui/zanui-billboard.png" srcset="imgs/zanui/zanui-billboard@2x.png 2x" alt="zanui billboard")
-  .container
-    .row
-      .offset-by-two.ten.columns.caption
-          .serif On the right 
-          | The Iconic is Australia’s largest online fashion retailer. 
-  .full.grey
+
     .container
       .row
         .twelve.columns
           img(src="imgs/zanui/zanui-artwork.png" srcset="imgs/zanui/zanui-artwork@2x.png 2x" alt="zanui artwork")
       .row
-        .offset-by-one.ten.columns
+        .offset-by-one.ten.columns.margin-top
           img(src="imgs/zanui/zanui-emails.png" srcset="imgs/zanui/zanui-emails@2x.png 2x" alt="zanui emails")
       .row
         .offset-by-two.ten.columns.caption
             .serif On the right 
             | The Iconic is Australia’s largest online fashion retailer. 
+            
   .full.zanui-products
     .stamp
       img(src="imgs/zanui/zanui-stamp.png" srcset="imgs/zanui/zanui-stamp@2x.png" alt="zanui stamp")

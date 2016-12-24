@@ -3,47 +3,47 @@
 @import "_animations.sass"
 
 
-header
-  background: $white
-  box-shadow: 0 1px 0 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
-  z-index: 1000
-  opacity: 0
-  height: 70px
-  position: fixed
-  top: 0px
-  left: 0
-  width: 100%
-  &.sticky
-    opacity: 1
-    font-size: 24px
-    transition: all 0.4s ease-in-out
-  .back-arrow
-    position: relative
-    width: 20px
-    opacity: 0.4
-    height: 23px
-    top: -28px
-    left: -30px
-    transform: rotate(90deg) scale(1)
-    svg
-      display: block
-      transition: transform .3s
-      #l1, #l2
-        transform: rotate(180)
-        transition: transform .8s
-      #l1
-        transform-origin: bottom left
-      #l2
-        transform-origin: bottom right
-  &:hover
-      .back-arrow
-        opacity: 1
-        svg
-          transform: translateY(5px)
-          #l1
-            transform: rotate(15deg)
-          #l2
-            transform: rotate(-15deg)
+// header
+// background: $white
+// box-shadow: 0 1px 0 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
+// z-index: 1000
+// opacity: 0
+// height: 70px
+// position: fixed
+// top: 0px
+// left: 0
+// width: 100%
+// &.sticky
+//   opacity: 1
+//   font-size: 24px
+//   transition: all 0.4s ease-in-out
+// .back-arrow
+//   position: relative
+//   width: 20px
+//   opacity: 0.4
+//   height: 23px
+//   top: -28px
+//   left: -30px
+//   transform: rotate(90deg) scale(1)
+//   svg
+//     display: block
+//     transition: transform .3s
+//     #l1, #l2
+//       transform: rotate(180)
+//       transition: transform .8s
+//     #l1
+//       transform-origin: bottom left
+//     #l2
+//       transform-origin: bottom right
+// &:hover
+//     .back-arrow
+//       opacity: 1
+//       svg
+//         transform: translateY(5px)
+//         #l1
+//           transform: rotate(15deg)
+//         #l2
+//           transform: rotate(-15deg)
 
 .hero
   margin-top: 15%
