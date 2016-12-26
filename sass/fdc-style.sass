@@ -1,49 +1,72 @@
 @import "_variables.sass"
 @import "_skeleton.sass"
 @import "_animations.sass"
+@import "_img-loader.sass"
 
 
-// header
-// background: $white
-// box-shadow: 0 1px 0 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
-// z-index: 1000
-// opacity: 0
-// height: 70px
-// position: fixed
-// top: 0px
-// left: 0
-// width: 100%
-// &.sticky
-//   opacity: 1
-//   font-size: 24px
-//   transition: all 0.4s ease-in-out
-// .back-arrow
-//   position: relative
-//   width: 20px
-//   opacity: 0.4
-//   height: 23px
-//   top: -28px
-//   left: -30px
-//   transform: rotate(90deg) scale(1)
-//   svg
-//     display: block
-//     transition: transform .3s
-//     #l1, #l2
-//       transform: rotate(180)
-//       transition: transform .8s
-//     #l1
-//       transform-origin: bottom left
-//     #l2
-//       transform-origin: bottom right
-// &:hover
-//     .back-arrow
-//       opacity: 1
-//       svg
-//         transform: translateY(5px)
-//         #l1
-//           transform: rotate(15deg)
-//         #l2
-//           transform: rotate(-15deg)
+header
+  transition: all 0.2s ease-in-out
+  background: white
+  z-index: 1000
+  height: 60px
+  position: fixed
+  width: 100%
+  opacity: 0
+  .split
+    width: 29.6666666667%
+    float: left
+    opacity: 0
+    &:hover
+      > span
+        color: $primary-link-hover
+    &.right
+      float: right
+      text-align: right
+      color: $medium
+      padding: 15px 10px 0px 0px
+      transform: translateX(100px)
+    &.left
+      text-align: left
+      color: $medium
+      padding: 15px 0px 0px 10px
+      transform: translateX(-100px)
+
+
+  @media (min-width: 500px)
+    top: 0px
+    left: 0px
+    box-shadow: 0 1px 0 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
+  @media (max-width: 500px)
+    bottom: 0px
+    left: 0px
+    box-shadow: 0 0 1px 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
+  &.sticky
+    opacity: 1
+    transition: all 0.4s ease-in-out
+    .split
+      opacity: 1
+      overflow: hidden
+      height: 40px
+      &.right
+        transition: all 0.4s cubic-bezier(0.715, 0.005, 0.220, 1.000)
+        transform: translateX(0px)
+        &:hover
+          transform: translateX(-10px)
+      &.left
+        transition: all 0.4s cubic-bezier(0.715, 0.005, 0.220, 1.000)
+        transform: translateX(0px)
+        &:hover
+          transform: translateX(10px)
+    h1
+      font-size: 2rem
+      line-height: 1.6
+      text-align: center
+    h6
+      font-size: 0.9rem
+    span
+      color: $dark
+      line-height: 1rem
+      font-size: 1.6rem
 
 .hero
   margin-top: 15%
@@ -58,7 +81,9 @@
       text-decoration: none
       font-size: 2.2rem
       font-family: $semibold
-      animation: opacity 2s
+      animation: opacity 0.5s
+      @media (max-width: 500px)
+        font-size: 2rem
 
   .intro
     margin: 4% 0px
@@ -66,8 +91,8 @@
     line-height: 1.1
     font-family: $body
     overflow-wrap: break-word
-    animation: movement 1s
-    @media (max-width: 400px)
+    animation: opacity 1s cubic-bezier(0.715, 0.005, 0.220, 1.000)
+    @media (max-width: 500px)
       font-size: 3rem
       line-height: 1.2
     h3
@@ -76,9 +101,12 @@
       color: #3A3D3E
       &:hover
         border-bottom: none
+
 .works
-  animation: movement 1s
+  animation: opacity
   animation-delay: 0.2s
+  img
+    min-height: auto
   h6
     margin-top: 2%
     margin-bottom: 2%
@@ -95,13 +123,10 @@
       .columns
         margin-bottom: 4%
 
-
-
   .item
     height: auto
     overflow: hidden
     position: relative
-    background-image: url('/imgs/sel-home/placeholder.png')
 
     .mask
       width: 100%
@@ -119,7 +144,6 @@
         left: 20px
         top: 20px
         h5
-          font-family: $semibold
           opacity: 0
           font-size: 1.9rem
           transform: translateY(10px)

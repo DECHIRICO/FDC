@@ -3,9 +3,8 @@ doctype html
 include includes/head.jade
   block title
     | 
-    
-      
-body      
+
+body  
   .container
     .hero
       .francesco_dechirico 
@@ -36,19 +35,23 @@ body
       //-         h5 Airtasker
       //-         span Branding and Iconograhy
 
+
+
       .row
         .six.columns.item
           a(href="trf.html")
-            img.lazysizes(src="/imgs/sel-home/therightfit.png" srcset= "imgs/sel-home/therightfit@2x.png 2x" )
+            .pil
+              img.lazysizes(src="imgs/sel-home/therightfit@2x.png", data-pil-thumb-url="imgs/sel-home/therightfit-thumb.png", data-full-width='730', data-full-height='530', alt='')
 
             .mask
               .mask-text
                 h5 theright.fit
                 span Branding and Iconograhy
-                
+        
         .six.columns.item
           a(href="cm.html")
-            img.lazysizes(src="imgs/sel-home/cm.png" srcset="imgs/sel-home/cm@2x.png 2x" )
+            .pil
+              img.lazysizes(src="imgs/sel-home/cm@2x.png", data-pil-thumb-url="imgs/sel-home/cm-thumb.png", data-full-width='730', data-full-height='530', alt='')
             .mask
               .mask-text
                 h5 Campaign Monitor
@@ -56,7 +59,8 @@ body
       .row
         .six.columns.item
           a(href="theiconic.html")
-            img.lazysizes(src="imgs/sel-home/theiconic.png" srcset="imgs/sel-home/theiconic@2x.png 2x" )
+            .pil
+              img.lazysizes(src="imgs/sel-home/theiconic@2x.png", data-pil-thumb-url="imgs/sel-home/theiconic-thumb.png", data-full-width='730', data-full-height='530', alt='')
             .mask
               .mask-text
                 h5 The Iconic
@@ -64,14 +68,16 @@ body
 
         .six.columns.item
           a(href="zanui.html")
-            img.lazysizes(src="imgs/sel-home/zanui.png" srcset="imgs/sel-home/zanui@2x.png 2x")
+            .pil
+              img.lazysizes(src="imgs/sel-home/zanui@2x.png", data-pil-thumb-url="imgs/sel-home/zanui-thumb.png", data-full-width='730', data-full-height='530', alt='')
             .mask
               .mask-text
                 h5 Zanui
                 span Branding and CI
       .row
         .six.columns.item
-            img.lazysizes(src="imgs/sel-home/theiconicapp.png" srcset="imgs/sel-home/theiconicapp@2x.png 2x")
+          .pil
+            img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
             .mask
               .mask-text
                 .cs Coming soon
@@ -79,7 +85,8 @@ body
                 span Product Design
                 
         .six.columns.item
-          img.lazysizes(src="imgs/sel-home/geores.png" srcset="imgs/sel-home/geores@2x.png 2x")
+          .pil
+            img.lazysizes(src="imgs/sel-home/geores@2x.png", data-pil-thumb-url="imgs/sel-home/geores-thumb.png", data-full-width='730', data-full-height='530', alt='')
           .mask
             .mask-text
               .cs Coming soon
@@ -106,3 +113,7 @@ body
           a(href="https://au.linkedin.com/in/dechiricofrancesco", target="_blank") linkedin
         li 
           a(href="https://dribbble.com/DECHIRICO", target="_blank") dribbble
+    
+script(src='./js/img-loader.js')
+  
+include includes/footer-js.jade

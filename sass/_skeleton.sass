@@ -32,8 +32,11 @@
   padding: 0 3%
   box-sizing: border-box
   max-width: 750px
-  // @media (max-width: 768px)
-  //   background-color: red
+  &.reading
+    transition: all 1s ease-in-out
+    &.opacity
+      opacity: 0.8
+      transform: translateY(-10px)
 
   &.mid-wide
     position: relative
@@ -66,7 +69,6 @@ img
       width: 100%
       margin: 0px
       padding: 0px
-
 
 /* For devices larger than 400px
 @media (min-width: 400px)
@@ -191,8 +193,11 @@ h1
   font-size: 4.5rem
   line-height: 1.2
   &.introwork
+    margin-top: 2%
     margin-bottom: 0px
-
+    @media (max-width: 500px)
+      margin-top: 2.5%
+      font-size: 2.8rem
 
 h2
   font-size: 3.3rem
@@ -208,7 +213,7 @@ h5
   font-size: 1.1rem
   line-height: 1.5
 h6
-  font-size: 1.2rem
+  font-size: 1.1rem
   line-height: 1.6
   font-family: $semibold
   letter-spacing: 0.3rem
@@ -228,12 +233,12 @@ p
       border-bottom: 1px solid $primary-link
       transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
       color: $primary-link
+
 .caption
   padding-top: 1%
   padding-bottom: 1%
   font-size: 1.3rem
   line-height: 1.4
-
   @media (max-width: 550px)
     padding-top: 6%
     padding-bottom: 6%
@@ -554,6 +559,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form
 .u-pull-left
   float: left
 
+
 /* Misc
  *––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -564,7 +570,6 @@ hr
   width: 20px
   margin-left: 0
   border-radius: 20px
-
 
 
 /* Clearing

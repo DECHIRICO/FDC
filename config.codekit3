@@ -517,6 +517,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/imgs\/sel-home\/cm-thumb.png": {
+		"ft": 32768,
+		"iS": 4358,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/cm-thumb.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/sel-home\/cm.png": {
 		"ft": 32768,
 		"iS": 12253,
@@ -532,6 +540,14 @@
 		"oAP": "\/imgs\/sel-home\/cm@2x.png",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/imgs\/sel-home\/geores-thumb.png": {
+		"ft": 32768,
+		"iS": 8326,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/geores-thumb.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/imgs\/sel-home\/geores.png": {
 		"ft": 32768,
@@ -549,13 +565,13 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/sel-home\/placeholder.png": {
+	"\/imgs\/sel-home\/theiconic-thumb.png": {
 		"ft": 32768,
-		"iS": 2631,
+		"iS": 48096,
 		"oA": 0,
-		"oAP": "\/imgs\/sel-home\/placeholder.png",
+		"oAP": "\/imgs\/sel-home\/theiconic-thumb.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/imgs\/sel-home\/theiconic.png": {
 		"ft": 32768,
@@ -573,6 +589,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/sel-home\/theiconicapp-thumb.png": {
+		"ft": 32768,
+		"iS": 28584,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/theiconicapp-thumb.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/sel-home\/theiconicapp.png": {
 		"ft": 32768,
 		"iS": 261773,
@@ -589,21 +613,13 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/sel-home\/therightfit-diplay-2.png": {
+	"\/imgs\/sel-home\/therightfit-thumb.png": {
 		"ft": 32768,
-		"iS": 651418,
+		"iS": 50581,
 		"oA": 0,
-		"oAP": "\/imgs\/sel-home\/therightfit-diplay-2.png",
+		"oAP": "\/imgs\/sel-home\/therightfit-thumb.png",
 		"oF": 0,
-		"opt": 1
-		},
-	"\/imgs\/sel-home\/therightfit-diplay-2@2x.png": {
-		"ft": 32768,
-		"iS": 2146441,
-		"oA": 0,
-		"oAP": "\/imgs\/sel-home\/therightfit-diplay-2@2x.png",
-		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/imgs\/sel-home\/therightfit.png": {
 		"ft": 32768,
@@ -620,6 +636,14 @@
 		"oAP": "\/imgs\/sel-home\/therightfit@2x.png",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/imgs\/sel-home\/zanui-thumb.png": {
+		"ft": 32768,
+		"iS": 4036,
+		"oA": 0,
+		"oAP": "\/imgs\/sel-home\/zanui-thumb.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/imgs\/sel-home\/zanui.png": {
 		"ft": 32768,
@@ -1005,6 +1029,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/zanui\/cm.png": {
+		"ft": 32768,
+		"iS": 4358,
+		"oA": 0,
+		"oAP": "\/imgs\/zanui\/cm.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/zanui\/therightfit-diplay-2@2x.png": {
 		"ft": 32768,
 		"iS": 2177362,
@@ -1179,20 +1211,20 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/jade\/includes\/header-nav.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/jade\/includes\/header-nav.html",
+		"oF": 1,
+		"oS": 0
+		},
 	"\/jade\/includes\/logo-works.jade": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/jade\/includes\/logo-works.html",
 		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/includes\/stiky.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/stiky.html",
-		"oF": 1,
 		"oS": 0
 		},
 	"\/jade\/index.jade": {
@@ -1260,6 +1292,24 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/Headroom.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/min\/Headroom-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/img-loader.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/js\/min\/img-loader-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/jquery-2.1.1.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1280,9 +1330,18 @@
 		},
 	"\/js\/main.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/js\/min\/main-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/min\/img-loader-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/min\/img-loader-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1896,6 +1955,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/_animations.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/_img-loader.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_img-loader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

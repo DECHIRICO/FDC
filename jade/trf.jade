@@ -2,7 +2,23 @@ doctype html
 include includes/head.jade
   block title
     | - theright.fit
-    
+
+
+header
+  //- a(href="theiconic.html")       
+  .split.left 
+      //- h6.subject.lightgrey Prev
+      //- p Zanui
+  .split
+    .francesco_dechirico 
+      a(href="index.html") 
+        h1 de Chirico
+
+  a(href="cm.html")       
+    .split.right 
+      h6.subject.lightgrey Next
+      span Campaign Monitor
+      
 body
   .container
     include includes/logo-works.jade
@@ -10,7 +26,7 @@ body
     .row
       h1.darkgrey.introwork theright.fit
 
-  .container.wide.fullonmobile
+  .container.wide.fullonmobile.reading
     .row
       .twelve.columns
         img(src="imgs/trf/theright.fit-logo.png" srcset="imgs/trf/theright.fit-logo@2x.png 2x")
