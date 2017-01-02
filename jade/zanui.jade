@@ -2,7 +2,22 @@ doctype html
 include includes/head.jade
   block title
     | - zanui
-        
+
+header
+  a(href="theiconic.html")       
+    .split.left 
+      h6.subject.lightgrey Prev
+      span The Iconic
+  .split
+    .francesco_dechirico 
+      a(href="index.html") 
+        h1 de Chirico
+
+  a(href="trf.html")       
+    .split.right 
+      h6.subject.lightgrey Next
+      span Theright.fit
+          
 body  
     
   .container
@@ -83,3 +98,5 @@ body
   .full.zanui-products
     .stamp
       img(src="imgs/zanui/zanui-stamp.png" srcset="imgs/zanui/zanui-stamp@2x.png" alt="zanui stamp")
+
+include includes/footer-js.jade

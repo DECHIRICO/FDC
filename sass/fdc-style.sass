@@ -13,9 +13,17 @@ header
   width: 100%
   opacity: 0
   .split
-    width: 29.6666666667%
-    float: left
+    width: 31.350%
     opacity: 0
+    float: left
+    box-sizing: border-box
+    margin-left: 2.4%
+    overflow: hidden
+    &:first-child
+      margin-left: 0
+    @media (max-width: 700px)
+      width: 32.250%
+      margin-left: 2%
     &:hover
       > span
         color: $primary-link-hover
@@ -30,8 +38,6 @@ header
       color: $medium
       padding: 15px 0px 0px 10px
       transform: translateX(-100px)
-
-
   @media (min-width: 500px)
     top: 0px
     left: 0px
@@ -42,30 +48,33 @@ header
     box-shadow: 0 0 1px 0 #CAD7DC, 0 2px 2px 0 rgba(201,214,219,0.50)
   &.sticky
     opacity: 1
-    transition: all 0.4s ease-in-out
+    transition: all 0.6s cubic-bezier(0.715, 0.005, 0.220, 1.000)
     .split
       opacity: 1
-      overflow: hidden
-      height: 40px
+      height: 50px
       &.right
         transition: all 0.4s cubic-bezier(0.715, 0.005, 0.220, 1.000)
         transform: translateX(0px)
         &:hover
           transform: translateX(-10px)
+          @media (max-width: 700px)
+            transform: none
       &.left
         transition: all 0.4s cubic-bezier(0.715, 0.005, 0.220, 1.000)
         transform: translateX(0px)
         &:hover
           transform: translateX(10px)
+          @media (max-width: 700px)
+            transform: none
     h1
       font-size: 2rem
-      line-height: 1.6
+      line-height: 1.7
       text-align: center
     h6
       font-size: 0.9rem
+      margin-bottom: 0.5%
     span
       color: $dark
-      line-height: 1rem
       font-size: 1.6rem
 
 .hero
@@ -75,7 +84,7 @@ header
     width: auto
     position: relative
     cursor: pointer
-    display: inline-block
+    display: block
     h1
       margin: 0px
       text-decoration: none
@@ -221,6 +230,11 @@ header
   &.black
     background-color: black
     padding: 6% 0 2% 0
+  &.black-iconic
+    background-color: #1F1E23
+    padding: 4% 0 2% 0
+    @media (max-width: 550px)
+      padding: 8% 0 2% 0
   &.trf
     background-color: #0E1468
     padding: 6% 0 2% 0
