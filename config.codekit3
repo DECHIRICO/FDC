@@ -661,38 +661,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/Group 3.png": {
-		"ft": 32768,
-		"iS": 89627,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/Group 3.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/Group 3@2x.png": {
-		"ft": 32768,
-		"iS": 249080,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/Group 3@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/Group 4.png": {
-		"ft": 32768,
-		"iS": 25463,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/Group 4.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/Group 4@2x.png": {
-		"ft": 32768,
-		"iS": 86127,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/Group 4@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
 		"iS": 70840,
@@ -731,7 +699,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-fashion@2x.png": {
 		"ft": 32768,
@@ -739,7 +707,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-green.png": {
 		"ft": 32768,
@@ -779,7 +747,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/imgs\/theiconic\/theiconic-pattern@2x.png": {
 		"ft": 32768,
@@ -835,7 +803,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-tagline.png": {
 		"ft": 32768,
@@ -935,7 +903,7 @@
 		},
 	"\/imgs\/trf\/therightfit-all-icons.png": {
 		"ft": 32768,
-		"iS": 69304,
+		"iS": 44960,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-all-icons.png",
 		"oF": 0,
@@ -1031,7 +999,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
-		"iS": 15943,
+		"iS": 17029,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
@@ -1039,7 +1007,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark@2x.png": {
 		"ft": 32768,
-		"iS": 10670,
+		"iS": 44087,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark@2x.png",
 		"oF": 0,
@@ -1047,7 +1015,7 @@
 		},
 	"\/imgs\/trf\/therightfit-website.png": {
 		"ft": 32768,
-		"iS": 1022308,
+		"iS": 1059840,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website.png",
 		"oF": 0,
