@@ -1219,6 +1219,14 @@
 		"oF": 2,
 		"oS": 0
 		},
+	"\/jade\/theiconic.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/jade\/theiconic.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/jade\/trf.jade": {
 		"cOD": 1,
 		"ft": 512,
@@ -1240,6 +1248,14 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/work.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/jade\/zanui.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/zanui.html",
 		"oF": 2,
 		"oS": 0
 		},
@@ -1988,6 +2004,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/theiconic-apps.html",
+		"oF": 0
+		},
+	"\/theiconic.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/theiconic.html",
 		"oF": 0
 		},
 	"\/trf.html": {
@@ -3402,6 +3424,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/works-4-columns.html",
+		"oF": 0
+		},
+	"\/zanui.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/zanui.html",
 		"oF": 0
 		}
 	},
