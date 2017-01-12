@@ -1013,11 +1013,11 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/zanui\/cm.png": {
+	"\/imgs\/twittercard.png": {
 		"ft": 32768,
-		"iS": 4358,
+		"iS": 428050,
 		"oA": 0,
-		"oAP": "\/imgs\/zanui\/cm.png",
+		"oAP": "\/imgs\/twittercard.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1171,14 +1171,6 @@
 		"oF": 2,
 		"oS": 0
 		},
-	"\/jade\/course.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/course.html",
-		"oF": 2,
-		"oS": 0
-		},
 	"\/jade\/includes\/footer-js.jade": {
 		"cOD": 1,
 		"ft": 512,
@@ -1231,8 +1223,8 @@
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/jade\/theiconic.html",
-		"oF": 0,
+		"oAP": "\/theiconic.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/jade\/trf.jade": {
@@ -1240,14 +1232,6 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/trf.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/welcome.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/welcome.html",
 		"oF": 2,
 		"oS": 0
 		},
@@ -1263,8 +1247,8 @@
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/jade\/zanui.html",
-		"oF": 0,
+		"oAP": "\/zanui.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/js\/analitycs.js": {
