@@ -645,22 +645,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/frame-design.png": {
-		"ft": 32768,
-		"iS": 7543,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/frame-design.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/frame-design@2x.png": {
-		"ft": 32768,
-		"iS": 18473,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/frame-design@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
 		"iS": 70832,
@@ -677,41 +661,25 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-fashion-2.png": {
+	"\/imgs\/theiconic\/theiconic-fashion-thumb.png": {
 		"ft": 32768,
-		"iS": 1118418,
+		"iS": 225969,
 		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-fashion-2@2x.png": {
-		"ft": 32768,
-		"iS": 3550926,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2@2x.png",
+		"oAP": "\/imgs\/theiconic\/theiconic-fashion-thumb.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-fashion-thumb.jpg": {
-		"ft": 16384,
-		"iS": 143871,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic-fashiona@2x.png": {
+	"\/imgs\/theiconic\/theiconic-fashion@2x.png": {
 		"ft": 32768,
 		"iS": 2713243,
 		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashiona@2x.png",
+		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.png",
 		"oF": 0,
 		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design.png": {
 		"ft": 32768,
-		"iS": 1411481,
+		"iS": 7543,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design.png",
 		"oF": 0,
@@ -719,7 +687,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design@2x.png": {
 		"ft": 32768,
-		"iS": 4957894,
+		"iS": 18473,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design@2x.png",
 		"oF": 0,
@@ -821,22 +789,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/theiconic-tagline.png": {
-		"ft": 32768,
-		"iS": 4868,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tagline.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic-tagline@2x.png": {
-		"ft": 32768,
-		"iS": 9164,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tagline@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png": {
 		"ft": 32768,
 		"iS": 545429,
@@ -845,69 +797,19 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign-2.png": {
-		"ft": 32768,
-		"iS": 1278570,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2.png",
-		"oF": 0,
-		"opt": 1
+	"\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb_tmp986188791": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb_tmp986188791",
+		"oF": 0
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png": {
 		"ft": 32768,
-		"iS": 4622603,
+		"iS": 2482917,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png",
 		"oF": 0,
-		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign.png": {
-		"ft": 32768,
-		"iS": 1014951,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-tvcampaign@2x.png": {
-		"ft": 32768,
-		"iS": 3436506,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign@2x.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/imgs\/theiconic\/theiconic-video-campaign.png": {
-		"ft": 32768,
-		"iS": 332216,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-video-campaign.png",
-		"oF": 0,
 		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic-video-campaign@2x.png": {
-		"ft": 32768,
-		"iS": 921483,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-video-campaign@2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic.png": {
-		"ft": 32768,
-		"iS": 1067203,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/theiconic\/theiconic@2x.png": {
-		"ft": 32768,
-		"iS": 3371618,
-		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic@2x.png",
-		"oF": 0,
-		"opt": 1
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
