@@ -92,7 +92,7 @@ body
           | The pattern design created for the Gift Paper based on the typeface and the three primary colours selected for the identity.
 
   .full.black-iconic
-    .container
+    .container.margin-bottom
       .row
         hr
         h6.subject brief  
@@ -111,32 +111,48 @@ body
               li Photography
               li Art Direction
               li Visual Identity
-              
-    .container.wide.fullonmobile
+
+    .container.margin-bottom
       .row
         .twelve.columns
-          img(src="imgs/theiconic/theiconic-tvcampaign.png" srcset="imgs/theiconic/theiconic-tvcampaign@2x.png 2x")
+          img(src="imgs/theiconic/theiconic-frame-design.png" srcset="imgs/theiconic/theiconic-frame-design@2x.png 2x")
+
+    .container.wide.fullonmobile.margin-top
+      .row
+        .twelve.columns.pil
+          img.lazysizes(src="imgs/theiconic/theiconic-tvcampaign-2@2x.png", data-pil-thumb-url="imgs/theiconic/theiconic-tvcampaign-2-thumb.png", data-full-height='860', data-full-width='1116', alt='')
 
     .container
       .row
         .offset-by-two.eight.columns.caption
             .title Above 
-            | Two applications, one for a fashion and one for sport, using the of the "Frame" and the new branding.
+            | The "Frame" and the tagline used for the campaign.
+    //- .container.wide.fullonmobile.margin-top
+    //-   .row
+    //-     .twelve.columns
+    //-       img(src="imgs/theiconic/theiconic-tvcampaign.png" srcset="imgs/theiconic/theiconic-tvcampaign@2x.png 2x")
+
+    //- .container.wide.fullonmobile.margin-top
+    //-   .row
+    //-     .twelve.columns
+    //-       img(src="imgs/theiconic/theiconic-tvcampaign-2.png" srcset="imgs/theiconic/theiconic-tvcampaign-2@2x.png 2x" alt="theright.fit")
+
     //- .container
     //-   .row
     //-     .offset-by-one.ten.columns
     //-       iframe(width='853', height='480', src='https://www.youtube.com/embed/GlmJoH_4WUk', frameborder='0', allowfullscreen='')
 
-    //- .container  
-    //-   .row
-    //-     .offset-by-two.eight.columns
-    //-       img(src="imgs/theiconic/theiconic-tvcampaign-2.png" srcset="imgs/theiconic/theiconic-tvcampaign-2@2x.png 2x" alt="theright.fit")
 
-    .container.wide.fullonmobile
+    .container
       .row
-        .six.columns.col-margin-mobile
-          img(src="imgs/theiconic/theiconic-sport.png" srcset="imgs/theiconic/theiconic-sport@2x.png 2x")
-        .six.columns
-          img(src="imgs/theiconic/theiconic-fashion.png" srcset="imgs/theiconic/theiconic-fashion@2x.png 2x")
+        .six.columns.col-margin-mobile.pil
+          img.lazysizes(src="imgs/theiconic/theiconic-sport@2x.png", data-pil-thumb-url="imgs/theiconic/theiconic-sport-thumb.png", data-full-height='1780', data-full-width='1250', alt='')
+        .six.columns.pil
+          img.lazysizes(src="imgs/theiconic/theiconic-fashiona@2x.png", data-pil-thumb-url="imgs/theiconic/theiconic-fashion-thumb.png", data-full-height='1768', data-full-width='1244', alt='')
+        .row
+          .offset-by-two.eight.columns.caption.margin-top
+              .title Above 
+              | Two applications, one for a fashion and one for sport, using the of the "Frame" and the new branding.
 
+script(src='./js/img-loader.js')
 include includes/footer-js.jade

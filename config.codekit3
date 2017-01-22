@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -645,9 +645,25 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/imgs\/theiconic\/frame-design.png": {
+		"ft": 32768,
+		"iS": 7543,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/frame-design.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/theiconic\/frame-design@2x.png": {
+		"ft": 32768,
+		"iS": 18473,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/frame-design@2x.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
-		"iS": 70840,
+		"iS": 70832,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-constrution.png",
 		"oF": 0,
@@ -655,7 +671,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-constrution@2x.png": {
 		"ft": 32768,
-		"iS": 202379,
+		"iS": 231529,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-constrution@2x.png",
 		"oF": 0,
@@ -663,7 +679,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-fashion-2.png": {
 		"ft": 32768,
-		"iS": 605877,
+		"iS": 1118418,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2.png",
 		"oF": 0,
@@ -671,31 +687,47 @@
 		},
 	"\/imgs\/theiconic\/theiconic-fashion-2@2x.png": {
 		"ft": 32768,
-		"iS": 2395671,
+		"iS": 3550926,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-2@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-fashion.png": {
-		"ft": 32768,
-		"iS": 543779,
+	"\/imgs\/theiconic\/theiconic-fashion-thumb.jpg": {
+		"ft": 16384,
+		"iS": 143871,
 		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion.png",
+		"oAP": "\/imgs\/theiconic\/theiconic-fashion-thumb.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-fashion@2x.png": {
+	"\/imgs\/theiconic\/theiconic-fashiona@2x.png": {
 		"ft": 32768,
-		"iS": 1992019,
+		"iS": 2713243,
 		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.png",
+		"oAP": "\/imgs\/theiconic\/theiconic-fashiona@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/imgs\/theiconic\/theiconic-frame-design.png": {
+		"ft": 32768,
+		"iS": 1411481,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-frame-design.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/imgs\/theiconic\/theiconic-frame-design@2x.png": {
+		"ft": 32768,
+		"iS": 4957894,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-frame-design@2x.png",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-green.png": {
 		"ft": 32768,
-		"iS": 3471,
+		"iS": 168,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green.png",
 		"oF": 0,
@@ -703,7 +735,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-green@2x.png": {
 		"ft": 32768,
-		"iS": 8842,
+		"iS": 257,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green@2x.png",
 		"oF": 0,
@@ -711,7 +743,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-logo.png": {
 		"ft": 32768,
-		"iS": 25798,
+		"iS": 3507,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-logo.png",
 		"oF": 0,
@@ -719,7 +751,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-logo@2x.png": {
 		"ft": 32768,
-		"iS": 86878,
+		"iS": 8059,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-logo@2x.png",
 		"oF": 0,
@@ -727,7 +759,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-pattern.png": {
 		"ft": 32768,
-		"iS": 161154,
+		"iS": 90463,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern.png",
 		"oF": 0,
@@ -735,7 +767,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-pattern@2x.png": {
 		"ft": 32768,
-		"iS": 399213,
+		"iS": 146494,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern@2x.png",
 		"oF": 0,
@@ -743,7 +775,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-pink.png": {
 		"ft": 32768,
-		"iS": 3355,
+		"iS": 310,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink.png",
 		"oF": 0,
@@ -751,7 +783,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-pink@2x.png": {
 		"ft": 32768,
-		"iS": 8596,
+		"iS": 541,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink@2x.png",
 		"oF": 0,
@@ -759,7 +791,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-red.png": {
 		"ft": 32768,
-		"iS": 3605,
+		"iS": 224,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-red.png",
 		"oF": 0,
@@ -767,31 +799,31 @@
 		},
 	"\/imgs\/theiconic\/theiconic-red@2x.png": {
 		"ft": 32768,
-		"iS": 8832,
+		"iS": 404,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-red@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/imgs\/theiconic\/theiconic-sport.png": {
+	"\/imgs\/theiconic\/theiconic-sport-thumb.png": {
 		"ft": 32768,
-		"iS": 520466,
+		"iS": 83478,
 		"oA": 0,
-		"oAP": "\/imgs\/theiconic\/theiconic-sport.png",
+		"oAP": "\/imgs\/theiconic\/theiconic-sport-thumb.png",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/imgs\/theiconic\/theiconic-sport@2x.png": {
 		"ft": 32768,
-		"iS": 1824200,
+		"iS": 1745207,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-tagline.png": {
 		"ft": 32768,
-		"iS": 11311,
+		"iS": 4868,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tagline.png",
 		"oF": 0,
@@ -799,15 +831,23 @@
 		},
 	"\/imgs\/theiconic\/theiconic-tagline@2x.png": {
 		"ft": 32768,
-		"iS": 27440,
+		"iS": 9164,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tagline@2x.png",
 		"oF": 0,
 		"opt": 0
 		},
+	"\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png": {
+		"ft": 32768,
+		"iS": 545429,
+		"oA": 0,
+		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2.png": {
 		"ft": 32768,
-		"iS": 1475713,
+		"iS": 1278570,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2.png",
 		"oF": 0,
@@ -815,15 +855,15 @@
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png": {
 		"ft": 32768,
-		"iS": 5463283,
+		"iS": 4622603,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign.png": {
 		"ft": 32768,
-		"iS": 1399110,
+		"iS": 1014951,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign.png",
 		"oF": 0,
@@ -831,15 +871,15 @@
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign@2x.png": {
 		"ft": 32768,
-		"iS": 4669318,
+		"iS": 3436506,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/theiconic\/theiconic-video-campaign.png": {
 		"ft": 32768,
-		"iS": 471282,
+		"iS": 332216,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-video-campaign.png",
 		"oF": 0,
@@ -847,7 +887,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-video-campaign@2x.png": {
 		"ft": 32768,
-		"iS": 1432740,
+		"iS": 921483,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-video-campaign@2x.png",
 		"oF": 0,
@@ -855,7 +895,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic.png": {
 		"ft": 32768,
-		"iS": 1399120,
+		"iS": 1067203,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic.png",
 		"oF": 0,
@@ -863,7 +903,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic@2x.png": {
 		"ft": 32768,
-		"iS": 4669320,
+		"iS": 3371618,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic@2x.png",
 		"oF": 0,
@@ -1023,7 +1063,7 @@
 		},
 	"\/imgs\/zanui\/therightfit-diplay-2@2x.png": {
 		"ft": 32768,
-		"iS": 1884445,
+		"iS": 1807101,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/therightfit-diplay-2@2x.png",
 		"oF": 0,
@@ -1031,7 +1071,7 @@
 		},
 	"\/imgs\/zanui\/zanui-artwork.png": {
 		"ft": 32768,
-		"iS": 1780480,
+		"iS": 1627007,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork.png",
 		"oF": 0,
@@ -1039,7 +1079,7 @@
 		},
 	"\/imgs\/zanui\/zanui-artwork@2x.png": {
 		"ft": 32768,
-		"iS": 5722694,
+		"iS": 4894816,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork@2x.png",
 		"oF": 0,
@@ -1047,7 +1087,7 @@
 		},
 	"\/imgs\/zanui\/zanui-billboard.png": {
 		"ft": 32768,
-		"iS": 1956940,
+		"iS": 1385213,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard.png",
 		"oF": 0,
@@ -1055,7 +1095,7 @@
 		},
 	"\/imgs\/zanui\/zanui-billboard@2x.png": {
 		"ft": 32768,
-		"iS": 6142950,
+		"iS": 4247787,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard@2x.png",
 		"oF": 0,
@@ -1063,7 +1103,7 @@
 		},
 	"\/imgs\/zanui\/zanui-colours.png": {
 		"ft": 32768,
-		"iS": 176723,
+		"iS": 148930,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours.png",
 		"oF": 0,
@@ -1071,7 +1111,7 @@
 		},
 	"\/imgs\/zanui\/zanui-colours@2x.png": {
 		"ft": 32768,
-		"iS": 626583,
+		"iS": 526232,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours@2x.png",
 		"oF": 0,
@@ -1079,7 +1119,7 @@
 		},
 	"\/imgs\/zanui\/zanui-emails.png": {
 		"ft": 32768,
-		"iS": 516532,
+		"iS": 409773,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-emails.png",
 		"oF": 0,
@@ -1087,7 +1127,7 @@
 		},
 	"\/imgs\/zanui\/zanui-emails@2x.png": {
 		"ft": 32768,
-		"iS": 1638060,
+		"iS": 1313018,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-emails@2x.png",
 		"oF": 0,
@@ -1095,7 +1135,7 @@
 		},
 	"\/imgs\/zanui\/zanui-logo-geometric.png": {
 		"ft": 32768,
-		"iS": 53079,
+		"iS": 34660,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric.png",
 		"oF": 0,
@@ -1103,7 +1143,7 @@
 		},
 	"\/imgs\/zanui\/zanui-logo-geometric@2x.png": {
 		"ft": 32768,
-		"iS": 151298,
+		"iS": 96442,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric@2x.png",
 		"oF": 0,
@@ -1111,7 +1151,7 @@
 		},
 	"\/imgs\/zanui\/zanui-logo.png": {
 		"ft": 32768,
-		"iS": 31181,
+		"iS": 13559,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo.png",
 		"oF": 0,
@@ -1119,7 +1159,7 @@
 		},
 	"\/imgs\/zanui\/zanui-logo@2x.png": {
 		"ft": 32768,
-		"iS": 91103,
+		"iS": 32716,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo@2x.png",
 		"oF": 0,
@@ -1127,7 +1167,7 @@
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg.png": {
 		"ft": 32768,
-		"iS": 226987,
+		"iS": 174949,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg.png",
 		"oF": 0,
@@ -1135,7 +1175,7 @@
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg@2x.png": {
 		"ft": 32768,
-		"iS": 775168,
+		"iS": 602703,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg@2x.png",
 		"oF": 0,
@@ -1143,7 +1183,7 @@
 		},
 	"\/imgs\/zanui\/zanui-stamp.png": {
 		"ft": 32768,
-		"iS": 25196,
+		"iS": 12379,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp.png",
 		"oF": 0,
@@ -1151,7 +1191,7 @@
 		},
 	"\/imgs\/zanui\/zanui-stamp@2x.png": {
 		"ft": 32768,
-		"iS": 56728,
+		"iS": 29002,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp@2x.png",
 		"oF": 0,
@@ -1247,8 +1287,8 @@
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/zanui.html",
-		"oF": 2,
+		"oAP": "\/jade\/zanui.html",
+		"oF": 0,
 		"oS": 0
 		},
 	"\/js\/analitycs.js": {
@@ -4081,6 +4121,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -4620,6 +4664,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
