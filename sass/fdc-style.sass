@@ -6,7 +6,7 @@
 
 header
   transition: all 0.2s ease-in-out
-  background: white
+  background-color: white
   z-index: 1000
   height: 60px
   position: fixed
@@ -41,11 +41,14 @@ header
   @media (min-width: 500px)
     top: 0px
     left: 0px
-    box-shadow: 0 1px 0 0 #CAD7DC,
+    h1
+      display: none
+    // box-shadow: 0 1px 0 0 #CAD7DC,
   @media (max-width: 500px)
     bottom: 0px
     left: 0px
-    box-shadow: 0 0 1px 0 #CAD7DC, 
+    background-color: white
+    box-shadow: 0 0 1px 0 #CAD7DC,
   &.sticky
     opacity: 1
     transition: all 0.6s cubic-bezier(0.715, 0.005, 0.220, 1.000)
@@ -88,7 +91,7 @@ header
     h1
       margin: 0px
       text-decoration: none
-      font-size: 2.2rem
+      font-size: 2rem
       font-family: $semibold
       animation: opacity 0.5s
       @media (max-width: 500px)
