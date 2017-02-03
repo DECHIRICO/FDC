@@ -1,118 +1,117 @@
 doctype html
+html(lang='en')
 
-include includes/head.jade
-  block title
-    | 
+  include includes/head.jade
+    block title
+      | 
 
-body  
-  .container
-    .hero
-      .francesco_dechirico 
-        a(href="index.html") 
-          h1 de Chirico
-      h3.intro
-        | I am a multi-disciplinary designer. Currently VP of Design at 
-        a(href="https://www.airtasker.com/", target="_blank") Airtasker
-        |. Previously at 
-        a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
-        | and 
-        a(href="http://www.theiconic.com.au/", target="_blank") The Iconic.
-        
-      //- h3.lightgrey 
-      //-   | I am keen on ideas, method, humility, culture, honesty and pizza.
-        
-
-  .works
+  body  
     .container
-      h6.lightgrey.subject Work
-      //- .row
-      //-   .twelve.columns.item
-      //-     img(src="imgs/sel-home/airtasker.png" srcset="imgs/sel-home/airtasker@2x.png 2x" alt="Airtasker")
-      //- 
-      //-     .mask
-      //-       .mask-text
-      //-         .cs Coming soon
-      //-         h5 Airtasker
-      //-         span Branding and Iconograhy
+      .hero
+        .francesco_dechirico 
+          a(href="index.html") 
+            h1 de Chirico
+        h3.intro
+          | I am a multi-disciplinary designer. Currently VP of Design at 
+          a(href="https://www.airtasker.com/", target="_blank") Airtasker
+          |. Previously at 
+          a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
+          | and 
+          a(href="http://www.theiconic.com.au/", target="_blank") The Iconic.
+          
+        //- h3.lightgrey 
+        //-   | I am keen on ideas, method, humility, culture, honesty and pizza.
+          
+    .works
+      .container
+        h6.lightgrey.subject Work
+        //- .row
+        //-   .twelve.columns.item
+        //-     img(src="imgs/sel-home/airtasker.png" srcset="imgs/sel-home/airtasker@2x.png 2x" alt="Airtasker")
+        //- 
+        //-     .mask
+        //-       .mask-text
+        //-         .cs Coming soon
+        //-         h5 Airtasker
+        //-         span Branding and Iconograhy
 
 
 
-      .row
-        .six.columns.item
-          a(href="trf.html")
+        .row
+          .six.columns.item
+            a(href="trf.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/therightfit@2x.png", data-pil-thumb-url="imgs/sel-home/therightfit-thumb.png", data-full-width='730', data-full-height='530', alt='')
+
+              .mask
+                .mask-text
+                  h5 theright.fit
+                  span Branding and Iconograhy
+          
+          .six.columns.item
+            a(href="cm.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/cm@2x.png", data-pil-thumb-url="imgs/sel-home/cm-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              .mask
+                .mask-text
+                  h5 Campaign Monitor
+                  span Product design
+        .row
+          .six.columns.item
+            a(href="theiconic.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/theiconic@2x.png", data-pil-thumb-url="imgs/sel-home/theiconic-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              .mask
+                .mask-text
+                  h5 The Iconic
+                  span Branding and Art Direction
+
+          .six.columns.item
+            a(href="zanui.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/zanui@2x.png", data-pil-thumb-url="imgs/sel-home/zanui-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              .mask
+                .mask-text
+                  h5 Zanui
+                  span Branding and CI
+        .row
+          .six.columns.item
             .pil
-              img.lazysizes(src="imgs/sel-home/therightfit@2x.png", data-pil-thumb-url="imgs/sel-home/therightfit-thumb.png", data-full-width='730', data-full-height='530', alt='')
-
-            .mask
-              .mask-text
-                h5 theright.fit
-                span Branding and Iconograhy
-        
-        .six.columns.item
-          a(href="cm.html")
+              img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              .mask
+                .mask-text
+                  .cs Coming soon
+                  h5 The Iconic
+                  span Product Design
+                  
+          .six.columns.item
             .pil
-              img.lazysizes(src="imgs/sel-home/cm@2x.png", data-pil-thumb-url="imgs/sel-home/cm-thumb.png", data-full-width='730', data-full-height='530', alt='')
-            .mask
-              .mask-text
-                h5 Campaign Monitor
-                span Product design
-      .row
-        .six.columns.item
-          a(href="theiconic.html")
-            .pil
-              img.lazysizes(src="imgs/sel-home/theiconic@2x.png", data-pil-thumb-url="imgs/sel-home/theiconic-thumb.png", data-full-width='730', data-full-height='530', alt='')
-            .mask
-              .mask-text
-                h5 The Iconic
-                span Branding and Art Direction
-
-        .six.columns.item
-          a(href="zanui.html")
-            .pil
-              img.lazysizes(src="imgs/sel-home/zanui@2x.png", data-pil-thumb-url="imgs/sel-home/zanui-thumb.png", data-full-width='730', data-full-height='530', alt='')
-            .mask
-              .mask-text
-                h5 Zanui
-                span Branding and CI
-      .row
-        .six.columns.item
-          .pil
-            img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              img.lazysizes(src="imgs/sel-home/geores@2x.png", data-pil-thumb-url="imgs/sel-home/geores-thumb.png", data-full-width='730', data-full-height='530', alt='')
             .mask
               .mask-text
                 .cs Coming soon
-                h5 The Iconic
-                span Product Design
-                
-        .six.columns.item
-          .pil
-            img.lazysizes(src="imgs/sel-home/geores@2x.png", data-pil-thumb-url="imgs/sel-home/geores-thumb.png", data-full-width='730', data-full-height='530', alt='')
-          .mask
-            .mask-text
-              .cs Coming soon
-              h5 Geores
-              span Branding
-  .container
-    hr
-    .getintouch
-      h3
-        | That’s all folks.
-        | Say hello.
-        .lightgrey Please email 
-        a(href="mailto:hello@francescodechirico.com?subject=Love your portfolio dude!", target="_blank") hello@francescodechirico.com
-  
-  
-  .container
-    .social
-      ul
-        li.first-child More about my work at
-        li 
-          a(href="https://twitter.com/FDC_DECHIRICO", target="_blank") twitter
-        li 
-          a(href="https://au.linkedin.com/in/dechiricofrancesco", target="_blank") linkedin
-        li 
-          a(href="https://dribbble.com/DECHIRICO", target="_blank") dribbble
+                h5 Geores
+                span Branding
+    .container
+      hr
+      .getintouch
+        h3
+          | That’s all folks.
+          | Say hello.
+          .lightgrey Please email 
+          a(href="mailto:hello@francescodechirico.com?subject=Love your portfolio dude!", target="_blank") hello@francescodechirico.com
     
-script(src='./js/img-loader.js')
-  
-include includes/footer-js.jade
+    
+    .container
+      .social
+        ul
+          li.first-child More about my work at
+          li 
+            a(href="https://twitter.com/FDC_DECHIRICO", target="_blank") twitter
+          li 
+            a(href="https://au.linkedin.com/in/dechiricofrancesco", target="_blank") linkedin
+          li 
+            a(href="https://dribbble.com/DECHIRICO", target="_blank") dribbble
+    
+  script(src='./js/img-loader.js')
+  include includes/footer-js.jade
