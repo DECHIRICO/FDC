@@ -1,102 +1,132 @@
 doctype html
-include includes/head.jade
-  block title
-    | theright.fit
+html(lang='en')
+
+  include includes/head.jade
+    block title
+      |- The Iconic App
+  header
     
-body      
-  .container
-    include includes/logo-works.jade
+    a(href="zanui.html")       
+      .split.left 
+        h6.subject.lightgrey Prev
+        span Zanui
         
-    .row
-      hr
-      h1.darkgrey The Iconic Apps
-    .row.less
-      .eight.columns
-        p The Iconic is Australia’s largest online fashion retailer. It launched in 2011 and quickly became a household name with over 90% brand recognition in under 3 years. When creating the visual identity from a technical perspective, I built a foundation that would enable it to be recognised across all platforms. 
-      .four.columns.comments.lightgrey
-        | Art Director - UX/UI Lead
-        br
-        | 2011-2013
+    .split
+      .francesco_dechirico 
+        a(href="index.html") 
+          h1 de Chirico
 
-  .container.wide
-    .row
-      .twelve.columns
-        img(src="imgs/zanui/zanui-logo.png" srcset="imgs/zanui/zanui-logo.png@2x.png 2x" alt="zanui logo")
-  .container
-    .row
-      .three.columns.comments Below
-      .nine.columns 
-        span Heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext here   
-  .container
-    .row
-      .twelve.columns
-        img(src="imgs/theiconic/theiconic-constrution.png" srcset="imgs/theiconic/theiconic-constrution@2x.png 2x" alt="theright.fit")
-
-  .full.grey
+    a(href="geores.html")       
+      .split.right 
+        h6.subject.lightgrey Next
+        span Geores
+  body      
     .container
+      include includes/logo-works.jade
+          
       .row
-        .four.columns
-          img(src="imgs/theiconic/theiconic-green.png" srcset="imgs/theiconic/theiconic-green@2x.png 2x" alt="theright.fit")
-        .four.columns
-          img(src="imgs/theiconic/theiconic-red.png" srcset="imgs/theiconic/theiconic-red@2x.png 2x" alt="theright.fit")
-        .four.columns
-          img(src="imgs/theiconic/theiconic-pink.png" srcset="imgs/theiconic/theiconic-pink@2x.png 2x" alt="theright.fit")
-      .row
-        .twelve.columns
-          img(src="imgs/theiconic/theiconic-pattern.png" srcset="imgs/theiconic/theiconic-pattern@2x.png 2x" alt="theright.fit")
-      .row.note
-        .three.columns.comments Above
-        .nine.columns 
-          span Heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext here
-  .container
-    .row.note
-      h5.darkgrey The Iconic
-    .row
-      .eight.columns
-        p najdnajnda jsndjsandja ndjnasjd najsndjsa njdasjndjasnd jnajndjansj  ajdnajsndjan ajndjansdjna
-      .four.columns.comments.lightgrey
-        | Art Director - UX/UI Lead
-        br
-        | 2011-2013      
-    .row
-      .twelve.columns
-        img(src="imgs/theiconic/theiconic-tagline.png" srcset="imgs/theiconic/theiconic-tagline@2x.png 2x" alt="theright.fit")
-  .container.wide
-    .row
-      .twelve.columns
-        img(src="imgs/theiconic/theiconic-tvcampaign.png" srcset="imgs/theiconic/theiconic-tvcampaign@2x.png 2x" alt="theright.fit")
-  .container
-    .row
-      .three.columns.comments Above
-      .nine.columns 
-        span Heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext here  .container  
-    .row
-      .twelve.columns
-        img(src="imgs/theiconic/theiconic-video-campaign.png" srcset="imgs/theiconic/theiconic-video-campaign@2x.png 2x" alt="theright.fit")
-    .row
-      .twelve.quote.lightgrey
-         span Backseat is the first ridesharing app in Australia. Just select your pick-up location, and the app connects you with the closest available driver. Being part of the founding team has been a beneficial and challenging experience.
+        h1.darkgrey.introwork The Iconic Apps
+        h2.introwork Website and iOS app design
+        h3.introwork Product design • 2011/2015
+
+    .full.intro
+      .container.wide.reading
+          .row
+            .twelve.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/theiconic-website-responsive.png", data-pil-thumb-url="imgs/theiconicapps/theiconic-website-responsive-thumb.png", data-full-height='350', data-full-width='350', alt='')
+
+    .container
+      .row.company-desc  
+        .two.columns
+          h6.subject company 
+        .ten.columns
+          p 
+            a(href="https://www.theiconic.com.au/", target="_blank") The Iconic 
+            | launched in 2011 under e-commerce incubator 
+            a(href="https://www.rocket-internet.com/", target="_blank") Rocket Internet GmBh
+            | . It is one of Australia’s largest online fashion retailers creating a growing home-based fashion community and quickly became a household name with over 90% brand recognition.
     
-  .full.grey
     .container
-      .row.note
-        h5.darkgrey The Iconic
       .row
-        .eight.columns
-          p najdnajnda jsndjsandja ndjnasjd najsndjsa njdasjndjasnd jnajndjansj  ajdnajsndjan ajndjansdjna
-        .four.columns.comments.lightgrey
-          | Art Director - UX/UI Lead
-          br
-          | 2011-2013 
-    .container.mid-wide
+        hr
+        h3.darkgrey Responsive website 
       .row
-        .six.columns
-          img(src="imgs/theiconic/theiconic-fashion-2.png" srcset="imgs/theiconic/theiconic-fashion-2@2x.png 2x" alt="theright.fit")
-        .six.columns
-          img(src="imgs/theiconic/theiconic-fashion.png" srcset="imgs/theiconic/theiconic-fashion@2x.png 2x" alt="theright.fit")
-    .container  
+        .nine.columns
+          p The brief was to redesign the e-commerce experience addressing the mobile web experience (previously just a stand alone version for mobile viewers only).
+          p A part from the obvious challeges we had to face a few additional ones specific to an e-commerce application - for example we knew that the page speed had to feel fast on every device so we couldn't use large images, the branding and UI needed to be to be recognisable at any scale so we decide to reduce the amount of "visual elements" down to the necessary and we introduce a new custom font that included all the icons all the shapes required for the website. 
+          //- p Finally we needed to design a framework/template that could easily be used to create landing pages for new campaigns or products launches. 
+        .three.columns.lightgrey
+          .caption.left
+              li Icon Design
+              li UI/UX
+              li Wireframing
+              
+    .container.margin-top
       .row
-        .eight.columns
-          img(src="imgs/theiconic/theiconic-sport.png" srcset="imgs/theiconic/theiconic-sport@2x.png 2x" alt="theright.fit")
-        .four.columns 
-          span Heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext heretext here  
+        .offset-by-two.eight.columns.pil
+          img.lazysizes(src="imgs/theiconicapps/theiconic-icons-big.jpg", data-pil-thumb-url="imgs/theiconicapps/theiconic-icons-big-thumb.jpg", data-full-height='263', data-full-width='671', alt='')
+
+    .container.wide
+      .row.margin-top 
+        .twelve.columns.pil
+          img.lazysizes(src="imgs/theiconicapps/theiconic-icons-all.jpg", data-pil-thumb-url="imgs/theiconicapps/theiconic-icons-all-thumb.jpg", data-full-height='235', data-full-width='980', alt='')
+
+    .container
+      .row.margin-top
+        .offset-by-two.eight.columns.caption.margin-bottom
+            .title Above 
+            | Some of the icons that I've created for the website. The icons have been translated into a typeface to improve the speed and the consistency of the website.
+    .container.wide
+      .row.margin-top 
+        .twelve.columns.pil
+          img.lazysizes(src="imgs/theiconicapps/theiconic-product-page.jpg", data-pil-thumb-url="imgs/theiconicapps/theiconic-product-page-thumb.jpg", data-full-height='263', data-full-width='671', alt='')
+
+    .full.black-iconic
+      .container.margin-bottom
+        .row
+          hr
+          h3.lightgrey iOS App
+        .row
+          .nine.columns
+            p 
+              | The direction was to create an App that was fast, stable, easy to shop and most importantly, have a native checkout which enabled the customer to buy using just two taps (in the old App the checkout was a webview of the website).
+          .three.columns.lightgrey
+            .caption.left
+                li UI/UX Design
+                li User Research
+                li Animations
+                
+        .row
+          .twelve.columns
+            img.lazysizes(src="imgs/theiconicapps/iconic-ios-sketches.jpg", data-pil-thumb-url="imgs/theiconicapps/iconic-ios-sketches-thumb.jpg", data-full-height='745', data-full-width='498', alt='The Iconic App Sketches')
+        .row
+          .twelve.columns.caption
+            .title Above 
+            | Some layouts of the main phases. The checkout step needed to accomodate variable shipping options, payment options, voucher and gift cart discounts.
+      .container.wide
+        .row
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-catalogue.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-catalogue-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-launch-screen.png", data-pil-thumb-url="imgs/theiconicapps/iios-app-theiconic-launch-screen-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-product.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-product-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-summary.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-summary-thumb.png", data-full-height='609', data-full-width='294', alt='')
+        .row
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-success.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-success-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-payment.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-payment-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-filters.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-filters-thumb.png", data-full-height='609', data-full-width='294', alt='')
+          .three.columns.pil
+              img.lazysizes(src="imgs/theiconicapps/ios-app-theiconic-cart.png", data-pil-thumb-url="imgs/theiconicapps/ios-app-theiconic-cart-thumb.png", data-full-height='609', data-full-width='294', alt='')
+
+        .row
+          .offset-by-three.seven.columns.caption
+              .title Above 
+              | The final design for the primary screens of the new iOS App for The Iconic.
+
+  script(src='./js/img-loader.js')
+  include includes/footer-js.jade

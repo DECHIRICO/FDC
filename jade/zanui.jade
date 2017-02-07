@@ -13,17 +13,18 @@ html(lang='en')
         a(href="index.html") 
           h1 de Chirico
 
-    a(href="trf.html")       
+    a(href="theiconic-apps.html")       
       .split.right 
         h6.subject.lightgrey Next
-        span Theright.fit
-  body  
+        span The Iconic Apps
+  body    
     .container
       include includes/logo-works.jade
 
       .row
         h1.darkgrey.introwork Zanui
-
+        h3.introwork Branding • 2012
+        
     .container.wide.fullonmobile.reading
       .row
         .twelve.columns
@@ -36,18 +37,20 @@ html(lang='en')
             | The final logo created for Zanui.
 
     .container
-      .row
-        .twelve.columns.company-desc 
+      .row.company-desc  
+        .two.columns
+          h6.subject company 
+        .ten.columns
           p 
             a(href="https://www.zanui.com.au/", target="_blank") Zanui 
-            | is part of the european e-commerce incubator
+            | is part of the european e-commerce incubator 
             a(href="https://www.rocket-internet.com/", target="_blank") Rocket Internet GmBh 
             |. The company is specialised in homewares and furniture proving consumers with stylish new products, inspiration and ideas for the home.
     .container
       .row
         hr
         h6.subject brief  
-        h3.darkgrey New Branding
+        h3.darkgrey Branding
       .row
         .nine.columns
           p The branding and identity of Zanui was entirely custom made, reflecting the palette and style of the products displayed. In addition, the website and the emails were designed utilising a number of key UX practices on large retail sites.
@@ -62,8 +65,8 @@ html(lang='en')
         .offset-by-one.three.columns.caption
           .title On the right
           | The geometry to generate the logomark.
-        .seven.columns
-          img(src="imgs/zanui/zanui-logo-geometric.png" srcset="imgs/zanui/zanui-logo-geometric@2x.png 2x")
+        .seven.columns.pil
+          img.lazysizes(src="imgs/zanui/zanui-logo-geometric.jpg", data-pil-thumb-url="imgs/zanui/zanui-logo-geometric-thumb.jpg", data-full-height='324', data-full-width='491', alt='zanui logo geometric')
 
       .container
         .row
@@ -71,14 +74,14 @@ html(lang='en')
               .title Below 
               | The initial color palette selected.
         .row
-          .twelve.columns.margins
-            img(src="imgs/zanui/zanui-colours.png" srcset="imgs/zanui/zanui-colours@2x.png 2x")
+          .twelve.columns.margins.pil
+            img.lazysizes(src="imgs/zanui/zanui-colours.jpg", data-pil-thumb-url="imgs/zanui/zanui-colours-thumb.jpg", data-full-height='382', data-full-width='750', alt='zanui colors')
 
     .full.grey
       .container.wide.fullonmobile
         .row
-          .twelve.columns
-            img(src="imgs/zanui/zanui-billboard.png" srcset="imgs/zanui/zanui-billboard@2x.png 2x")
+          .twelve.columns.pil
+            img.lazysizes(src="imgs/zanui/zanui-billboard.jpg", data-pil-thumb-url="imgs/zanui/zanui-billboard-thumb.jpg", data-full-height='858', data-full-width='1280', alt='zanui billboards')
         .row
           .offset-by-two.ten.columns.caption
               .serif Above and Below
@@ -86,11 +89,11 @@ html(lang='en')
 
       .container
         .row
-          .twelve.columns
-            img(src="imgs/zanui/zanui-artwork.png" srcset="imgs/zanui/zanui-artwork@2x.png 2x")
+          .twelve.columns.pil
+            img.lazysizes(src="imgs/zanui/zanui-artwork.jpg", data-pil-thumb-url="imgs/zanui/zanui-artwork-thumb.jpg", data-full-height='698', data-full-width='1048', alt='zanui billboards')
         .row
-          .offset-by-one.ten.columns.margin-top
-            img(src="imgs/zanui/zanui-emails.png" srcset="imgs/zanui/zanui-emails@2x.png 2x")
+          .offset-by-one.ten.columns.margin-top.pil
+            img.lazysizes(src="imgs/zanui/zanui-emails.png", data-pil-thumb-url="imgs/zanui/zanui-emails-thumb.png", data-full-height='1032', data-full-width='1020', alt='zanui email')
         .row
           .offset-by-two.ten.columns.caption
               .serif Above

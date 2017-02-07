@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow:
+Allow: /index.html
+Allow: /trf.html
+Allow: /cm.html
+Allow: /theiconic.html
+Allow: /zanui.html
+
+Sitemap: http://francescodechirico.com/sitemap.xml

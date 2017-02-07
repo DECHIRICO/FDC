@@ -1,3 +1,6 @@
+// sass-lint:enable-all
+
+/* Import other styles
 @import "_variables.sass"
 @import "_skeleton.sass"
 @import "_animations.sass"
@@ -111,9 +114,12 @@ header
     h3
       margin-bottom: 40px
     a
-      color: #3A3D3E
+      color: $dark
+      font-family: $semibold
       &:hover
         border-bottom: none
+        color: $primary-link-hover
+        transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
 
 .works
   animation: opacity
@@ -231,12 +237,21 @@ header
   width: 100%
   height: auto
   padding: 6% 0 3% 0
+  &.intro
+    padding-bottom: 0px
+    padding-top: 3%
+    .pil-loaded
+      display: block
+      box-shadow: 5px -11px 29px -7px lighten( $light, 15% ), -5px -11px 29px -7px lighten( $light, 15% )
+      border-radius: 7px
+    .row
+      margin-bottom: 0px
   &.black
     background-color: black
     padding: 6% 0 2% 0
   &.black-iconic
     background-color: #1F1E23
-    padding: 4% 0 2% 0
+    padding: 4% 0 0% 0
     @media (max-width: 550px)
       padding: 8% 0 2% 0
   &.trf
@@ -248,7 +263,7 @@ header
   &.zanui-products
     height: 480px
     background-color: white
-    background-image: url('/imgs/zanui/zanui-stamp-bg@2x.png')
+    background-image: url('/imgs/zanui/zanui-stamp-bg.jpg')
     background-position: -60px
     background-size: 380px
     background-repeat: repeat

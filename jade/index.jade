@@ -5,7 +5,7 @@ html(lang='en')
     block title
       | 
 
-  body  
+  body.no-index
     .container
       .hero
         .francesco_dechirico 
@@ -17,8 +17,8 @@ html(lang='en')
           |. Previously at 
           a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
           | and 
-          a(href="http://www.theiconic.com.au/", target="_blank") The Iconic.
-          
+          a(href="http://www.theiconic.com.au/", target="_blank") The Iconic
+          |.
         //- h3.lightgrey 
         //-   | I am keen on ideas, method, humility, culture, honesty and pizza.
           
@@ -76,22 +76,30 @@ html(lang='en')
                   span Branding and CI
         .row
           .six.columns.item
-            .pil
-              img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
-              .mask
-                .mask-text
-                  .cs Coming soon
-                  h5 The Iconic
-                  span Product Design
+            a(href="theiconic-apps.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
+                .mask
+                  .mask-text
+                    h5 The Iconic
+                    span Product Design
                   
           .six.columns.item
-            .pil
-              img.lazysizes(src="imgs/sel-home/geores@2x.png", data-pil-thumb-url="imgs/sel-home/geores-thumb.png", data-full-width='730', data-full-height='530', alt='')
-            .mask
-              .mask-text
-                .cs Coming soon
-                h5 Geores
-                span Branding
+            a(href="geores.html")
+              .pil
+                img.lazysizes(src="imgs/sel-home/geores@2x.png", data-pil-thumb-url="imgs/sel-home/geores-thumb.png", data-full-width='730', data-full-height='530', alt='')
+              .mask
+                .mask-text
+                  h5 Geores
+                  span Branding
+          //- .six.columns.item
+          //-   .pil
+          //-     img.lazysizes(src="imgs/sel-home/theiconicapp@2x.png", data-pil-thumb-url="imgs/sel-home/theiconicapp-thumb.png", data-full-width='730', data-full-height='530', alt='')
+          //-     .mask
+          //-       .mask-text
+          //-         .cs Coming soon
+          //-         h5 The Iconic
+          //-         span Product Design
     .container
       hr
       .getintouch
