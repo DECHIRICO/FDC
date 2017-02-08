@@ -369,7 +369,13 @@ p {
   .col-margin-mobile {
     margin-bottom: 4%; }
   .hide-on-mobile {
-    display: none; } }
+    display: none; }
+  .half-on-mobile {
+    width: 46%; }
+    .half-on-mobile:nth-child(n+3) {
+      margin-top: 4%; }
+    .half-on-mobile:nth-child(1n-3) {
+      margin-right: 4%; } }
 
 /* Links
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -775,8 +781,7 @@ header {
     .hero .intro h3 {
       margin-bottom: 40px; }
     .hero .intro a {
-      color: #565A5C;
-      font-family: "Conv_Graphik-Medium", sans-serif; }
+      color: #565A5C; }
       .hero .intro a:hover {
         border-bottom: none;
         color: #EF5567;

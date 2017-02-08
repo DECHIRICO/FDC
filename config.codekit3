@@ -561,7 +561,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-car.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/imgs\/geores\/geores-corporate-identity-thumb.jpg": {
 		"ft": 16384,
@@ -592,6 +592,22 @@
 		"iS": 311347,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/geores\/geores-departments-new-thumb.jpg": {
+		"ft": 16384,
+		"iS": 2713,
+		"oA": 0,
+		"oAP": "\/imgs\/geores\/geores-departments-new-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imgs\/geores\/geores-departments-new.jpg": {
+		"ft": 16384,
+		"iS": 138425,
+		"oA": 0,
+		"oAP": "\/imgs\/geores\/geores-departments-new.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -680,14 +696,6 @@
 		"iS": 33920,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-white.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/imgs\/geores\/zanui-billboard.jpg": {
-		"ft": 16384,
-		"iS": 376233,
-		"oA": 0,
-		"oAP": "\/imgs\/geores\/zanui-billboard.jpg",
 		"oF": 0,
 		"opt": 0
 		},
