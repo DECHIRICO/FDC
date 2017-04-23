@@ -1,0 +1,106 @@
+doctype html
+html(lang='en')
+  include includes/head.jade
+  include includes/social.jade
+
+    block title
+      | - About
+      
+  header
+  body 
+    //- .one-third-background  
+    .container
+      include includes/logo-works.jade
+    .container
+      .row
+        .eight.columns
+          .row
+            .twelve.columns.caption
+              img.lazysizes(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='')
+            .twelve.columns.caption
+                | Photography by 
+                a(href="http://willhartl.com/", target="_blank") Will Hartl
+          .row
+            .twelve.columns
+              h4 I’m a product designer happily living in Sydney, Australia. I am currently a Vp of design at Airtasker, leading the product design & brand design teams, previously Product designer at Campaign Monitor, The Iconic, Zanui and various agency in Europe. 
+          .row
+            .twelve.columns
+              p While a happy, well-functioning team is mission-critical, much of my focus is spent thinking through design systems, designing interfaces, and coding deep into the night.
+              //- p If you'd like me to work with me or simply having a chat, please don't be shy and say hello!
+            .twelve.columns.skills
+                h6.subject Education
+                ul
+                  li 
+                    strong Master’s Degree 
+                    | in Graphic, Visual and Multimedia Design
+                  li 
+                    strong Bachelor’s Degree
+                    |  in Architecture majoring in Industrial Design
+            .twelve.columns
+              h6.subject Get in touch
+              .row
+                a(href="mailto:hello@francescodechirico.com?subject=Ciao!", target="_blank") hello@francescodechirico.com
+                br
+                | +61 420 661 497
+                .social.home
+                  ul
+                    li.first-child 
+                      a(href="https://twitter.com/FDC_DECHIRICO", target="_blank")
+                        +twitter
+                    li 
+                      a(href="https://medium.com/@FDC_DECHIRICO", target="_blank")
+                        +medium
+                    li 
+                      a(href="https://www.instagram.com/dechiricofrancesco/?hl=en", target="_blank") 
+                        +instagram
+                    li 
+                      a(href="https://dribbble.com/DECHIRICO", target="_blank") 
+                        +dribbble
+                    li 
+                      a(href="https://au.linkedin.com/in/dechiricofrancesco", target="_blank")
+                        +linkedin
+                    li 
+                      a(href="https://github.com/DECHIRICO", target="_blank") 
+                        +github
+
+                
+        .four.columns.getintouch
+            .timeline
+              ul
+                li.first-child
+                  | Vp of Design 
+                  br
+                  a(href="http://airtasker.com/", target="_blank") Airtasker
+                li Freelancer
+                  br
+                  a(href="http://theright.fit/", target="_blank") The Right Fit
+                li
+                  | Art Director & UI/UX Lead
+                  br
+                  a(href="http://theiconic.com.au/", target="_blank") The Iconic
+                li
+                  | Art Director & UI/UX Lead
+                  br
+                  a(href="http://zanui.com.au/", target="_blank") Zanui
+                li
+                  | Art Director 
+                  br
+                  a(href="http://cappellidesign.it/", target="_blank") Cappelli Design
+                li
+                  | Freelancer
+                  br
+                  |  Kennedy+Castro
+                li
+                  | Freelancer
+                  br
+                  |  Pan Advertising
+                li
+                  | Graphic Designer 
+                  br
+                  a(href="http://http://www.brividoesganascia.it/website/", target="_blank") Brivido & Sganascia
+                li
+                  | Junior Designer
+                  br
+                  | YWS
+                span#fadeOut
+  script(src='./js/img-loader.js')

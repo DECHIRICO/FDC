@@ -27,9 +27,8 @@ html(lang='en')
         
     .container.wide.fullonmobile.reading
       .row
-        .twelve.columns
-          img(src="imgs/trf/theright.fit-logo.png" srcset="imgs/trf/theright.fit-logo@2x.png 2x")
-    
+        .twelve.columns.pil
+          img.img-gif.lazysizes(src="imgs/trf/theright.fit-logo.png", data-pil-thumb-url="imgs/trf/theright.fit-logo-thumb.png", data-full-height='800', data-full-width='1280', alt='')
     .container
       .row
         .twelve.columns.caption
@@ -84,15 +83,14 @@ html(lang='en')
       .row
         .container
           .row.margin-top
-          .twelve.columns
-            img(src="imgs/trf/therightfit-display.png" srcset="imgs/trf/therightfit-display@2x.png 2x")
-      
+          .twelve.columns.pil
+            img.img-gif.lazysizes(src="imgs/trf/therightfit-display.png", data-pil-thumb-url="imgs/trf/therightfit-display-thumb.png", data-full-height='689', data-full-width='671', alt='')
     .full.trf
 
       .container
         .row
-          .twelve.columns
-            img(src="imgs/trf/therightfit-diplay-2.png" srcset="imgs/trf/therightfit-diplay-2@2x.png 2x")
+          .twelve.columns.pil
+            img.img-gif.lazysizes(src="imgs/trf/therightfit-display-2.png", data-pil-thumb-url="imgs/trf/therightfit-display-2-thumb.png", data-full-height='645', data-full-width='612', alt='')
       .container
         .offset-by-two.eight.columns.caption
             .title Above 
@@ -115,7 +113,7 @@ html(lang='en')
 
     .container
       .row
-        .twelve.columns.margins
-          img(src="imgs/trf/therightfit-website.png" srcset="imgs/trf/therightfit-website@2x.png 2x")
+        .twelve.columns.margins.pil
+          img.img-gif.lazysizes(src="imgs/trf/therightfit-website.png", data-pil-thumb-url="imgs/trf/therightfit-website-thumb.png", data-full-height='1583', data-full-width='739', alt='')
   script(src='./js/img-loader.js')
   include includes/footer-js.jade
