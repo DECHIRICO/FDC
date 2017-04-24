@@ -796,30 +796,20 @@
 		},
 	"\/imgs\/geores\/geores-sections-thumb.jpg": {
 		"ft": 16384,
-		"iS": 4159,
+		"iS": 27270,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections-thumb.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/imgs\/geores\/geores-sections-thumb.png": {
-		"ft": 32768,
-		"iS": 6296,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/imgs\/geores\/geores-sections-thumb.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/imgs\/geores\/geores-sections.jpg": {
 		"ft": 16384,
-		"iS": 227789,
+		"iS": 226889,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections.jpg",
 		"oF": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-white-thumb.jpg": {
