@@ -1,6 +1,7 @@
 doctype html
 html(lang='en')
   include includes/head.jade
+  include includes/logo.jade
     block title
       | - theright.fit
   header
@@ -8,10 +9,9 @@ html(lang='en')
       .split.left 
         h6.subject.lightgrey Prev
         span Geores
+        
     .split
-      .francesco_dechirico 
-        a(href="index.html") 
-          h1 de Chirico
+      +logo   
 
     a(href="cm.html")       
       .split.right 

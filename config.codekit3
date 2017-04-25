@@ -1331,7 +1331,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-product.png": {
 		"ft": 32768,
-		"iS": 195570,
+		"iS": 245038,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-product.png",
@@ -1841,20 +1841,20 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/jade\/includes\/header-nav.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/jade\/includes\/header-nav.html",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/jade\/includes\/logo-works.jade": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/jade\/includes\/logo-works.html",
 		"oF": 0,
+		"oS": 0
+		},
+	"\/jade\/includes\/logo.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/jade\/includes\/logo.html",
+		"oF": 1,
 		"oS": 0
 		},
 	"\/jade\/includes\/social.jade": {

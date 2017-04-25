@@ -7,26 +7,27 @@ html(lang='en')
       | - About
       
   header
-  body 
-    //- .one-third-background  
+  body.no-index
     .container
       include includes/logo-works.jade
+    .container.fullonmobile.hide-on-desk
+      img.lazysizes(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
     .container
       .row
         .eight.columns
+          .twelve.columns
+            img.lazysizes.hide-on-mobile(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
+          .twelve.columns.caption.margin-top
+            | Photography by 
+            a(href="http://willhartl.com/", target="_blank") Will Hartl
           .row
-            .twelve.columns.caption
-              img.lazysizes(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='')
-            .twelve.columns.caption
-                | Photography by 
-                a(href="http://willhartl.com/", target="_blank") Will Hartl
-          .row
-            .twelve.columns
-              h4 I’m a product designer happily living in Sydney, Australia. I am currently a Vp of design at Airtasker, leading the product design & brand design teams, previously Product designer at Campaign Monitor, The Iconic, Zanui and various agencies in Europe. 
+            .twelve.columns.margin-top
+              h4 I’m a product designer happily living in Sydney, Australia. I am currently a VP of design at Airtasker, leading the product design & brand design teams, previously Product designer at Campaign Monitor, The Iconic, Zanui and various agencies in Europe. 
           .row
             .twelve.columns
               p While a happy, well-functioning team is mission-critical, much of my focus is spent thinking through design systems, designing interfaces, and coding deep into the night.
               //- p If you'd like me to work with me or simply having a chat, please don't be shy and say hello!
+          .row
             .twelve.columns.skills
                 h6.subject Education
                 ul
@@ -36,6 +37,7 @@ html(lang='en')
                   li 
                     strong Bachelor’s Degree
                     |  in Architecture majoring in Industrial Design
+          .row
             .twelve.columns
               h6.subject Get in touch
               .row
@@ -62,18 +64,20 @@ html(lang='en')
                     li 
                       a(href="https://github.com/DECHIRICO", target="_blank") 
                         +github
-
-                
         .four.columns.getintouch
             .timeline
               ul
                 li.first-child
-                  | Vp of Design 
+                  | VP of Design 
                   br
                   a(href="http://airtasker.com/", target="_blank") Airtasker
                 li Freelancer
                   br
                   a(href="http://theright.fit/", target="_blank") The Right Fit
+                li
+                  | Product Designer
+                  br
+                  a(href="http://campaignmonitor.com/", target="_blank") Campaign Monitor
                 li
                   | Art Director & UI/UX Lead
                   br
@@ -98,9 +102,5 @@ html(lang='en')
                   | Graphic Designer 
                   br
                   a(href="http://http://www.brividoesganascia.it/website/", target="_blank") Brivido & Sganascia
-                li
-                  | Junior Designer
-                  br
-                  | YWS
                 span.hide-on-mobile#fadeOut
   script(src='./js/img-loader.js')

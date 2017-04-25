@@ -28,4 +28,8 @@
   <loc>http://francescodechirico.com/geores.html</loc>
   <changefreq>hourly</changefreq>
 </url>
+<url>
+  <loc>http://francescodechirico.com/about.html</loc>
+  <changefreq>hourly</changefreq>
+</url>
 </urlset>
