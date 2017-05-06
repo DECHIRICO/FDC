@@ -754,7 +754,16 @@ header {
     header.sticky .francesco_dechirico {
       width: 35px;
       margin: auto;
-      margin-top: 10px; }
+      margin-top: 10px;
+      display: block; }
+      header.sticky .francesco_dechirico svg {
+        width: 35px;
+        height: 35px; }
+        header.sticky .francesco_dechirico svg path {
+          fill: #FF8F9C;
+          transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
+          header.sticky .francesco_dechirico svg path:hover {
+            fill: #EF5567; }
     header.sticky h6 {
       font-size: 0.9rem;
       margin-bottom: 0.5%; }
@@ -772,6 +781,10 @@ header {
     height: 43px;
     margin-bottom: 40px;
     margin-left: -20px; }
+    @media (max-width: 500px) {
+      .hero .francesco_dechirico {
+        margin: auto;
+        margin-left: 0px; } }
     .hero .francesco_dechirico svg {
       width: 43px;
       height: 43px; }
@@ -794,35 +807,40 @@ header {
     overflow-wrap: break-word;
     animation: opacity 1s cubic-bezier(0.715, 0.005, 0.22, 1); }
     .hero .intro h1 {
-      font-family: "Conv_Graphik-Regular", sans-serif;
-      font-size: 4.5rem;
+      font-family: "Conv_Graphik-Medium", sans-serif;
+      display: inline;
+      letter-spacing: -0.5px;
+      font-size: 4.2rem;
       line-height: 1.1; }
       @media (max-width: 500px) {
         .hero .intro h1 {
-          font-size: 3.3rem;
-          line-height: 1.1; } }
+          font-size: 2.8rem;
+          line-height: 1.2; } }
       .hero .intro h1 a {
         color: #565A5C; }
         .hero .intro h1 a:hover {
           border-bottom: none;
           color: #EF5567;
           transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
-    .hero .intro .keen {
+    .hero .intro h3 {
+      letter-spacing: -0.8px;
       font-family: "Conv_Graphik-Regular", sans-serif;
-      font-size: 3rem;
-      line-height: 1.2; }
+      font-size: 3.8rem;
+      line-height: 1.2;
+      display: inline; }
       @media (max-width: 500px) {
-        .hero .intro .keen {
-          font-size: 2.7rem;
-          line-height: 1.1; } }
-      .hero .intro .keen > a {
+        .hero .intro h3 {
+          font-size: 2.6rem;
+          line-height: 1.2; } }
+      .hero .intro h3 > a {
         color: #565A5C;
+        display: inline-block;
         border-bottom: 1px dashed #B2BFC3;
         padding-bottom: 1px;
-        background-color: rgba(255, 143, 156, 0.1);
         transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
-        .hero .intro .keen > a:hover {
+        .hero .intro h3 > a:hover {
           border-bottom: none;
+          border-bottom: 1px solid #FF8F9C;
           color: #FF8F9C;
           background-color: rgba(255, 143, 156, 0); }
 

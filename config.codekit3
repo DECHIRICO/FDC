@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -359,17 +359,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
 	"\/imgs\/about-me\/francesco-de-chirico-thumb.png": {
 		"ft": 32768,
 		"iS": 51510,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/about-me\/francesco-de-chirico.jpg": {
@@ -378,217 +380,239 @@
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
 	"\/imgs\/about-me\/francesco-de-chirico.png": {
 		"ft": 32768,
 		"iS": 771787,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/aboutme\/Airtasker1808-thumb.png": {
 		"ft": 32768,
 		"iS": 49724,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/aboutme\/Airtasker1808-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/aboutme\/Airtasker1808.png": {
 		"ft": 32768,
 		"iS": 723755,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/aboutme\/Airtasker1808.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/account-interactions-cm.png": {
 		"ft": 32768,
 		"iS": 30527,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-interactions-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/account-interactions-cm@2x.png": {
 		"ft": 32768,
 		"iS": 67994,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-interactions-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/account-selection-cm.png": {
 		"ft": 32768,
 		"iS": 28918,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/account-selection-cm@2x.png": {
 		"ft": 32768,
 		"iS": 77290,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/avatar-dropdown.png": {
 		"ft": 32768,
 		"iS": 37918,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/avatar-dropdown@2x.png": {
 		"ft": 32768,
 		"iS": 102483,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/avatar-selection.png": {
 		"ft": 32768,
 		"iS": 13589,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/avatar-selection@2x.png": {
 		"ft": 32768,
 		"iS": 53575,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/form-details-cm.png": {
 		"ft": 32768,
 		"iS": 10267,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/form-details-cm@2x.png": {
 		"ft": 32768,
 		"iS": 21310,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/header-cm-titles.png": {
 		"ft": 32768,
 		"iS": 32647,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/header-cm-titles.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/header-cm-titles@2x.png": {
 		"ft": 32768,
 		"iS": 78695,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/header-cm-titles@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/icons-cm.png": {
 		"ft": 32768,
 		"iS": 6220,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/icons-cm@2x.png": {
 		"ft": 32768,
 		"iS": 14043,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/login-cm.png": {
 		"ft": 32768,
 		"iS": 33985,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/login-cm@2x.png": {
 		"ft": 32768,
 		"iS": 90789,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/profile-switch-cm.png": {
 		"ft": 32768,
 		"iS": 104564,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/cm\/profile-switch-cm@2x.png": {
 		"ft": 32768,
 		"iS": 308198,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/fdc.svg": {
@@ -615,16 +639,17 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/animazione_geores-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/imgs\/geores\/Animazione_Geores.gif": {
+	"\/imgs\/geores\/animazione_geores.gif": {
 		"ft": 4194304,
-		"iS": 1186294,
+		"iS": 681930,
 		"oA": 0,
-		"oAP": "\/imgs\/geores\/Animazione_Geores.gif",
+		"oAP": "\/imgs\/geores\/animazione_geores.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/imgs\/geores\/geores-bg-thumb.jpg": {
 		"ft": 16384,
@@ -632,6 +657,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -641,6 +667,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -650,6 +677,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-branding-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -659,27 +687,30 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-branding.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-car-thumb.png": {
 		"ft": 32768,
 		"iS": 9387,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-car-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-car.png": {
 		"ft": 32768,
 		"iS": 1729421,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-car.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-corporate-identity-thumb.jpg": {
@@ -688,17 +719,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-corporate-identity-thumb.png": {
 		"ft": 32768,
 		"iS": 5021,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-corporate-identity.jpg": {
@@ -707,17 +740,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-corporate-identity.png": {
 		"ft": 32768,
 		"iS": 311347,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-departments-new-thumb.jpg": {
@@ -726,6 +761,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-new-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -735,6 +771,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-new.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -744,17 +781,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-departments-thumb.png": {
 		"ft": 32768,
 		"iS": 2493,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-departments.jpg": {
@@ -763,17 +802,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-departments.png": {
 		"ft": 32768,
 		"iS": 173179,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/geores\/geores-notebook-thumb.jpg": {
@@ -782,6 +823,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-notebook-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -791,6 +833,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-notebook.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -800,6 +843,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -809,6 +853,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -818,6 +863,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-white-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -827,6 +873,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-white.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -836,6 +883,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-mobile-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -845,6 +893,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-mobile.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -854,6 +903,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -863,6 +913,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -872,6 +923,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/cm-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -881,6 +933,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/cm@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -890,6 +943,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -899,6 +953,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -908,6 +963,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconic-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -917,6 +973,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconic@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -926,6 +983,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconicapp-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -935,6 +993,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconicapp@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -944,6 +1003,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -953,6 +1013,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -962,6 +1023,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -971,37 +1033,41 @@
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-constrution.png": {
 		"ft": 32768,
 		"iS": 70832,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-constrution.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-constrution@2x.png": {
 		"ft": 32768,
 		"iS": 231529,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-constrution@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-fashion-thumb.png": {
 		"ft": 32768,
 		"iS": 30996,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-fashion@2x.jpg": {
@@ -1010,147 +1076,162 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-fashion@2x.png": {
 		"ft": 32768,
 		"iS": 2713243,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design.png": {
 		"ft": 32768,
 		"iS": 8061,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design@2x.png": {
 		"ft": 32768,
 		"iS": 10877,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-green.png": {
 		"ft": 32768,
 		"iS": 168,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-green@2x.png": {
 		"ft": 32768,
 		"iS": 257,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-green@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-logo.png": {
 		"ft": 32768,
 		"iS": 3507,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-logo@2x.png": {
 		"ft": 32768,
 		"iS": 8059,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-logo@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-pattern.png": {
 		"ft": 32768,
 		"iS": 90463,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-pattern@2x.png": {
 		"ft": 32768,
 		"iS": 146494,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pattern@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-pink.png": {
 		"ft": 32768,
 		"iS": 310,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-pink@2x.png": {
 		"ft": 32768,
 		"iS": 541,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-pink@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-red.png": {
 		"ft": 32768,
 		"iS": 224,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-red.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-red@2x.png": {
 		"ft": 32768,
 		"iS": 404,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-red@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-sport-thumb.png": {
 		"ft": 32768,
 		"iS": 21357,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-sport@2x.jpg": {
@@ -1159,27 +1240,30 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-sport@2x.png": {
 		"ft": 32768,
 		"iS": 1745207,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png": {
 		"ft": 32768,
 		"iS": 173674,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.jpg": {
@@ -1188,17 +1272,19 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png": {
 		"ft": 32768,
 		"iS": 4622603,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg": {
@@ -1207,6 +1293,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1216,167 +1303,184 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-cart-thumb.png": {
 		"ft": 32768,
 		"iS": 2171,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-cart-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-cart.png": {
 		"ft": 32768,
 		"iS": 156308,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-cart.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-catalogue-thumb.png": {
 		"ft": 32768,
 		"iS": 3005,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-catalogue-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-catalogue.png": {
 		"ft": 32768,
 		"iS": 264894,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-catalogue.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-filters-thumb.png": {
 		"ft": 32768,
 		"iS": 2202,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-filters-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-filters.png": {
 		"ft": 32768,
 		"iS": 152689,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-filters.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen-thumb.png": {
 		"ft": 32768,
 		"iS": 3639,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen.png": {
 		"ft": 32768,
 		"iS": 706633,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-payment-thumb.png": {
 		"ft": 32768,
 		"iS": 1364,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-payment-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-payment.png": {
 		"ft": 32768,
 		"iS": 56973,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-payment.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-product-thumb.png": {
 		"ft": 32768,
 		"iS": 2364,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-product-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-product.png": {
 		"ft": 32768,
 		"iS": 245038,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-product.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-success-thumb.png": {
 		"ft": 32768,
 		"iS": 1817,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-success-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-success.png": {
 		"ft": 32768,
 		"iS": 117235,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-success.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-summary-thumb.png": {
 		"ft": 32768,
 		"iS": 2123,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-summary-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-summary.png": {
 		"ft": 32768,
 		"iS": 122535,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-summary.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg": {
@@ -1385,6 +1489,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1394,6 +1499,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1403,6 +1509,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1412,6 +1519,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1421,6 +1529,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1430,207 +1539,228 @@
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/theiconic-website-responsive-thumb.png": {
 		"ft": 32768,
 		"iS": 5578,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-website-responsive-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/theiconic-website-responsive.png": {
 		"ft": 32768,
 		"iS": 688529,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-website-responsive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/theright.fit-logo-thumb.png": {
 		"ft": 32768,
 		"iS": 12455,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/theright.fit-logo-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
 		"iS": 14215,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/theright.fit-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-all-icons.png": {
 		"ft": 32768,
 		"iS": 43072,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-all-icons.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-all-icons@2x.png": {
 		"ft": 32768,
 		"iS": 108194,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-all-icons@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-bc.png": {
 		"ft": 32768,
 		"iS": 40086,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-bc.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-bc@2x.png": {
 		"ft": 32768,
 		"iS": 100725,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-bc@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-big-icons.png": {
 		"ft": 32768,
 		"iS": 7069,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-big-icons.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-big-icons@2x.png": {
 		"ft": 32768,
 		"iS": 15987,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-big-icons@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-display-2-thumb.png": {
 		"ft": 32768,
 		"iS": 179541,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display-2-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-display-2.png": {
 		"ft": 32768,
 		"iS": 2177362,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-display-thumb.png": {
 		"ft": 32768,
 		"iS": 109403,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-display.png": {
 		"ft": 32768,
 		"iS": 1165022,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-grid@2x.png": {
 		"ft": 32768,
 		"iS": 41697,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-grid@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
 		"iS": 4763,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-logomark@2x.png": {
 		"ft": 32768,
 		"iS": 10670,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-website-thumb.png": {
 		"ft": 32768,
 		"iS": 296506,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/trf\/therightfit-website.png": {
 		"ft": 32768,
 		"iS": 3604667,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/twittercard.png": {
 		"ft": 32768,
 		"iS": 428050,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/twittercard.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-artwork-thumb.jpg": {
@@ -1639,6 +1769,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1648,6 +1779,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1657,6 +1789,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1666,6 +1799,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1675,6 +1809,7 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours-thumb.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1684,37 +1819,41 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-emails-thumb.png": {
 		"ft": 32768,
 		"iS": 11547,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-emails-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-emails.png": {
 		"ft": 32768,
 		"iS": 1638053,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-emails.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-logo-geometric-thumb.png": {
 		"ft": 32768,
 		"iS": 1704,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric-thumb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-logo-geometric.jpg": {
@@ -1723,27 +1862,30 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-logo.png": {
 		"ft": 32768,
 		"iS": 13559,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-logo@2x.png": {
 		"ft": 32768,
 		"iS": 32716,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg.jpg": {
@@ -1752,47 +1894,52 @@
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg.png": {
 		"ft": 32768,
 		"iS": 174949,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-stamp-bg@2x.png": {
 		"ft": 32768,
 		"iS": 602703,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-stamp.png": {
 		"ft": 32768,
 		"iS": 12379,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/zanui\/zanui-stamp@2x.png": {
 		"ft": 32768,
 		"iS": 29002,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/index.html": {
@@ -2879,21 +3026,23 @@
 	"\/XXX\/Templating-1\/img\/business-card-2.png": {
 		"ft": 32768,
 		"iS": 57256,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/business-card-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-1\/img\/business-card.png": {
 		"ft": 32768,
 		"iS": 43214,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/business-card.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-1\/img\/full\/1.jpg": {
@@ -2902,6 +3051,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2911,6 +3061,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2920,6 +3071,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2929,6 +3081,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2938,6 +3091,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/5.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2947,6 +3101,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/full\/6.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2956,17 +3111,19 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/home-sidebar.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/XXX\/Templating-1\/img\/icon.png": {
 		"ft": 32768,
 		"iS": 2930,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-1\/img\/logo\/1.jpg": {
@@ -2975,6 +3132,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2984,6 +3142,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2993,6 +3152,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3002,6 +3162,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3011,6 +3172,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/5.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3020,6 +3182,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/logo\/6.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3029,6 +3192,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3038,6 +3202,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3047,6 +3212,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3056,6 +3222,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3065,6 +3232,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/5.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3074,6 +3242,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/portfolio\/6.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3083,6 +3252,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3092,6 +3262,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3101,6 +3272,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3110,6 +3282,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3119,6 +3292,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/5.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3128,6 +3302,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/img\/single\/6.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3319,6 +3494,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/buttons.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3328,6 +3504,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/contact.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3337,6 +3514,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/coordinates.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3346,6 +3524,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/cta.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3355,6 +3534,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/custom-carousel.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3364,6 +3544,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/dark-iphone.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3373,6 +3554,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/dribbble.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3382,6 +3564,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/featured-columns-01.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3391,6 +3574,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/featured-columns-02.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3400,6 +3584,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/header-01.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3409,6 +3594,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/header-02.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3418,6 +3604,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/header-03.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3427,6 +3614,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/htaccess.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3436,6 +3624,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup-02.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3445,6 +3634,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup-03.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3454,6 +3644,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup-04.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3463,6 +3654,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup-05.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3472,6 +3664,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro-mockup.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3481,6 +3674,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/intro.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3490,6 +3684,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/lightbox.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3543,6 +3738,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/map.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3552,6 +3748,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/milestone.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3561,6 +3758,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/pxtoem.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3570,6 +3768,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/sections.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3579,6 +3778,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/skills.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3588,6 +3788,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/slogan.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3597,6 +3798,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/team.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3606,6 +3808,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/testimonial-01.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3615,6 +3818,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/testimonial-02.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3624,6 +3828,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/timeline.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3633,6 +3838,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/assets\/white-iphone.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3875,61 +4081,67 @@
 	"\/XXX\/Templating-2\/img\/apple-touch-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 2516,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/apple-touch-icon-120x120.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/apple-touch-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 2890,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/apple-touch-icon-152x152.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/apple-touch-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 1735,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/apple-touch-icon-76x76.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/grabbing.png": {
 		"ft": 32768,
 		"iS": 116,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/grabbing.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/marker.png": {
 		"ft": 32768,
 		"iS": 4439,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/marker.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/desktop.png": {
 		"ft": 32768,
 		"iS": 3770,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/desktop.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/desktop.svg": {
@@ -3945,11 +4157,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-black.png": {
 		"ft": 32768,
 		"iS": 3953,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/ipad-black.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-black.svg": {
@@ -3965,11 +4178,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-grey.png": {
 		"ft": 32768,
 		"iS": 4721,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/ipad-grey.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-grey.svg": {
@@ -3985,11 +4199,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-white.png": {
 		"ft": 32768,
 		"iS": 4155,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/ipad-white.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/ipad-white.svg": {
@@ -4005,11 +4220,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-black.png": {
 		"ft": 32768,
 		"iS": 5715,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/iphone-black.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-black.svg": {
@@ -4025,11 +4241,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-grey.png": {
 		"ft": 32768,
 		"iS": 7308,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/iphone-grey.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-grey.svg": {
@@ -4045,11 +4262,12 @@
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-white.png": {
 		"ft": 32768,
 		"iS": 6075,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/mockups\/iphone-white.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/XXX\/Templating-2\/img\/mockups\/iphone-white.svg": {
@@ -4068,6 +4286,7 @@
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/img\/placeholder.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -5146,6 +5365,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -5970,14 +6193,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -6040,7 +6255,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {

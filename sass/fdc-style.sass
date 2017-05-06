@@ -77,6 +77,16 @@ header
       width: 35px
       margin: auto
       margin-top: 10px
+      display: block
+      svg
+        width: 35px
+        height: 35px
+        path
+          fill: $primary-link
+          transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
+          &:hover
+            fill: $primary-link-hover
+
     h6
       font-size: 0.9rem
       margin-bottom: 0.5%
@@ -94,6 +104,9 @@ header
     height: 43px
     margin-bottom: 40px
     margin-left: -20px
+    @media (max-width: 500px)
+      margin: auto
+      margin-left: 0px
     svg
       width: 43px
       height: 43px
@@ -116,34 +129,39 @@ header
     overflow-wrap: break-word
     animation: opacity 1s cubic-bezier(0.715, 0.005, 0.220, 1.000)
     h1
-      font-family: $body
-      font-size: 4.5rem
+      font-family: $semibold
+      display: inline
+      letter-spacing: -0.5px
+      font-size: 4.2rem
       line-height: 1.1
       @media (max-width: 500px)
-        font-size: 3.3rem
-        line-height: 1.1
+        font-size: 2.8rem
+        line-height: 1.2
       a
         color: $dark
         &:hover
           border-bottom: none
           color: $primary-link-hover
           transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
-    .keen
+    h3
+      letter-spacing: -0.8px
       font-family: $body
-      font-size: 3rem
+      font-size: 3.8rem
       line-height: 1.2
+      display: inline
       @media (max-width: 500px)
-        font-size: 2.7rem
-        line-height: 1.1
+        font-size: 2.6rem
+        line-height: 1.2
       > a
         color: $dark
+        display: inline-block
         border-bottom: 1px dashed $light
         padding-bottom: 1px
-        background-color: rgba( $primary-link, .1 )
+        // background-color: rgba( $primary-link, .1 )
         transition: all .3s cubic-bezier(0.39, 0.01, 0, 0.99)
         &:hover
           border-bottom: none
-          // border-bottom: 1px solid $primary-link
+          border-bottom: 1px solid $primary-link
           color: $primary-link
           background-color: rgba( $primary-link,0 )
 
