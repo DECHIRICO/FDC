@@ -84,7 +84,8 @@
   margin: 0 auto;
   padding: 0 3%;
   box-sizing: border-box;
-  max-width: 750px; }
+  max-width: 750px;
+  transition: width 0.4s ease; }
   .container.reading {
     transition: all 1s ease-in-out; }
     .container.reading.opacity {
@@ -784,7 +785,8 @@ header {
     @media (max-width: 500px) {
       .hero .francesco_dechirico {
         margin: auto;
-        margin-left: 0px; } }
+        margin-left: -10px;
+        margin-bottom: 30px; } }
     .hero .francesco_dechirico svg {
       width: 43px;
       height: 43px; }
@@ -811,7 +813,8 @@ header {
       display: inline;
       letter-spacing: -0.5px;
       font-size: 4.2rem;
-      line-height: 1.1; }
+      line-height: 1.1;
+      color: #565A5C; }
       @media (max-width: 500px) {
         .hero .intro h1 {
           font-size: 2.8rem;
@@ -825,7 +828,7 @@ header {
     .hero .intro h3 {
       letter-spacing: -0.8px;
       font-family: "Conv_Graphik-Regular", sans-serif;
-      font-size: 3.8rem;
+      font-size: 3.9rem;
       line-height: 1.2;
       display: inline; }
       @media (max-width: 500px) {
@@ -835,14 +838,18 @@ header {
       .hero .intro h3 > a {
         color: #565A5C;
         display: inline-block;
-        border-bottom: 1px dashed #B2BFC3;
-        padding-bottom: 1px;
-        transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
+        background-position: 0% 110%, 110% 96%, 0% 91%;
+        background-repeat: no-repeat, no-repeat, repeat-x;
+        background-size: 2px 2px;
+        text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
         .hero .intro h3 > a:hover {
-          border-bottom: none;
-          border-bottom: 1px solid #FF8F9C;
-          color: #FF8F9C;
-          background-color: rgba(255, 143, 156, 0); }
+          color: #EF5567;
+          background-position: 0% 110%, 110% 96%, 0% 91%;
+          background-repeat: no-repeat, no-repeat, repeat-x;
+          background-size: 2px 2px;
+          text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+          background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
 
 .works {
   margin-top: 20px;
