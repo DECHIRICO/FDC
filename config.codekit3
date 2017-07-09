@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -6341,6 +6341,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",

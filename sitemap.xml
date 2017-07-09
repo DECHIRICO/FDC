@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <url>
+  <loc>http://francescodechirico.com/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
   <loc>http://francescodechirico.com/index.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/trf.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/cm.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/theiconic.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/zanui.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/theiconic-apps.html</loc>
-  <changefreq>hourly</changefreq>
-</url>
-<url>
-  <loc>http://francescodechirico.com/geores.html</loc>
-  <changefreq>hourly</changefreq>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://francescodechirico.com/about.html</loc>
-  <changefreq>hourly</changefreq>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/trf.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/cm.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/theiconic.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/zanui.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/theiconic-apps.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://francescodechirico.com/geores.html</loc>
+  <changefreq>monthly</changefreq>
 </url>
 </urlset>

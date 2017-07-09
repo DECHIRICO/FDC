@@ -836,20 +836,19 @@ header {
           font-size: 2.6rem;
           line-height: 1.2; } }
       .hero .intro h3 > a {
+        border-bottom: none;
         color: #565A5C;
         display: inline-block;
         background-position: 0% 110%, 110% 96%, 0% 91%;
         background-repeat: no-repeat, no-repeat, repeat-x;
         background-size: 2px 2px;
-        text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
+        text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff; }
         .hero .intro h3 > a:hover {
           color: #EF5567;
           background-position: 0% 110%, 110% 96%, 0% 91%;
           background-repeat: no-repeat, no-repeat, repeat-x;
           background-size: 2px 2px;
-          text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-          background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
+          text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff; }
 
 .works {
   margin-top: 20px;
