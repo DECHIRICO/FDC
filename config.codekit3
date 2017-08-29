@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "25849",
+"creatorBuild": "25900",
 "files": {
 	"\/.css": {
 		"ft": 8192,
@@ -2054,6 +2054,7 @@
 		},
 	"\/js\/headroom.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/headroom-min.js",
@@ -2063,6 +2064,7 @@
 		},
 	"\/js\/img-loader.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/img-loader-min.js",
@@ -2072,6 +2074,7 @@
 		},
 	"\/js\/jquery-2.1.1.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/jquery-2.1.1-min.js",
@@ -2081,6 +2084,7 @@
 		},
 	"\/js\/lazysizes.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/lazysizes.min-min.js",
@@ -2090,6 +2094,7 @@
 		},
 	"\/js\/main.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/main-min.js",
@@ -2099,6 +2104,7 @@
 		},
 	"\/js\/min\/analitycs-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/min\/analitycs-min-min.js",
@@ -2108,6 +2114,7 @@
 		},
 	"\/js\/min\/img-loader-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/min\/img-loader-min-min.js",
@@ -2117,6 +2124,7 @@
 		},
 	"\/js\/min\/main-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/min\/main-min-min.js",
@@ -2126,6 +2134,7 @@
 		},
 	"\/js\/modernizr.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/modernizr-min.js",
@@ -2747,6 +2756,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/sass\/_mixin.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_mixin.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/_skeleton.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -3332,6 +3354,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/imagesloaded.pkgd.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/imagesloaded.pkgd.min-min.js",
@@ -3341,6 +3364,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/jquery-ui-1.10.4.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/jquery-ui-1.10.4.min-min.js",
@@ -3350,6 +3374,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/jquery.easing.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/jquery.easing.min-min.js",
@@ -3359,6 +3384,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/jquery.jkit.1.2.16.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/jquery.jkit.1.2.16.min-min.js",
@@ -3368,6 +3394,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/jquery.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/jquery.min-min.js",
@@ -3377,6 +3404,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/jquery.waitforimages.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/jquery.waitforimages-min.js",
@@ -3386,6 +3414,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/masonry.pkgd.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/masonry.pkgd.min-min.js",
@@ -3395,6 +3424,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/modernizr.custom.42534.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/modernizr.custom.42534-min.js",
@@ -3404,6 +3434,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/script.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/script-min.js",
@@ -3413,6 +3444,7 @@
 		},
 	"\/XXX\/Templating-1\/js\/typed.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-1\/js\/min\/typed-min.js",
@@ -3950,6 +3982,7 @@
 		},
 	"\/XXX\/Templating-2\/Documentation\/js\/bootstrap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/js\/min\/bootstrap-min.js",
@@ -3959,6 +3992,7 @@
 		},
 	"\/XXX\/Templating-2\/Documentation\/js\/bootstrap.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/js\/min\/bootstrap.min-min.js",
@@ -3968,6 +4002,7 @@
 		},
 	"\/XXX\/Templating-2\/Documentation\/js\/docs.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/js\/min\/docs.min-min.js",
@@ -3977,6 +4012,7 @@
 		},
 	"\/XXX\/Templating-2\/Documentation\/js\/prism.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/Documentation\/js\/min\/prism-min.js",
@@ -4292,6 +4328,7 @@
 		},
 	"\/XXX\/Templating-2\/js\/beetle.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/js\/min\/beetle-min.js",
@@ -4301,6 +4338,7 @@
 		},
 	"\/XXX\/Templating-2\/js\/plugins.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/XXX\/Templating-2\/js\/min\/plugins-min.js",
@@ -4809,6 +4847,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -4816,6 +4858,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -4913,6 +4959,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -4932,6 +4982,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -5060,6 +5114,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -5605,6 +5663,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -5673,6 +5735,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -5712,6 +5778,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -6345,6 +6415,7 @@
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {

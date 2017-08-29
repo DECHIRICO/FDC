@@ -5,7 +5,7 @@
 @import "_skeleton.sass"
 @import "_animations.sass"
 @import "_img-loader.sass"
-
+@import "_mixin.sass"
 
 header
   transition: all 0.2s ease-in-out
@@ -162,14 +162,15 @@ header
         background-repeat: no-repeat, no-repeat, repeat-x
         background-size: 2px 2px
         text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff
-        // background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848)
+        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848)
         &:hover
+          transition: all 0.2s ease-in-out
           color: $primary-link-hover
           background-position: 0% 110%, 110% 96%, 0% 91%
           background-repeat: no-repeat, no-repeat, repeat-x
           background-size: 2px 2px
           text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff
-          // background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848)
+          background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient($primary-link-hover, $primary-link-hover)
 
 
 .works
