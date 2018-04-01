@@ -245,7 +245,7 @@ h2 {
     line-height: 1.4;
     font-size: 3.4rem;
     font-family: "Conv_Graphik-Regular", sans-serif;
-    color: #B2BFC3;
+    color: #C1B9C5;
     letter-spacing: -.02rem; }
     @media (max-width: 500px) {
       h2.introwork {
@@ -304,7 +304,7 @@ p {
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-size: 2px 2px;
     text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#616161, #616161); }
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#E4E4E4, #E4E4E4); }
     p > a:hover {
       color: #6500BD;
       background-position: 0% 110%, 110% 96%, 0% 91%;
@@ -315,7 +315,7 @@ p {
 
 .caption {
   padding-bottom: 1%;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   line-height: 1.4; }
   @media (max-width: 550px) {
     .caption {
@@ -325,7 +325,6 @@ p {
     list-style: none;
     margin-bottom: 1px;
     font-size: 1.3rem;
-    font-family: "Conv_Graphik-Medium", sans-serif;
     margin-left: -10px; }
   .caption .title {
     font-size: 1.20rem;
@@ -336,12 +335,12 @@ p {
     padding-right: 10px;
     margin-right: 10px; }
     .caption.right.border {
-      border-right: 0.5px solid #ebeff0; }
+      border-right: 0.5px solid #f2f1f3; }
   .caption.left {
     text-align: left;
     padding-left: 10px; }
     .caption.left.border {
-      border-left: 0.5px solid #ebeff0; }
+      border-left: 0.5px solid #f2f1f3; }
 
 .quote {
   text-align: center;
@@ -629,10 +628,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 /* Misc
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
-  margin-top: 4%;
-  margin-bottom: 4%;
-  border: 3px solid #B2BFC3;
-  width: 20px;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border: 1px solid #C1B9C5;
+  width: 100%;
   margin-left: 0;
   border-radius: 20px; }
   @media (max-width: 550px) {
@@ -669,7 +668,7 @@ hr {
   background-repeat: no-repeat, no-repeat, repeat-x;
   background-size: 2px 2px;
   text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#616161, #616161); }
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#E4E4E4, #E4E4E4); }
   > a:hover {
     color: #6500BD;
     background-position: 0% 110%, 110% 96%, 0% 91%;
@@ -874,16 +873,16 @@ header {
           line-height: 1.2; } }
       .hero .intro h3 > a {
         border-bottom: none;
-        color: #403C45;
+        color: #6500BD;
         display: inline-block;
         background-position: 0% 110%, 110% 96%, 0% 91%;
         background-repeat: no-repeat, no-repeat, repeat-x;
         background-size: 2px 2px;
         text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
+        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
         .hero .intro h3 > a:hover {
           transition: all 0.2s ease-in-out;
-          color: #6500BD;
+          color: #370088;
           background-position: 0% 110%, 110% 96%, 0% 91%;
           background-repeat: no-repeat, no-repeat, repeat-x;
           background-size: 2px 2px;
@@ -954,7 +953,7 @@ header {
         .works .item .mask .mask-text span {
           opacity: 1;
           font-size: 1.4rem;
-          color: #B2BFC3;
+          color: #C1B9C5;
           margin-left: 6px; }
       .works .item .mask img {
         display: block;
@@ -993,7 +992,7 @@ header {
     padding-top: 3%; }
     .full.intro .pil-loaded {
       display: block;
-      box-shadow: 5px -11px 29px -7px #dde3e5, -5px -11px 29px -7px #dde3e5;
+      box-shadow: 5px -11px 29px -7px #e6e3e8, -5px -11px 29px -7px #e6e3e8;
       border-radius: 7px; }
     .full.intro .row {
       margin-bottom: 0px; }
@@ -1025,6 +1024,8 @@ header {
   .full.trf {
     background-color: #0E1468;
     padding: 6% 0 2% 0; }
+    .full.trf .caption {
+      color: #3c45c3; }
   .full.grey {
     background: #F7F7F7;
     box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 1px 0px 0px rgba(0, 0, 0, 0.1); }
@@ -1085,7 +1086,7 @@ header {
     margin: 0 auto; } }
 
 .dropshadow-img img {
-  box-shadow: 0 20px 70px 0 #B2BFC3;
+  box-shadow: 0 20px 70px 0 #C1B9C5;
   border-radius: 8px; }
   @media (max-width: 550px) {
     .dropshadow-img img {
@@ -1119,8 +1120,7 @@ header {
     color: #403C45;
     transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
     .timeline a:hover {
-      color: #370088;
-      border-bottom: 1px dashed #B2BFC3; }
+      color: #370088; }
   .timeline ul {
     margin: 0 0 0 10px;
     height: 620px;
@@ -1173,9 +1173,26 @@ header {
   .getintouch h3 {
     font-family: "Conv_Graphik-Regular", sans-serif;
     line-height: 1.2; }
-  @media (max-width: 550px) {
-    .getintouch a {
-      letter-spacing: -.07rem; } }
+  .getintouch a {
+    border-bottom: none;
+    color: #6500BD;
+    display: inline-block;
+    background-position: 0% 110%, 110% 96%, 0% 91%;
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    background-size: 2px 2px;
+    text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
+    .getintouch a:hover {
+      transition: all 0.2s ease-in-out;
+      color: #370088;
+      background-position: 0% 110%, 110% 96%, 0% 91%;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      background-size: 2px 2px;
+      text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+      background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
+      @media (max-width: 550px) {
+        .getintouch a:hover {
+          letter-spacing: -.07rem; } }
 
 .social.about li {
   padding-right: 6%; }
@@ -1195,7 +1212,7 @@ header {
       height: 18px;
       width: 18px; }
       .social ul li svg path {
-        fill: #616161;
+        fill: #370088;
         transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
       .social ul li svg:hover path {
         fill: #6500BD; }

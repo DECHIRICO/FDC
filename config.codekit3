@@ -456,7 +456,7 @@
 		},
 	"\/imgs\/cm\/account-interactions-cm.png": {
 		"ft": 32768,
-		"iS": 30527,
+		"iS": 50033,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-interactions-cm.png",
 		"oF": 0,
@@ -467,7 +467,7 @@
 		},
 	"\/imgs\/cm\/account-interactions-cm@2x.png": {
 		"ft": 32768,
-		"iS": 67994,
+		"iS": 124250,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-interactions-cm@2x.png",
 		"oF": 0,
@@ -478,7 +478,7 @@
 		},
 	"\/imgs\/cm\/account-selection-cm.png": {
 		"ft": 32768,
-		"iS": 28918,
+		"iS": 51375,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm.png",
 		"oF": 0,
@@ -489,7 +489,7 @@
 		},
 	"\/imgs\/cm\/account-selection-cm@2x.png": {
 		"ft": 32768,
-		"iS": 77290,
+		"iS": 151515,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/account-selection-cm@2x.png",
 		"oF": 0,
@@ -500,7 +500,7 @@
 		},
 	"\/imgs\/cm\/avatar-dropdown.png": {
 		"ft": 32768,
-		"iS": 37918,
+		"iS": 99174,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown.png",
 		"oF": 0,
@@ -511,7 +511,7 @@
 		},
 	"\/imgs\/cm\/avatar-dropdown@2x.png": {
 		"ft": 32768,
-		"iS": 102483,
+		"iS": 290183,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-dropdown@2x.png",
 		"oF": 0,
@@ -522,7 +522,7 @@
 		},
 	"\/imgs\/cm\/avatar-selection.png": {
 		"ft": 32768,
-		"iS": 13589,
+		"iS": 58794,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection.png",
 		"oF": 0,
@@ -533,7 +533,7 @@
 		},
 	"\/imgs\/cm\/avatar-selection@2x.png": {
 		"ft": 32768,
-		"iS": 53575,
+		"iS": 168235,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/avatar-selection@2x.png",
 		"oF": 0,
@@ -544,7 +544,7 @@
 		},
 	"\/imgs\/cm\/form-details-cm.png": {
 		"ft": 32768,
-		"iS": 10267,
+		"iS": 16568,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm.png",
 		"oF": 0,
@@ -555,7 +555,7 @@
 		},
 	"\/imgs\/cm\/form-details-cm@2x.png": {
 		"ft": 32768,
-		"iS": 21310,
+		"iS": 40566,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/form-details-cm@2x.png",
 		"oF": 0,
@@ -566,7 +566,7 @@
 		},
 	"\/imgs\/cm\/header-cm-titles.png": {
 		"ft": 32768,
-		"iS": 32647,
+		"iS": 74183,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/header-cm-titles.png",
 		"oF": 0,
@@ -577,7 +577,7 @@
 		},
 	"\/imgs\/cm\/header-cm-titles@2x.png": {
 		"ft": 32768,
-		"iS": 78695,
+		"iS": 208120,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/header-cm-titles@2x.png",
 		"oF": 0,
@@ -588,7 +588,7 @@
 		},
 	"\/imgs\/cm\/icons-cm.png": {
 		"ft": 32768,
-		"iS": 6220,
+		"iS": 10554,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm.png",
 		"oF": 0,
@@ -599,7 +599,7 @@
 		},
 	"\/imgs\/cm\/icons-cm@2x.png": {
 		"ft": 32768,
-		"iS": 14043,
+		"iS": 25790,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/icons-cm@2x.png",
 		"oF": 0,
@@ -610,7 +610,7 @@
 		},
 	"\/imgs\/cm\/login-cm.png": {
 		"ft": 32768,
-		"iS": 33985,
+		"iS": 57925,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm.png",
 		"oF": 0,
@@ -621,7 +621,7 @@
 		},
 	"\/imgs\/cm\/login-cm@2x.png": {
 		"ft": 32768,
-		"iS": 90789,
+		"iS": 170408,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/login-cm@2x.png",
 		"oF": 0,
@@ -632,7 +632,7 @@
 		},
 	"\/imgs\/cm\/profile-switch-cm.png": {
 		"ft": 32768,
-		"iS": 104564,
+		"iS": 141688,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm.png",
 		"oF": 0,
@@ -643,7 +643,7 @@
 		},
 	"\/imgs\/cm\/profile-switch-cm@2x.png": {
 		"ft": 32768,
-		"iS": 308198,
+		"iS": 415401,
 		"oA": 0,
 		"oAP": "\/imgs\/cm\/profile-switch-cm@2x.png",
 		"oF": 0,
@@ -664,7 +664,7 @@
 		},
 	"\/imgs\/geores\/animazione_geores-new.gif": {
 		"ft": 4194304,
-		"iS": 724629,
+		"iS": 681949,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/animazione_geores-new.gif",
 		"oF": 0,
@@ -672,7 +672,7 @@
 		},
 	"\/imgs\/geores\/animazione_geores-thumb.jpg": {
 		"ft": 16384,
-		"iS": 2946,
+		"iS": 26760,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/animazione_geores-thumb.jpg",
 		"oF": 0,
@@ -690,7 +690,7 @@
 		},
 	"\/imgs\/geores\/geores-bg-thumb.jpg": {
 		"ft": 16384,
-		"iS": 1951,
+		"iS": 1450,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg-thumb.jpg",
 		"oF": 0,
@@ -700,7 +700,7 @@
 		},
 	"\/imgs\/geores\/geores-bg.jpg": {
 		"ft": 16384,
-		"iS": 245255,
+		"iS": 221321,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg.jpg",
 		"oF": 0,
@@ -741,7 +741,7 @@
 		},
 	"\/imgs\/geores\/geores-car.png": {
 		"ft": 32768,
-		"iS": 1729421,
+		"iS": 651183,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-car.png",
 		"oF": 0,
@@ -824,7 +824,7 @@
 		},
 	"\/imgs\/geores\/geores-departments-thumb.png": {
 		"ft": 32768,
-		"iS": 2493,
+		"iS": 2721,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-thumb.png",
 		"oF": 0,
@@ -845,7 +845,7 @@
 		},
 	"\/imgs\/geores\/geores-departments.png": {
 		"ft": 32768,
-		"iS": 173179,
+		"iS": 162927,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments.png",
 		"oF": 0,
@@ -876,7 +876,7 @@
 		},
 	"\/imgs\/geores\/geores-sections-thumb.jpg": {
 		"ft": 16384,
-		"iS": 27270,
+		"iS": 4159,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections-thumb.jpg",
 		"oF": 0,
@@ -886,7 +886,7 @@
 		},
 	"\/imgs\/geores\/geores-sections.jpg": {
 		"ft": 16384,
-		"iS": 226889,
+		"iS": 194825,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections.jpg",
 		"oF": 0,
@@ -1098,7 +1098,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-fashion-thumb.png": {
 		"ft": 32768,
-		"iS": 30996,
+		"iS": 225969,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion-thumb.png",
 		"oF": 0,
@@ -1130,7 +1130,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design.png": {
 		"ft": 32768,
-		"iS": 8061,
+		"iS": 7543,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design.png",
 		"oF": 0,
@@ -1141,7 +1141,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-frame-design@2x.png": {
 		"ft": 32768,
-		"iS": 10877,
+		"iS": 18473,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-frame-design@2x.png",
 		"oF": 0,
@@ -1262,7 +1262,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-sport-thumb.png": {
 		"ft": 32768,
-		"iS": 21357,
+		"iS": 83478,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport-thumb.png",
 		"oF": 0,
@@ -1294,7 +1294,7 @@
 		},
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png": {
 		"ft": 32768,
-		"iS": 173674,
+		"iS": 545429,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2-thumb.png",
 		"oF": 0,
@@ -1326,7 +1326,7 @@
 		},
 	"\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg": {
 		"ft": 16384,
-		"iS": 2788,
+		"iS": 2192,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg",
 		"oF": 0,
@@ -1336,7 +1336,7 @@
 		},
 	"\/imgs\/theiconicapps\/iconic-ios-sketches.jpg": {
 		"ft": 16384,
-		"iS": 393551,
+		"iS": 380423,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches.jpg",
 		"oF": 0,
@@ -1346,7 +1346,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-cart-thumb.png": {
 		"ft": 32768,
-		"iS": 2171,
+		"iS": 1859,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-cart-thumb.png",
 		"oF": 0,
@@ -1357,7 +1357,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-cart.png": {
 		"ft": 32768,
-		"iS": 156308,
+		"iS": 126385,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-cart.png",
 		"oF": 0,
@@ -1368,7 +1368,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-catalogue-thumb.png": {
 		"ft": 32768,
-		"iS": 3005,
+		"iS": 2673,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-catalogue-thumb.png",
 		"oF": 0,
@@ -1379,7 +1379,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-catalogue.png": {
 		"ft": 32768,
-		"iS": 264894,
+		"iS": 197813,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-catalogue.png",
 		"oF": 0,
@@ -1390,7 +1390,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-filters-thumb.png": {
 		"ft": 32768,
-		"iS": 2202,
+		"iS": 1800,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-filters-thumb.png",
 		"oF": 0,
@@ -1401,7 +1401,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-filters.png": {
 		"ft": 32768,
-		"iS": 152689,
+		"iS": 90156,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-filters.png",
 		"oF": 0,
@@ -1412,7 +1412,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen-thumb.png": {
 		"ft": 32768,
-		"iS": 3639,
+		"iS": 3275,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen-thumb.png",
 		"oF": 0,
@@ -1423,7 +1423,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen.png": {
 		"ft": 32768,
-		"iS": 706633,
+		"iS": 547722,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-launch-screen.png",
 		"oF": 0,
@@ -1434,7 +1434,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-payment-thumb.png": {
 		"ft": 32768,
-		"iS": 1364,
+		"iS": 1090,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-payment-thumb.png",
 		"oF": 0,
@@ -1445,7 +1445,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-payment.png": {
 		"ft": 32768,
-		"iS": 56973,
+		"iS": 32618,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-payment.png",
 		"oF": 0,
@@ -1456,7 +1456,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-product-thumb.png": {
 		"ft": 32768,
-		"iS": 2364,
+		"iS": 2038,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-product-thumb.png",
 		"oF": 0,
@@ -1467,7 +1467,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-product.png": {
 		"ft": 32768,
-		"iS": 245038,
+		"iS": 195570,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-product.png",
 		"oF": 0,
@@ -1478,7 +1478,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-success-thumb.png": {
 		"ft": 32768,
-		"iS": 1817,
+		"iS": 1444,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-success-thumb.png",
 		"oF": 0,
@@ -1489,7 +1489,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-success.png": {
 		"ft": 32768,
-		"iS": 117235,
+		"iS": 74787,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-success.png",
 		"oF": 0,
@@ -1500,7 +1500,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-summary-thumb.png": {
 		"ft": 32768,
-		"iS": 2123,
+		"iS": 1820,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-summary-thumb.png",
 		"oF": 0,
@@ -1511,7 +1511,7 @@
 		},
 	"\/imgs\/theiconicapps\/ios-app-theiconic-summary.png": {
 		"ft": 32768,
-		"iS": 122535,
+		"iS": 83548,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/ios-app-theiconic-summary.png",
 		"oF": 0,
@@ -1522,7 +1522,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg": {
 		"ft": 16384,
-		"iS": 2150,
+		"iS": 1458,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg",
 		"oF": 0,
@@ -1532,7 +1532,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-icons-all.jpg": {
 		"ft": 16384,
-		"iS": 127820,
+		"iS": 109323,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all.jpg",
 		"oF": 0,
@@ -1542,7 +1542,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-icons-big-thumb.jpg": {
 		"ft": 16384,
-		"iS": 1895,
+		"iS": 1220,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big-thumb.jpg",
 		"oF": 0,
@@ -1552,7 +1552,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-icons-big.jpg": {
 		"ft": 16384,
-		"iS": 44286,
+		"iS": 35651,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big.jpg",
 		"oF": 0,
@@ -1562,7 +1562,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-product-page-thumb.jpg": {
 		"ft": 16384,
-		"iS": 5334,
+		"iS": 4635,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page-thumb.jpg",
 		"oF": 0,
@@ -1572,7 +1572,7 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-product-page.jpg": {
 		"ft": 16384,
-		"iS": 539577,
+		"iS": 430602,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page.jpg",
 		"oF": 0,
@@ -1582,23 +1582,23 @@
 		},
 	"\/imgs\/theiconicapps\/theiconic-website-responsive-thumb.png": {
 		"ft": 32768,
-		"iS": 5578,
+		"iS": 3051,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-website-responsive-thumb.png",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"\/imgs\/theiconicapps\/theiconic-website-responsive.png": {
 		"ft": 32768,
-		"iS": 688529,
+		"iS": 232862,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-website-responsive.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1615,7 +1615,7 @@
 		},
 	"\/imgs\/trf\/theright.fit-logo.png": {
 		"ft": 32768,
-		"iS": 14215,
+		"iS": 26235,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/theright.fit-logo.png",
 		"oF": 0,
@@ -1626,7 +1626,7 @@
 		},
 	"\/imgs\/trf\/therightfit-all-icons.png": {
 		"ft": 32768,
-		"iS": 43072,
+		"iS": 69304,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-all-icons.png",
 		"oF": 0,
@@ -1637,7 +1637,7 @@
 		},
 	"\/imgs\/trf\/therightfit-all-icons@2x.png": {
 		"ft": 32768,
-		"iS": 108194,
+		"iS": 173415,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-all-icons@2x.png",
 		"oF": 0,
@@ -1648,7 +1648,7 @@
 		},
 	"\/imgs\/trf\/therightfit-bc.png": {
 		"ft": 32768,
-		"iS": 40086,
+		"iS": 46116,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-bc.png",
 		"oF": 0,
@@ -1659,7 +1659,7 @@
 		},
 	"\/imgs\/trf\/therightfit-bc@2x.png": {
 		"ft": 32768,
-		"iS": 100725,
+		"iS": 116564,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-bc@2x.png",
 		"oF": 0,
@@ -1670,7 +1670,7 @@
 		},
 	"\/imgs\/trf\/therightfit-big-icons.png": {
 		"ft": 32768,
-		"iS": 7069,
+		"iS": 8880,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-big-icons.png",
 		"oF": 0,
@@ -1681,7 +1681,7 @@
 		},
 	"\/imgs\/trf\/therightfit-big-icons@2x.png": {
 		"ft": 32768,
-		"iS": 15987,
+		"iS": 20566,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-big-icons@2x.png",
 		"oF": 0,
@@ -1725,7 +1725,7 @@
 		},
 	"\/imgs\/trf\/therightfit-display.png": {
 		"ft": 32768,
-		"iS": 1165022,
+		"iS": 379483,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-display.png",
 		"oF": 0,
@@ -1736,7 +1736,7 @@
 		},
 	"\/imgs\/trf\/therightfit-grid@2x.png": {
 		"ft": 32768,
-		"iS": 41697,
+		"iS": 91905,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-grid@2x.png",
 		"oF": 0,
@@ -1747,7 +1747,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark.png": {
 		"ft": 32768,
-		"iS": 4763,
+		"iS": 17029,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark.png",
 		"oF": 0,
@@ -1758,7 +1758,7 @@
 		},
 	"\/imgs\/trf\/therightfit-logomark@2x.png": {
 		"ft": 32768,
-		"iS": 10670,
+		"iS": 44087,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-logomark@2x.png",
 		"oF": 0,
@@ -1780,7 +1780,7 @@
 		},
 	"\/imgs\/trf\/therightfit-website.png": {
 		"ft": 32768,
-		"iS": 3604667,
+		"iS": 1059840,
 		"oA": 0,
 		"oAP": "\/imgs\/trf\/therightfit-website.png",
 		"oF": 0,
@@ -1832,7 +1832,7 @@
 		},
 	"\/imgs\/zanui\/zanui-billboard.jpg": {
 		"ft": 16384,
-		"iS": 1073002,
+		"iS": 986750,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard.jpg",
 		"oF": 0,
@@ -1873,7 +1873,7 @@
 		},
 	"\/imgs\/zanui\/zanui-emails.png": {
 		"ft": 32768,
-		"iS": 1638053,
+		"iS": 409773,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-emails.png",
 		"oF": 0,
@@ -2915,7 +2915,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_links_Dark.sass": {
+	"\/sass\/_links_dark.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2923,7 +2923,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_links_Dark.css",
+		"oAP": "\/css\/_links_dark.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
