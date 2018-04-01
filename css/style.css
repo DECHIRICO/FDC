@@ -3,10 +3,7 @@
 /* Colours */
 /* Class Colours */
 .darkgrey {
-  color: #565A5C; }
-
-.lightgrey {
-  color: #B2BFC3; }
+  color: #403C45; }
 
 .white {
   color: #FFF; }
@@ -213,7 +210,7 @@ body {
   font-weight: 400;
   font-family: "Conv_Graphik-Regular", sans-serif;
   font-style: normal;
-  color: #8A9CA8;
+  color: #616161;
   padding-bottom: 60px; }
 
 .no-index {
@@ -270,7 +267,7 @@ h3 {
     line-height: 2.4;
     font-size: 1.1rem;
     font-family: "Conv_Graphik-Medium", sans-serif;
-    color: #8A9CA8; }
+    color: #616161; }
     @media (max-width: 500px) {
       h3.introwork {
         font-size: 1.1rem; } }
@@ -301,20 +298,20 @@ p {
   margin-top: 0px; }
   p > a {
     border-bottom: none;
-    color: #8A9CA8;
+    color: #616161;
     display: inline-block;
     background-position: 0% 110%, 110% 96%, 0% 91%;
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-size: 2px 2px;
     text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#8A9CA8, #8A9CA8); }
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#616161, #616161); }
     p > a:hover {
-      color: #EF5567;
+      color: #6500BD;
       background-position: 0% 110%, 110% 96%, 0% 91%;
       background-repeat: no-repeat, no-repeat, repeat-x;
       background-size: 2px 2px;
       text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-      background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+      background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
 
 .caption {
   padding-bottom: 1%;
@@ -359,7 +356,7 @@ p {
   .company-desc p {
     font-size: 2.3rem;
     line-height: 1.4;
-    color: #8A9CA8;
+    color: #616161;
     margin-bottom: 0px; }
   .company-desc .subject {
     line-height: 3.2; }
@@ -399,11 +396,11 @@ p {
 /* Links
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #FF8F9C;
+  color: #370088;
   border-bottom: none;
   text-decoration: none; }
   a:hover {
-    color: #EF5567; }
+    color: #6500BD; }
 
 /* Buttons
  *–––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -666,20 +663,20 @@ hr {
 
 > a {
   border-bottom: none;
-  color: #8A9CA8;
+  color: #616161;
   display: inline-block;
   background-position: 0% 110%, 110% 96%, 0% 91%;
   background-repeat: no-repeat, no-repeat, repeat-x;
   background-size: 2px 2px;
   text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#8A9CA8, #8A9CA8); }
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#616161, #616161); }
   > a:hover {
-    color: #EF5567;
+    color: #6500BD;
     background-position: 0% 110%, 110% 96%, 0% 91%;
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-size: 2px 2px;
     text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
 
 > a {
   border-bottom: none;
@@ -691,12 +688,12 @@ hr {
   text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
   background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
   > a:hover {
-    color: #EF5567;
+    color: #6500BD;
     background-position: 0% 110%, 110% 96%, 0% 91%;
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-size: 2px 2px;
     text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
-    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
 
 .pil {
   background-color: #F9FAFBe;
@@ -747,16 +744,16 @@ header {
         width: 32.250%;
         margin-left: 2%; } }
     header .split:hover > span {
-      color: #EF5567; }
+      color: #6500BD; }
     header .split.right {
       float: right;
       text-align: right;
-      color: #8A9CA8;
+      color: #616161;
       padding: 15px 10px 0px 0px;
       transform: translateX(100px); }
     header .split.left {
       text-align: left;
-      color: #8A9CA8;
+      color: #616161;
       padding: 15px 0px 0px 10px;
       transform: translateX(-100px); }
   @media (min-width: 500px) {
@@ -801,15 +798,15 @@ header {
         width: 35px;
         height: 35px; }
         header.sticky .francesco_dechirico svg path {
-          fill: #FF8F9C;
+          fill: #370088;
           transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
           header.sticky .francesco_dechirico svg path:hover {
-            fill: #EF5567; }
+            fill: #6500BD; }
     header.sticky h6 {
       font-size: 0.9rem;
       margin-bottom: 0.5%; }
     header.sticky span {
-      color: #565A5C;
+      color: #403C45;
       font-size: 1.6rem; }
 
 .hero {
@@ -831,10 +828,10 @@ header {
       width: 43px;
       height: 43px; }
       .hero .francesco_dechirico svg path {
-        fill: #FF8F9C;
+        fill: #370088;
         transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
         .hero .francesco_dechirico svg path:hover {
-          fill: #EF5567; }
+          fill: #6500BD; }
     .hero .francesco_dechirico h1 {
       margin: 0px;
       text-decoration: none;
@@ -854,16 +851,16 @@ header {
       letter-spacing: -0.5px;
       font-size: 4.2rem;
       line-height: 1.1;
-      color: #565A5C; }
+      color: #403C45; }
       @media (max-width: 500px) {
         .hero .intro h1 {
           font-size: 2.8rem;
           line-height: 1.2; } }
       .hero .intro h1 a {
-        color: #565A5C; }
+        color: #403C45; }
         .hero .intro h1 a:hover {
           border-bottom: none;
-          color: #EF5567;
+          color: #6500BD;
           transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
     .hero .intro h3 {
       letter-spacing: -0.8px;
@@ -877,7 +874,7 @@ header {
           line-height: 1.2; } }
       .hero .intro h3 > a {
         border-bottom: none;
-        color: #565A5C;
+        color: #403C45;
         display: inline-block;
         background-position: 0% 110%, 110% 96%, 0% 91%;
         background-repeat: no-repeat, no-repeat, repeat-x;
@@ -886,12 +883,12 @@ header {
         background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
         .hero .intro h3 > a:hover {
           transition: all 0.2s ease-in-out;
-          color: #EF5567;
+          color: #6500BD;
           background-position: 0% 110%, 110% 96%, 0% 91%;
           background-repeat: no-repeat, no-repeat, repeat-x;
           background-size: 2px 2px;
           text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-          background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+          background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
 
 .works {
   margin-top: 20px;
@@ -927,7 +924,7 @@ header {
       font-size: 0.9rem;
       letter-spacing: 0.1rem;
       background-color: rgba(255, 255, 255, 0.4);
-      padding: 5px 8px 2px 8px;
+      padding: 3px 8px 2px 8px;
       text-align: center;
       display: inline-block;
       line-height: 1.4;
@@ -1016,12 +1013,12 @@ header {
       text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
       background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
       .full.black-iconic p > a:hover {
-        color: #EF5567;
+        color: #6500BD;
         background-position: 0% 110%, 110% 96%, 0% 91%;
         background-repeat: no-repeat, no-repeat, repeat-x;
         background-size: 2px 2px;
         text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
-        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#6500BD, #6500BD); }
     @media (max-width: 550px) {
       .full.black-iconic {
         padding: 8% 0 2% 0; } }
@@ -1119,10 +1116,10 @@ header {
   .timeline span {
     margin: -10px; }
   .timeline a {
-    color: #565A5C;
+    color: #403C45;
     transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
     .timeline a:hover {
-      color: #FF8F9C;
+      color: #370088;
       border-bottom: 1px dashed #B2BFC3; }
   .timeline ul {
     margin: 0 0 0 10px;
@@ -1148,7 +1145,7 @@ header {
       .timeline ul li:first-child:before {
         position: relative;
         left: -3px;
-        background-color: #FF8F9C;
+        background-color: #370088;
         width: 12px;
         height: 12px;
         margin-right: 10px; }
@@ -1159,7 +1156,7 @@ header {
       width: 6px;
       height: 6px;
       border: 2px solid white;
-      background-color: #8A9CA8;
+      background-color: #616161;
       border-radius: 50%;
       margin-right: 16px; }
 
@@ -1198,10 +1195,10 @@ header {
       height: 18px;
       width: 18px; }
       .social ul li svg path {
-        fill: #8A9CA8;
+        fill: #616161;
         transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
       .social ul li svg:hover path {
-        fill: #EF5567; }
+        fill: #6500BD; }
   @media (max-width: 550px) {
     .social ul li {
       padding-right: 6%;
