@@ -301,14 +301,13 @@ p {
   margin-top: 0px; }
   p > a {
     border-bottom: none;
-    color: #565A5C;
+    color: #8A9CA8;
     display: inline-block;
     background-position: 0% 110%, 110% 96%, 0% 91%;
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-size: 2px 2px;
     text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
-    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848);
-    transition: all 0.3s cubic-bezier(0.39, 0.01, 0, 0.99); }
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#8A9CA8, #8A9CA8); }
     p > a:hover {
       color: #EF5567;
       background-position: 0% 110%, 110% 96%, 0% 91%;
@@ -665,6 +664,40 @@ hr {
     transform: translateY(0px);
     opacity: 100%; } }
 
+> a {
+  border-bottom: none;
+  color: #8A9CA8;
+  display: inline-block;
+  background-position: 0% 110%, 110% 96%, 0% 91%;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  background-size: 2px 2px;
+  text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#8A9CA8, #8A9CA8); }
+  > a:hover {
+    color: #EF5567;
+    background-position: 0% 110%, 110% 96%, 0% 91%;
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    background-size: 2px 2px;
+    text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff;
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+
+> a {
+  border-bottom: none;
+  color: #ffffff;
+  display: inline-block;
+  background-position: 0% 110%, 110% 96%, 0% 91%;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  background-size: 2px 2px;
+  text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
+  > a:hover {
+    color: #EF5567;
+    background-position: 0% 110%, 110% 96%, 0% 91%;
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    background-size: 2px 2px;
+    text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
+    background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
+
 .pil {
   background-color: #F9FAFBe;
   position: relative;
@@ -973,6 +1006,22 @@ header {
   .full.black-iconic {
     background-color: #1F1E23;
     padding: 4% 0 0% 0; }
+    .full.black-iconic p > a {
+      border-bottom: none;
+      color: #ffffff;
+      display: inline-block;
+      background-position: 0% 110%, 110% 96%, 0% 91%;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      background-size: 2px 2px;
+      text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
+      background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#484848, #484848); }
+      .full.black-iconic p > a:hover {
+        color: #EF5567;
+        background-position: 0% 110%, 110% 96%, 0% 91%;
+        background-repeat: no-repeat, no-repeat, repeat-x;
+        background-size: 2px 2px;
+        text-shadow: 2px 0 #1F1E23, -2px 0 #1F1E23, 0 2px #1F1E23, 0 -2px #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23, -2px 0 #1F1E23, 2px 0 #1F1E23;
+        background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#EF5567, #EF5567); }
     @media (max-width: 550px) {
       .full.black-iconic {
         padding: 8% 0 2% 0; } }

@@ -10,23 +10,64 @@ html(lang='en')
   body.no-index
     .container
       include includes/logo-works.jade
-    .container.fullonmobile.hide-on-desk
-      img.lazysizes(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
+    //- .container.fullonmobile.hide-on-desk
+    //-   img.lazysizes(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
+    //- .container
+    //-   .row
+    //-     .twelve.columns
+    //-       img.lazysizes.hide-on-mobile(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
+    //-     .twelve.columns.caption.margin-top
+    //-       | Photography by 
+    //-       a(href="http://willhartl.com/", target="_blank") Will Hartl
+            
     .container
       .row
         .eight.columns
-          .twelve.columns
-            img.lazysizes.hide-on-mobile(src="imgs/about-me/francesco-de-chirico.jpg", data-pil-thumb-url="imgs/about-me/francesco-de-chirico-thumb.jpg", data-full-height='492', data-full-width='306', alt='Francesco de Chirico')
-          .twelve.columns.caption.margin-top
-            | Photography by 
-            a(href="http://willhartl.com/", target="_blank") Will Hartl
+          p
+            | Hello, this is Fra — I’m a multidisciplinary designer living in Sydney. The majority of my time is spent designing and building the design team at 
+            a(href="https://www.airtasker.com/", target="_blank") Airtasker
+
+            | . Apart from that, I like working on side projects, advising Startups on how to leverage their product & brand through design and hanging out with my partner, 
+            a(href="https://www.instagram.com/cathryng4745/?hl=en", target="_blank") Cathryn.
+
+          p 
+           | I enjoy working in between the “lines” of branding, product, technology and marketing connecting them together to reach the business goal. Previously, I’ve contributed to and led design teams at 
+           a(href="https://www.campaignmonitor.com/", target="_blank") Campaign Monitor 
+           |, 
+           a(href="http://www.theiconic.com.au/", target="_blank") THE ICONIC
+           |, 
+           a(href="http://www.theiconic.com.au/", target="_blank")  Zanui
+           |, and a number of start-ups and agencies in Europe.
+
+          p For the last few years, I’ve been working on the client side. This new perspective helped me understanding how design shouldn’t be considered as a department that works in a vacuum but as a discipline instead. I believe that to make an impact, design needs to work orthogonally with the rest of the organisation to influence the company direction. 
+
+          p I’m passionate about creating well functioning cross-skilled teams that work together with trust, curiosity and fun to solve tough problems through design. Much of my focus is spent thinking through design systems, Branding, designing interfaces, getting my hands dirty or by mentoring others to achieve great results.
+
+          p 
+            | Prior moving to Australia, I’ve spent a number of years in Rome, London and Madrid working from a variety of clients such as 
+            a(href="www.samsung.com", target="_blank") Samsung
+            |, 
+            a(href="https://saab.com/", target="_blank") Saab
+            |, 
+            a(href="https://www.warnerbros.com/", target="_blank") Warner Bros 
+            |  and 
+            a(href="https://www.sony.com/", target="_blank") Sony
+            |. During the years I’ve held different positions where I worked alongside a number of crazy talented designer and directors. There, is where I’ve developed the need of a multidisciplinary approach — trying to find the link between the Story and the People to create systems that can connect what people want with what the business is trying to accomplish.
+
+          p Prior to that, I’ve been studying industrial design and multimedia communication, exploring materials, technology and experimenting on how to build physical and digital products that people love.  
+
+          p Before designing full-time, I’ve been spending most of my youth sketching comics, painting objects, sculpturing shapes, creating universes with Legos pieces, coding embarrassing website, playing ridiculous amount video games or trying to become a professional football player. Somewhere in there, I’ve found a way of designing things that is probably a consequence of all these experiences and likely enough never feels like a real job. 
+          
           .row
-            .twelve.columns.margin-top
-              h4 I’m a product designer happily living in Sydney, Australia. I am currently a VP of design at Airtasker, leading the product design & brand design teams, previously Product designer at Campaign Monitor, The Iconic, Zanui and various agencies in Europe. 
-          .row
-            .twelve.columns
-              p While a happy, well-functioning team is mission-critical, much of my focus is spent thinking through design systems, designing interfaces, and coding deep into the night.
-              //- p If you'd like me to work with me or simply having a chat, please don't be shy and say hello!
+            .twelve.columns.skills
+                h6.subject Events
+                ul
+                  li 
+                    strong 2013 Vivid Sydney
+                    |  · Portfolio Masterclasses
+                  li 
+                    strong 2012 Apple
+                    |  · Portfolio Masterclasses
           .row
             .twelve.columns.skills
                 h6.subject Education
@@ -38,7 +79,7 @@ html(lang='en')
                     strong Bachelor’s Degree
                     |  in Architecture majoring in Industrial Design
           .row
-            .twelve.columns
+            .twelve.columns.skills
               h6.subject Get in touch
               .row
                 a(href="mailto:hello@francescodechirico.com?subject=Ciao!", target="_blank") hello@francescodechirico.com
@@ -50,7 +91,7 @@ html(lang='en')
                       a(href="https://twitter.com/FDC_DECHIRICO", target="_blank")
                         +twitter
                     li 
-                      a(href="https://medium.com/@FDC_DECHIRICO", target="_blank")
+                      a(href="https://medium.com/@dechirico", target="_blank")
                         +medium
                     li 
                       a(href="https://www.instagram.com/dechiricofrancesco/?hl=en", target="_blank") 
@@ -64,8 +105,9 @@ html(lang='en')
                     li 
                       a(href="https://github.com/DECHIRICO", target="_blank") 
                         +github
+                        
         .four.columns.getintouch
-            .timeline
+            .timeline.margin-top
               ul
                 li.first-child
                   | VP of Design 
@@ -103,4 +145,5 @@ html(lang='en')
                   br
                   | Brivido & Sganascia
                 span.hide-on-mobile#fadeOut
+                  
   script(src='./js/img-loader.js')

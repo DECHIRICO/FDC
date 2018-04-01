@@ -1,4 +1,0 @@
-# To display SVG images
-AddType image/svg+xml svg
-AddType image/svg+xml svgz
-AddEncoding x-gzip .svgz
