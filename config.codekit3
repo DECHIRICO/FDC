@@ -176,6 +176,28 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 233,
+		"oA": 0,
+		"oAP": "\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 386,
+		"oA": 0,
+		"oAP": "\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
