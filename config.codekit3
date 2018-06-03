@@ -7,7 +7,7 @@
 		"uuidString": "17996F36-844A-4709-B270-8EBFAAA832FC"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.css": {
 		"cB": 0,
@@ -415,6 +415,7 @@
 	"\/imgs\/about-me\/francesco-de-chirico-thumb.jpg": {
 		"ft": 16384,
 		"iS": 10687,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico-thumb.jpg",
 		"oF": 0,
@@ -436,6 +437,7 @@
 	"\/imgs\/about-me\/francesco-de-chirico.jpg": {
 		"ft": 16384,
 		"iS": 116170,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/about-me\/francesco-de-chirico.jpg",
 		"oF": 0,
@@ -695,6 +697,7 @@
 	"\/imgs\/geores\/animazione_geores-thumb.jpg": {
 		"ft": 16384,
 		"iS": 26760,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/animazione_geores-thumb.jpg",
 		"oF": 0,
@@ -713,6 +716,7 @@
 	"\/imgs\/geores\/geores-bg-thumb.jpg": {
 		"ft": 16384,
 		"iS": 1450,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg-thumb.jpg",
 		"oF": 0,
@@ -723,6 +727,7 @@
 	"\/imgs\/geores\/geores-bg.jpg": {
 		"ft": 16384,
 		"iS": 221321,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-bg.jpg",
 		"oF": 0,
@@ -733,6 +738,7 @@
 	"\/imgs\/geores\/geores-branding-thumb.jpg": {
 		"ft": 16384,
 		"iS": 1789,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-branding-thumb.jpg",
 		"oF": 0,
@@ -743,6 +749,7 @@
 	"\/imgs\/geores\/geores-branding.jpg": {
 		"ft": 16384,
 		"iS": 80643,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-branding.jpg",
 		"oF": 0,
@@ -775,6 +782,7 @@
 	"\/imgs\/geores\/geores-corporate-identity-thumb.jpg": {
 		"ft": 16384,
 		"iS": 3170,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity-thumb.jpg",
 		"oF": 0,
@@ -796,6 +804,7 @@
 	"\/imgs\/geores\/geores-corporate-identity.jpg": {
 		"ft": 16384,
 		"iS": 161550,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-corporate-identity.jpg",
 		"oF": 0,
@@ -817,6 +826,7 @@
 	"\/imgs\/geores\/geores-departments-new-thumb.jpg": {
 		"ft": 16384,
 		"iS": 2713,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-new-thumb.jpg",
 		"oF": 0,
@@ -827,6 +837,7 @@
 	"\/imgs\/geores\/geores-departments-new.jpg": {
 		"ft": 16384,
 		"iS": 138425,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-new.jpg",
 		"oF": 0,
@@ -837,6 +848,7 @@
 	"\/imgs\/geores\/geores-departments-thumb.jpg": {
 		"ft": 16384,
 		"iS": 2016,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments-thumb.jpg",
 		"oF": 0,
@@ -858,6 +870,7 @@
 	"\/imgs\/geores\/geores-departments.jpg": {
 		"ft": 16384,
 		"iS": 111845,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-departments.jpg",
 		"oF": 0,
@@ -879,6 +892,7 @@
 	"\/imgs\/geores\/geores-notebook-thumb.jpg": {
 		"ft": 16384,
 		"iS": 2858,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-notebook-thumb.jpg",
 		"oF": 0,
@@ -889,6 +903,7 @@
 	"\/imgs\/geores\/geores-notebook.jpg": {
 		"ft": 16384,
 		"iS": 148013,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-notebook.jpg",
 		"oF": 0,
@@ -899,6 +914,7 @@
 	"\/imgs\/geores\/geores-sections-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4159,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections-thumb.jpg",
 		"oF": 0,
@@ -909,6 +925,7 @@
 	"\/imgs\/geores\/geores-sections.jpg": {
 		"ft": 16384,
 		"iS": 194825,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-sections.jpg",
 		"oF": 0,
@@ -919,6 +936,7 @@
 	"\/imgs\/geores\/geores-white-thumb.jpg": {
 		"ft": 16384,
 		"iS": 1345,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-white-thumb.jpg",
 		"oF": 0,
@@ -929,6 +947,7 @@
 	"\/imgs\/geores\/geores-white.jpg": {
 		"ft": 16384,
 		"iS": 33920,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/geores\/geores-white.jpg",
 		"oF": 0,
@@ -939,6 +958,7 @@
 	"\/imgs\/sel-home\/airtasker-mobile-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5121,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-mobile-thumb.jpg",
 		"oF": 0,
@@ -949,6 +969,7 @@
 	"\/imgs\/sel-home\/airtasker-mobile.jpg": {
 		"ft": 16384,
 		"iS": 21532,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-mobile.jpg",
 		"oF": 0,
@@ -959,6 +980,7 @@
 	"\/imgs\/sel-home\/airtasker-thumb.jpg": {
 		"ft": 16384,
 		"iS": 6439,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker-thumb.jpg",
 		"oF": 0,
@@ -969,6 +991,7 @@
 	"\/imgs\/sel-home\/airtasker.jpg": {
 		"ft": 16384,
 		"iS": 31501,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/airtasker.jpg",
 		"oF": 0,
@@ -979,6 +1002,7 @@
 	"\/imgs\/sel-home\/cm-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5758,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/cm-thumb.jpg",
 		"oF": 0,
@@ -989,6 +1013,7 @@
 	"\/imgs\/sel-home\/cm@2x.jpg": {
 		"ft": 16384,
 		"iS": 28430,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/cm@2x.jpg",
 		"oF": 0,
@@ -999,6 +1024,7 @@
 	"\/imgs\/sel-home\/geores-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4704,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores-thumb.jpg",
 		"oF": 0,
@@ -1009,6 +1035,7 @@
 	"\/imgs\/sel-home\/geores@2x.jpg": {
 		"ft": 16384,
 		"iS": 28470,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/geores@2x.jpg",
 		"oF": 0,
@@ -1019,6 +1046,7 @@
 	"\/imgs\/sel-home\/theiconic-thumb.jpg": {
 		"ft": 16384,
 		"iS": 11652,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconic-thumb.jpg",
 		"oF": 0,
@@ -1029,6 +1057,7 @@
 	"\/imgs\/sel-home\/theiconic@2x.jpg": {
 		"ft": 16384,
 		"iS": 95633,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconic@2x.jpg",
 		"oF": 0,
@@ -1039,6 +1068,7 @@
 	"\/imgs\/sel-home\/theiconicapp-thumb.jpg": {
 		"ft": 16384,
 		"iS": 11184,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconicapp-thumb.jpg",
 		"oF": 0,
@@ -1049,6 +1079,7 @@
 	"\/imgs\/sel-home\/theiconicapp@2x.jpg": {
 		"ft": 16384,
 		"iS": 85604,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/theiconicapp@2x.jpg",
 		"oF": 0,
@@ -1059,6 +1090,7 @@
 	"\/imgs\/sel-home\/therightfit-thumb.jpg": {
 		"ft": 16384,
 		"iS": 12631,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit-thumb.jpg",
 		"oF": 0,
@@ -1069,6 +1101,7 @@
 	"\/imgs\/sel-home\/therightfit@2x.jpg": {
 		"ft": 16384,
 		"iS": 171412,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/therightfit@2x.jpg",
 		"oF": 0,
@@ -1079,6 +1112,7 @@
 	"\/imgs\/sel-home\/zanui-thumb.jpg": {
 		"ft": 16384,
 		"iS": 3588,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui-thumb.jpg",
 		"oF": 0,
@@ -1089,6 +1123,7 @@
 	"\/imgs\/sel-home\/zanui@2x.jpg": {
 		"ft": 16384,
 		"iS": 18962,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/sel-home\/zanui@2x.jpg",
 		"oF": 0,
@@ -1132,6 +1167,7 @@
 	"\/imgs\/theiconic\/theiconic-fashion@2x.jpg": {
 		"ft": 16384,
 		"iS": 333350,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-fashion@2x.jpg",
 		"oF": 0,
@@ -1296,6 +1332,7 @@
 	"\/imgs\/theiconic\/theiconic-sport@2x.jpg": {
 		"ft": 16384,
 		"iS": 154582,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-sport@2x.jpg",
 		"oF": 0,
@@ -1328,6 +1365,7 @@
 	"\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.jpg": {
 		"ft": 16384,
 		"iS": 647171,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconic\/theiconic-tvcampaign-2@2x.jpg",
 		"oF": 0,
@@ -1349,6 +1387,7 @@
 	"\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg": {
 		"ft": 16384,
 		"iS": 2192,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches-thumb.jpg",
 		"oF": 0,
@@ -1359,6 +1398,7 @@
 	"\/imgs\/theiconicapps\/iconic-ios-sketches.jpg": {
 		"ft": 16384,
 		"iS": 380423,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/iconic-ios-sketches.jpg",
 		"oF": 0,
@@ -1545,6 +1585,7 @@
 	"\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg": {
 		"ft": 16384,
 		"iS": 1458,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all-thumb.jpg",
 		"oF": 0,
@@ -1555,6 +1596,7 @@
 	"\/imgs\/theiconicapps\/theiconic-icons-all.jpg": {
 		"ft": 16384,
 		"iS": 109323,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-all.jpg",
 		"oF": 0,
@@ -1565,6 +1607,7 @@
 	"\/imgs\/theiconicapps\/theiconic-icons-big-thumb.jpg": {
 		"ft": 16384,
 		"iS": 1220,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big-thumb.jpg",
 		"oF": 0,
@@ -1575,6 +1618,7 @@
 	"\/imgs\/theiconicapps\/theiconic-icons-big.jpg": {
 		"ft": 16384,
 		"iS": 35651,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-icons-big.jpg",
 		"oF": 0,
@@ -1585,6 +1629,7 @@
 	"\/imgs\/theiconicapps\/theiconic-product-page-thumb.jpg": {
 		"ft": 16384,
 		"iS": 4635,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page-thumb.jpg",
 		"oF": 0,
@@ -1595,6 +1640,7 @@
 	"\/imgs\/theiconicapps\/theiconic-product-page.jpg": {
 		"ft": 16384,
 		"iS": 430602,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/theiconicapps\/theiconic-product-page.jpg",
 		"oF": 0,
@@ -1825,6 +1871,7 @@
 	"\/imgs\/zanui\/zanui-artwork-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5694,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork-thumb.jpg",
 		"oF": 0,
@@ -1835,6 +1882,7 @@
 	"\/imgs\/zanui\/zanui-artwork.jpg": {
 		"ft": 16384,
 		"iS": 1219510,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-artwork.jpg",
 		"oF": 0,
@@ -1845,6 +1893,7 @@
 	"\/imgs\/zanui\/zanui-billboard-thumb.jpg": {
 		"ft": 16384,
 		"iS": 5596,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard-thumb.jpg",
 		"oF": 0,
@@ -1855,6 +1904,7 @@
 	"\/imgs\/zanui\/zanui-billboard.jpg": {
 		"ft": 16384,
 		"iS": 986750,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-billboard.jpg",
 		"oF": 0,
@@ -1865,6 +1915,7 @@
 	"\/imgs\/zanui\/zanui-colours-thumb.jpg": {
 		"ft": 16384,
 		"iS": 2941,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours-thumb.jpg",
 		"oF": 0,
@@ -1875,6 +1926,7 @@
 	"\/imgs\/zanui\/zanui-colours.jpg": {
 		"ft": 16384,
 		"iS": 196199,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-colours.jpg",
 		"oF": 0,
@@ -1918,6 +1970,7 @@
 	"\/imgs\/zanui\/zanui-logo-geometric.jpg": {
 		"ft": 16384,
 		"iS": 68542,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-logo-geometric.jpg",
 		"oF": 0,
@@ -1950,6 +2003,7 @@
 	"\/imgs\/zanui\/zanui-stamp-bg.jpg": {
 		"ft": 16384,
 		"iS": 196788,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/imgs\/zanui\/zanui-stamp-bg.jpg",
 		"oF": 0,
@@ -2000,13 +2054,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index.html",
-		"oF": 0
 		},
 	"\/jade\/about.jade": {
 		"cB": 0,
@@ -3066,7 +3113,8 @@
 	"creationDate": 499644640,
 	"displayValue": "FDC",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_teal"
+	"iconImageName": "brackets_teal",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -4869,6 +4917,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
