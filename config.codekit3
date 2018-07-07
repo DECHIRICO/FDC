@@ -2062,123 +2062,6 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/jade\/about.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/about.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/cm.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/cm.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/geores.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/geores.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/includes\/footer-js.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/footer-js.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/includes\/head.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/head.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/includes\/logo-works.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/logo-works.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/includes\/logo.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/logo.html",
-		"oF": 1,
-		"oS": 0
-		},
-	"\/jade\/includes\/social.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/includes\/social.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/index.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/index.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/theiconic-apps.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/theiconic-apps.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/theiconic.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/theiconic.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/trf.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/trf.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/jade\/zanui.jade": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/zanui.html",
-		"oF": 2,
-		"oS": 0
-		},
 	"\/js\/headroom.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2268,6 +2151,123 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/pug\/about.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/about.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/cm.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/cm.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/geores.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/geores.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/includes\/footer-js.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/includes\/footer-js.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/includes\/head.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/includes\/head.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/includes\/logo-works.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/includes\/logo-works.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/includes\/logo.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/includes\/logo.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/includes\/social.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/includes\/social.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/theiconic-apps.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/theiconic-apps.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/theiconic.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/theiconic.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/trf.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/trf.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/pug\/zanui.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/pug\/zanui.html",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/README.md": {
 		"cB": 0,
